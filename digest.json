@@ -1,16 +1,241 @@
 {
- "generatedAt": 1795109570850,
- "generatedAtText": "Thu 19 Nov 2026, 11:03 PM",
- "status": "Couldn't read: Newswire, Daily News, Newsfirst, Daily Mirror (sites blocked by session network settings)",
+ "generatedAt": 1795109950125,
+ "generatedAtText": "Thu 19 Nov 2026, 11:09 PM",
+ "status": "",
  "items": [
   {
    "section": "Top stories",
-   "headline": "No digest today: news sites unreachable",
-   "summary": "The cloud session's network settings block all four news sites, and web search returned no dated articles from the last 24 hours that could be checked. The four domains must be added to the environment's allowed hosts.",
+   "headline": "Kaduwela shop fire kills family of four",
+   "summary": "Four members of one family, two young children among them, died when a fire broke out at an electrical appliances shop in Kaduwela. Reports say a blocked escape route trapped them, and police suspect an electrical fault.",
    "sources": [
-    "Setup"
+    "Newsfirst",
+    "Newswire",
+    "Daily News"
    ],
-   "url": "https://github.com/mohamedzakee/sl-news-digest"
+   "url": "https://english.newsfirst.lk/2026/11/19/blocked-escape-route-leaves-entire-family-dead-in-kaduwela-fire"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Namal Rajapaksa denied bail in Airbus case",
+   "summary": "The Trial-at-Bar refused bail for Namal Rajapaksa, ruling that no exceptional circumstances had been shown, and kept him in remand until 2 December.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Namal-remanded-till-December-2-over-Airbus-case/108-355319"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Eight former EPDP members sentenced to death",
+   "summary": "A court sentenced eight former EPDP members to death for an abduction and murder in Batticaloa in 2008.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/19/eight-ex-epdp-members-sentenced-to-death-in-2008-abduction-and-murder-case"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Poor air quality cancels Jaffna flights",
+   "summary": "Flights from Chennai and Trichy to Jaffna were cancelled after poor air quality cut visibility below safe limits. Air quality also fell in other major cities, with Jaffna at unhealthy levels.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire",
+    "Newsfirst",
+    "Daily News"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/flights-from-chennai-trichy-to-jaffna-cancelled-due-to-poor-air-quality/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Executive officers' strike as union unrest grows",
+   "summary": "Twenty unions of government executive officers plan a one-day strike on 20 November over pay in the 2027 Budget. The GMOA has also warned of action, and teachers plan a Black Day protest on Monday.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Government-executive-officers-to-launch-strike-tomorrow/108-355327"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Activists threaten protests over anti-terror bill",
+   "summary": "Activists and lawyers urged the government to withdraw the proposed Protection of the State from Terrorism Act and to repeal the PTA. Their objections include the bill's 72-hour police detention period.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/activists-warn-of-mass-protests-against-proposed-anti-terrorism-laws/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Graduate teacher interviews postponed",
+   "summary": "Teacher recruitment interviews set for 20 November were postponed in all nine provinces and moved to dates between 26 November and 1 December.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire",
+    "Daily News"
+   ],
+   "url": "https://dailynews.lk/2026/11/19/breaking-news/1051976/teacher-recruitment-interviews-scheduled-for-nov-20-postponed-across-all-provinces/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "NPP-run Soranathota PS budget defeated",
+   "summary": "The budget of the Soranathota Pradeshiya Sabha, which the NPP controls, was voted down.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/NPP-controlled-Soranathota-PS-budget-defeated/108-355332"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Parliament to debate motion on Imran Khan",
+   "summary": "Parliament will debate an Opposition MP's motion calling for the release of Pakistan's former Prime Minister Imran Khan.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/sri-lankan-parliament-to-debate-opposition-mps-motion-seeking-imran-khans-release/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Fitch: Budget 2027 keeps debt-reduction course",
+   "summary": "Fitch said the 2027 Budget supports fiscal discipline, but that delivering the planned investment will be the real test.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business-news/Sri-Lankas-Budget-2027-faces-a-test-of-investment-delivery-Fitch/273-355254"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "CSE rebounds; ASPI back above 21,500",
+   "summary": "The Colombo bourse recovered, with the All Share index climbing back above 21,500.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-500/108-355328"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "National Single Window for trade gazetted",
+   "summary": "The government gazetted a National Single Window for trade that covers 124 product categories.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/sri-lanka-gazettes-national-single-window-for-trade-covering-124-product-categories/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "SLT third-quarter profit up 69%",
+   "summary": "SLT's shareholder profit for the third quarter rose 69% to Rs. 3.7 billion.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business-news/SLT-3Q-shareholder-profit-jumps-69-to-Rs-3-7bn/273-355251"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "71 kg of heroin bound for Sri Lanka seized in Chennai",
+   "summary": "India's DRI seized about 71 kg of heroin meant for Sri Lanka and arrested two people in Chennai, one of the biggest seizures of 2026.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/international/71-kg-of-heroin-bound-for-Sri-Lanka-seized-in-Chennai-among-2026s-biggest-hauls/107-355334"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Monk jailed for eight years over child abuse",
+   "summary": "A Buddhist monk was sentenced to eight years in prison for sexually abusing a minor.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/19/monk-jailed-for-8-years-over-sexual-abuse-of-minor"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Pangolin killing case: three arrested",
+   "summary": "Police arrested three people after a teacher found evidence of a pangolin being killed on a student's phone.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/police-reveal-further-details-of-pangolin-killing-case-after-3-arrests/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "DMT Narahenpita to work by appointment only",
+   "summary": "From 23 November, every service at the Narahenpita head office of the Department of Motor Traffic will need a prior appointment.",
+   "sources": [
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/19/all-services-at-department-of-motor-traffic-narahenpita-head-office-to-operate-strictly-on-prior-appointment-basis-from-the-23rd"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Sea warning as Cyclone Akvan strengthens",
+   "summary": "The Met Department told fishing and naval crews to keep out of the deep seas of the west-central Bay of Bengal. Severe Cyclonic Storm Akvan is expected to reach Andhra Pradesh on 20 November.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Boats-warned-as-Cyclone-Akvan-intensifies/108-355318"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Navy sailors honoured for flood rescue",
+   "summary": "Navy personnel received lifesaving medals for rescuing people from a bus at Kala Oya during the floods.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Naval-personnel-awarded-lifesaving-medals-for-Kala-Oya-bus-rescue/108-355335"
+  },
+  {
+   "section": "Sports",
+   "headline": "Pakistan close in on 2nd Test win",
+   "summary": "Sri Lanka were 309/9 at stumps on day three, 82 runs ahead, after being bowled out for 98 in the first innings. Milan Rathnayake was unbeaten on 60.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Milan-Rathnayake-resists-as-Pakistan-close-in-on-victory/108-355321"
+  },
+  {
+   "section": "Sports",
+   "headline": "SLC responds to ICC hosting-rights reports",
+   "summary": "Sri Lanka Cricket issued a clarification on reports that the country had been left without ICC hosting rights until 2035.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/sri-lanka-denied-icc-hosting-rights-until-2035-slc-issues-clarification/"
+  },
+  {
+   "section": "International",
+   "headline": "ICJ finds Myanmar committed genocide against Rohingya",
+   "summary": "The UN's top court ruled that Myanmar committed genocide against the Rohingya.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/international/UNs-top-court-finds-Myanmar-guilty-of-genocide-against-Rohingya/107-355333"
+  },
+  {
+   "section": "International",
+   "headline": "Houthi strike hits Riyadh skyscraper",
+   "summary": "A Houthi missile attack damaged Riyadh's tallest skyscraper.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Riyadhs-tallest-skyscraper-hit-in-Houthi-strike/108-355322"
+  },
+  {
+   "section": "International",
+   "headline": "Yunus's ancestral home set on fire",
+   "summary": "During ongoing violence in Bangladesh, attackers set fire to the ancestral home of former interim leader Muhammad Yunus.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/19/bangladesh-ex-leader-muhammad-yunuss-ancestral-home-set-ablaze-amid-violence/"
   }
  ]
 }

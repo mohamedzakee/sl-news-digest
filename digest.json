@@ -1,0 +1,16 @@
+{
+ "generatedAt": 1795104930187,
+ "generatedAtText": "setup placeholder",
+ "status": "Setup complete. First digest arrives at about 5:30 PM.",
+ "items": [
+  {
+   "section": "Top stories",
+   "headline": "SL News widget is set up",
+   "summary": "The daily digest will appear here each evening at about 5:30 PM.",
+   "sources": [
+    "Setup"
+   ],
+   "url": "https://github.com/mohamedzakee/sl-news-digest"
+  }
+ ]
+}

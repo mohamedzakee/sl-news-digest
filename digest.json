@@ -1,6 +1,6 @@
 {
- "generatedAt": 1795195771352,
- "generatedAtText": "Fri 20 Nov 2026, 10:59 PM",
+ "generatedAt": 1795196400949,
+ "generatedAtText": "Fri 20 Nov 2026, 11:10 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
@@ -111,6 +111,25 @@
    "url": "https://www.newswire.lk/2026/11/20/temporary-road-closure-at-borellas-d-s-senanayake-junction-from-10pm-today/"
   },
   {
+   "section": "Weather & Disasters",
+   "headline": "Afternoon thundershowers forecast for coming days",
+   "summary": "The Met Department expects afternoon thundershowers mainly in the Western, Sabaragamuwa, North Western, Central and Uva provinces and in Galle and Matara. Most areas should expect misty early mornings.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Afternoon-thundershowers-expected-across-several-parts/108-355415"
+  },
+  {
+   "section": "Sports",
+   "headline": "Sri Lanka to end 2026 without a Test win",
+   "summary": "Pakistan won the Rawalpindi Test by eight wickets, so Sri Lanka will have no Test win in a calendar year for the first time since 1997. The team has now gone eight series in a row without a win.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/20/sri-lankas-cricket-nightmare-8-consecutive-series-without-a-win-no-test-victory-in-29-year-low/"
+  },
+  {
    "section": "International",
    "headline": "UN rights chief urges Imran Khan's release",
    "summary": "The UN human rights chief called for the former Pakistani PM to be freed immediately. Earlier today, Sri Lanka's Parliament rejected a motion on the same issue.",
@@ -118,6 +137,15 @@
     "Newswire"
    ],
    "url": "https://www.newswire.lk/2026/11/20/un-human-rights-chief-calls-for-imran-khans-immediate-release/"
+  },
+  {
+   "section": "International",
+   "headline": "Poland says Russian missile struck its territory",
+   "summary": "Poland said at least one Russian missile hit its southeast during an overnight attack on Ukraine. Investigators are checking three impact sites, and no injuries were reported.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Poland-says-Russian-missile-hit-its-territory-during-attack-on-Ukraine/107-355414"
   }
  ]
 }

@@ -1,241 +1,123 @@
 {
- "generatedAt": 1795176707824,
- "generatedAtText": "Fri 20 Nov 2026, 5:41 PM",
+ "generatedAt": 1795195771352,
+ "generatedAtText": "Fri 20 Nov 2026, 10:59 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "2027 Budget faces Second Reading vote as executive officers strike",
-   "summary": "Parliament votes on the 2027 Budget's Second Reading at 6 PM today after a seven-day debate. Officers from 20 government executive services held a one-day islandwide strike, saying the Budget widens pay gaps.",
+   "headline": "Budget 2027 passes Second Reading by 97 votes",
+   "summary": "Parliament approved the 2027 Budget at Second Reading, 157 votes to 60. The Committee Stage debate starts tomorrow, and the final Third Reading vote is set for 6 PM on 14 December.",
    "sources": [
+    "Newsfirst",
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/20/budget-2027-clears-second-reading-with-massive-97-vote-majority"
+  },
+  {
+   "section": "Top stories",
+   "headline": "SC ruling on Organised Crime Bill reaches Speaker",
+   "summary": "The Supreme Court's determination on the Prevention of Organised Crime Bill, which 26 parties including the BASL had challenged, has gone to the Speaker. It will be announced in Parliament, and its contents have not been made public yet.",
+   "sources": [
+    "Newsfirst",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/20/2027-budget-second-reading-vote-today/"
+   "url": "https://english.newsfirst.lk/2026/11/20/supreme-court-determination-on-organized-crime-bill-handed-to-speaker"
   },
   {
    "section": "Top stories",
-   "headline": "CBSL Governor warns inflation could near 9% by December",
-   "summary": "The Central Bank Governor said inflation may climb to around 9% and stay elevated for months, citing the Middle East conflict and high fuel prices.",
+   "headline": "CBSL tightens vehicle valuation rules for leasing",
+   "summary": "New Central Bank rules say how banks and finance companies must value vehicles for loans and leases, to stop lenders getting around loan-to-value limits. Registered vehicles now need a professional valuer.",
    "sources": [
     "Newswire",
-    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/CBSL-Governor-warns-inflation-could-rise-to-9/108-355397"
+   "url": "https://www.newswire.lk/2026/11/20/new-vehicle-leasing-rules-central-bank-introduces-stricter-requirements/"
   },
   {
    "section": "Top stories",
-   "headline": "GMOA threatens trade union action",
-   "summary": "The Government Medical Officers' Association says its letters seeking talks with the President, PM and Health Minister went unanswered, and warned of trade union action.",
+   "headline": "Maskeliya students update: five still in hospital",
+   "summary": "36 students at a Maskeliya school were admitted with breathing difficulties after breakfast. Thirty have been discharged and five remain in hospital, and the cause has not yet been confirmed.",
    "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/4-letters-to-president-2-to-pm-3-to-health-minister-for-talks-ignored-gmoa-warns-of-tu-action/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "'Rotumba Amila' returned from Russia",
-   "summary": "An alleged underworld and drug-trafficking figure wanted over organised crime was brought back to Sri Lanka from Russia.",
-   "sources": [
-    "Newswire",
-    "Newsfirst",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Underworld-figure-Rotumba-Amila-brought-back-to-Sri-Lanka-from-Russia/108-355364"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Sri Lanka passes 2 million tourists for third year running",
-   "summary": "The country welcomed its two-millionth tourist of 2026, the third consecutive year the milestone has been reached.",
-   "sources": [
-    "Newswire",
-    "Newsfirst",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-welcomes-two-millionth-tourist-of-2026/108-355407"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Imran Khan release motion rejected",
-   "summary": "An opposition MP's adjournment motion urging the release of Pakistan's former PM was blocked, with Pakistan ties cited.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Opposition-MPs-adjournment-motion-calling-for-release-of-Imran-Khan-rejected/108-355399"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "New Immigration Bill cleared by committee",
-   "summary": "A parliamentary oversight committee approved the new Immigration Bill.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-approves-new-Immigration-Bill/108-355378"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Thai Deputy PM visit to bring visa exemption deal",
-   "summary": "Sri Lanka and Thailand are set to sign a visa exemption agreement during the Thai Deputy Prime Minister's visit.",
-   "sources": [
-    "Newswire",
+    "Daily Mirror",
     "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/20/thailand%e2%80%99s-deputy-pm-to-visit-sri-lanka-visa-free-travel-deal-set-to-be-signed"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Committee concerned over domestic gas price hikes",
-   "summary": "A parliamentary committee raised concerns about recent increases in household LP gas prices.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/parliamentary-committee-raises-concerns-over-domestic-gas-price-hikes/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rupee steady against US dollar",
-   "summary": "Central Bank rates showed the rupee broadly unchanged against the dollar.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/cbsl-rates-rupee-steady-against-us-dollar/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Seven new airlines in two years",
-   "summary": "Seven new international carriers have started flying to Sri Lanka over the past two years.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Seven-new-airlines-enter-Sri-Lanka-over-past-two-years/108-355410"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Korea-backed ocean data centre launched",
-   "summary": "A new ocean data centre supported by South Korea aims to improve fishing forecasts.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/sri-lanka-launches-korea-backed-ocean-data-centre-to-improve-fishing-forecasts/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Namal Rajapaksa remanded until Dec 1 in Krrish case",
-   "summary": "Namal Rajapaksa and a former Krrish director were further remanded, and the court ordered an investigation report by December 1.",
-   "sources": [
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/20/namal-rajapaksa-and-former-krrish-director-further-remanded-until-december-1"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Bail denied to Chamara Sampath",
-   "summary": "A Colombo court refused bail to Chamara Sampath Dassanayake in a Rs. 8.4 million bribery case.",
-   "sources": [
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/rs-8-4-million-bribery-case-bail-denied-for-chamara-sampath/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Dozens of Maskeliya students hospitalised",
-   "summary": "Around 36 students from a Maskeliya school were hospitalised with breathing difficulties; Newsfirst reports suspected food poisoning.",
-   "sources": [
-    "Newswire",
-    "Newsfirst",
-    "Daily Mirror"
    ],
    "url": "https://www.dailymirror.lk/breaking-news/Breathing-difficulties-send-36-students-to-hospital/108-355389"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Two sentenced to death over 2013 Hikkaduwa killing",
-   "summary": "A High Court convicted two men of a killing linked to a personal dispute and sentenced them to death.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/20/death-sentence-for-two-men-convicted-of-brutal-killing-in-hikkaduwa"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Afternoon thundershowers forecast",
-   "summary": "Afternoon thundershowers are expected across much of the island over the next few days.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/20/afternoon-thundershowers-expected-across-sri-lanka-over-next-few-days/"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "CEA health advisory on poor air quality",
-   "summary": "Air quality has worsened in several areas, and the Central Environmental Authority issued a health advisory.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/CEA-warns-of-deteriorating-air-quality-in-several-areas/108-355412"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Police target dengue breeding sites",
-   "summary": "Police are acting against mosquito breeding grounds and illegal waste dumping as the rains raise dengue risk.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/20/public-warning-over-dengue-breeding-sites-and-waste-disposal"
-  },
-  {
-   "section": "Sports",
-   "headline": "Pakistan beat Sri Lanka to win Test series 1-0",
-   "summary": "Pakistan won the second Test in Rawalpindi by eight wickets, extending Sri Lanka's run to eight series without a win.",
+   "section": "Top stories",
+   "headline": "Fitch upgrades six Sri Lankan insurers",
+   "summary": "Fitch raised the national ratings of six insurers by one notch after the sovereign rating upgrade. SLIC Life and SLIC General now hold the top AA-(lka) rating.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Pakistan-beat-Sri-Lanka-by-8-wickets-to-win-Test-series-1-0/108-355361"
+   "url": "https://www.dailymirror.lk/business/Fitch-upgrades-six-Sri-Lankan-insurers-after-sovereign-rating-lift/215-355394"
   },
   {
-   "section": "Sports",
-   "headline": "Mahela Jayawardene joins Delhi Capitals",
-   "summary": "The former Sri Lanka captain was appointed Delhi Capitals' director of cricket.",
+   "section": "Politics & Government",
+   "headline": "UNP unveils new logo and Gen Z drive",
+   "summary": "Ranil Wickremesinghe's UNP launched a new logo and new membership categories for Gen Z and millennial supporters.",
    "sources": [
-    "Newswire",
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/20/ranil-unveils-new-logo-as-unp-launches-gen-z-initiative/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Minister says NPP concluded IMF programme professionally",
+   "summary": "Minister Bimal Rathnayake told Parliament that this government is the only one to complete an IMF programme properly, and disputed opposition warnings.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/NPP-only-government-to-professionally-conclude-IMF-Programme-Bimal-Rathnayake/108-355387"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Colombo Port nears 2025 record a month early",
+   "summary": "Transshipment rose 10% year-on-year in October. The port needs about 773,000 more TEUs to pass its 2025 total and could do it in November.",
+   "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Mahela-Jayawardene-appointed-Delhi-Capitals-Director-of-Cricket/108-355369"
+   "url": "https://www.dailymirror.lk/business/Colombo-Port-set-to-break-2025-record-a-month-early-as-transshipment-jumps-10/215-355393"
   },
   {
-   "section": "International",
-   "headline": "Poland says Russian missile hit its territory",
-   "summary": "Poland says at least one Russian missile struck its southeast during an overnight attack on Ukraine; no injuries were reported.",
+   "section": "Economy & Business",
+   "headline": "SriLankan Airlines could break even this year",
+   "summary": "The Deputy Aviation Minister said the airline may break even by the end of 2026. Ministry figures show a Rs. 8.9 billion loss in the first five months.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Poland-says-Russian-missile-hit-its-territory-during-attack-on-Ukraine/108-355414"
+   "url": "https://www.dailymirror.lk/business/SriLankan-could-break-even-by-end-2026-Deputy-Minister/215-355390"
   },
   {
-   "section": "International",
-   "headline": "ICJ rules Myanmar committed genocide against Rohingya",
-   "summary": "The International Court of Justice found Myanmar responsible for genocide against the Rohingya.",
+   "section": "Local / Crime & Courts",
+   "headline": "Ex-tax officer jailed in 15-year-old bribery case",
+   "summary": "A former Inland Revenue assessor was convicted of taking a Rs. 375,000 bribe in 2011 and must serve an effective four years in prison.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/20/15-year-old-case-ends-in-jail-sentence-for-former-tax-officer/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Borella junction closed overnight from 10 PM",
+   "summary": "The D.S. Senanayake junction in Borella is closed temporarily from 10 PM for repairs after a sewer leak caused the road to collapse.",
    "sources": [
     "Newswire",
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/19/icj-myanmar-committed-genocide-against-rohingya"
+   "url": "https://www.newswire.lk/2026/11/20/temporary-road-closure-at-borellas-d-s-senanayake-junction-from-10pm-today/"
   },
   {
    "section": "International",
-   "headline": "FBI team concludes Sri Lanka visit on scam probe",
-   "summary": "FBI and US Justice Department officials wrapped up a week-long visit linked to a scam investigation.",
+   "headline": "UN rights chief urges Imran Khan's release",
+   "summary": "The UN human rights chief called for the former Pakistani PM to be freed immediately. Earlier today, Sri Lanka's Parliament rejected a motion on the same issue.",
    "sources": [
-    "Newswire",
-    "Daily Mirror"
+    "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/FBI-team-visits-Sri-Lanka-for-scam-probe/108-355413"
+   "url": "https://www.newswire.lk/2026/11/20/un-human-rights-chief-calls-for-imran-khans-immediate-release/"
   }
  ]
 }

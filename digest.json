@@ -1,154 +1,88 @@
 {
- "generatedAt": 1795261379123,
- "generatedAtText": "Sat 21 Nov 2026, 5:12 PM",
+ "generatedAt": 1795279400542,
+ "generatedAtText": "Sat 21 Nov 2026, 10:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "6.8 quake in Indian Ocean, no tsunami threat",
-   "summary": "A magnitude 6.8 earthquake struck the Indian Ocean in Indonesian waters around 3:12 PM at a depth of about 156 km. The Department of Meteorology issued a bulletin at 3:30 PM saying Sri Lanka faces no tsunami threat.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/6-8-magnitude-earthquake-strikes-indian-ocean-no-tsunami-threat-to-sri-lanka/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Deduru Oya spill gates opened after heavy rain",
-   "summary": "Four sluice gates were raised by a foot each, releasing about 2,800 cubic feet of water per second. People living downstream are asked to stay alert and watch river levels.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Four-Deduru-Oya-reservoir-gates-opened-due-to-heavy-rains/108-355478"
-  },
-  {
-   "section": "Top stories",
-   "headline": "21 Jaffna University students remanded after clash",
-   "summary": "A dispute between second- and third-year Commerce and Management students turned violent, leaving three hospitalised with cuts. The 21 arrested students were remanded until 26 November by the Jaffna Magistrate.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Dayasiri questions mandatory remand rules",
-   "summary": "In Parliament, MP Dayasiri Jayasekara challenged Anti-Corruption Act provisions that restrict bail once the bribery commission's certificate is filed, citing Namal Rajapaksa's case. He warned the government against using the law against political opponents.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Dayasiri-challenges-mandatory-remand-powers-in-Namals-case/108-355477"
-  },
-  {
-   "section": "Top stories",
-   "headline": "PM denies education cuts in Budget 2027",
-   "summary": "During the Committee Stage debate, PM Harini Amarasuriya rejected opposition claims of reduced education spending. She pointed to wider Suraksha insurance cover and higher Mahapola and student allowances.",
+   "headline": "Teachers' unions call island-wide strike on 30 Nov",
+   "summary": "Several teachers' and principals' unions will hold a one-day national strike on 30 November, saying Budget 2027 failed to fix salary issues. The date is timed ahead of the 1 December debate on the Education Ministry's allocation.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/pm-rejects-claims-of-education-funding-cuts-in-2027-budget/"
+   "url": "https://www.newswire.lk/2026/11/21/teachers-and-principals-unions-announce-island-wide-strike-on-november-30/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "GMOA plans two-hour action on Monday",
+   "summary": "Government doctors will step away from routine duties from noon to 2 PM on Monday, 23 November, to hold branch meetings over pay and allowance grievances left out of Budget 2027. Emergency services will continue.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/21/doctors-announce-two-hour-nationwide-trade-union-action-over-budget-2027/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Third public sector pay rise due in January 2027",
+   "summary": "PM Harini Amarasuriya told Parliament the third phase of salary increases for public servants and teachers will be paid from January 2027. A commission on salary and pension anomalies is due to report in July 2027.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/21/third-salary-increase-for-all-public-servants-and-teachers-in-january-2027-pm/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "SJB MP questions Namal Rajapaksa's continued remand",
+   "summary": "SJB MP Chithral Fernando argued in Parliament that the Bail Act makes bail the rule rather than the exception. He said he respected judicial independence but warned the precedent could affect MPs of any party.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/SJB-MP-questions-Namal-Rajapaksas-continued-remand-cites-Bail-Act/108-355484"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Two tankers hit in Strait of Hormuz",
+   "summary": "British maritime monitors said two tankers were struck by unknown projectiles near Oman, with no casualties reported. Iran separately claimed a tanker caught fire after hitting a naval mine, which could not be verified.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Tankers-hit-in-Strait-of-Hormuz-as-Iran-tightens-grip-on-shipping/107-355486"
   },
   {
    "section": "Politics & Government",
-   "headline": "Over 70 wanted suspects brought back from abroad",
-   "summary": "Public Security Minister Ananda Wijepala said more than 70 organised crime suspects hiding overseas have been repatriated. He spoke at an STF passing-out parade in Katukurunda.",
+   "headline": "Opposition Leader objects to blocked Imran Khan debate",
+   "summary": "Sajith Premadasa criticised the Speaker's rejection of an adjournment motion on former Pakistan PM Imran Khan, which was refused over concerns for ties with Pakistan. He also accused the Speaker of treating government and opposition MPs differently.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/over-70-wanted-criminals-repatriated-to-sri-lanka-minister-says/"
+   "url": "https://www.newswire.lk/2026/11/21/opposition-leader-questions-decision-to-block-debate-on-former-pakistan-pm-imran-khan/"
   },
   {
    "section": "Politics & Government",
-   "headline": "Committee urges EV battery recycling system",
-   "summary": "The Committee on Ways and Means said importers and manufacturers should be made responsible for disposing of used electric vehicle batteries. It also discussed customs delays and EV tax incentives.",
+   "headline": "First Budget 2027 expenditure heads approved",
+   "summary": "On the first day of the committee stage, Parliament approved the 2027 allocations for the President's office, the Legislature and the Judiciary.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-calls-for-proper-recycling-and-disposal-of-electric-vehicle-batteries/108-355480"
+   "url": "https://www.dailymirror.lk/breaking-news/Parliament-approves-2027-expenditure-heads-for-President-legislature-and-judiciary/108-355483"
   },
   {
    "section": "Economy & Business",
-   "headline": "Trade deals and tariffs reviewed in Parliament",
-   "summary": "The same committee reviewed tariff policy and ongoing trade negotiations with the Department of Commerce. It called for feasibility studies on agreements still being negotiated.",
+   "headline": "Rs. 1.66 billion spent on stalled school projects",
+   "summary": "The Committee on Public Accounts found that of 72 education projects started in 2018–2021, only 35 are complete and 20 are stalled over contract disputes. It also reviewed a dropped plan for three national schools per division.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/sri-lankas-tariff-policies-and-trade-agreements-reviewed-by-parliamentary-committee/"
+   "url": "https://www.dailymirror.lk/breaking-news/Rs-1-66-billion-spent-on-72-stalled-education-projects/108-355482"
   },
   {
    "section": "Economy & Business",
-   "headline": "New Colombo apartment complexes planned by 2027",
-   "summary": "The NHDA will work with private developers on new urban housing. Deputy Minister T.B. Sarath inspected state land in Colombo and ordered fixes at the Jana Sevana complex in Dematagoda.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/New-apartment-complexes-planned-for-Colombo-by-2027/108-355481"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Diesel leak at Bloemendhal fuel terminal",
-   "summary": "Diesel leaked from the storage terminal into nearby drains this morning. Residents were seen collecting the spilled fuel in containers.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Diesel-leak-reported-at-Bloemendhal-Fuel-Storage-Terminal/108-355452"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Two feared drowned off Nintavur",
-   "summary": "Two young men went missing while bathing in the sea at Nintavur, and a search is under way.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Two-feared-drowned-while-bathing-in-sea-off-Nintavur/108-355443"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Thalawathugoda scrap yard fire contained",
-   "summary": "The fire at the scrap metal yard reported this morning has been brought under control.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/21/fire-at-thalawathugoda-scrap-yard-brought-under-control"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Lightning warning for 13 districts",
-   "summary": "An amber warning covers Colombo, Gampaha, Kalutara, Kegalle, Nuwara Eliya, Puttalam and Ratnapura, plus parts of six other districts. It stays in force until 1 AM tomorrow.",
+   "headline": "Vehicle import taxes reviewed by committee",
+   "summary": "Parliament's Ways and Means Committee discussed with Customs how to simplify vehicle import taxes, EV incentives and clearance delays. No immediate tax changes were announced.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/weather-lightning-warning-issued-for-13-districts/"
-  },
-  {
-   "section": "Sports",
-   "headline": "Sri Lanka lose Test series in Pakistan",
-   "summary": "Pakistan won the second Test in Rawalpindi by eight wickets to take the series 1-0. Sri Lanka were bowled out for 98 in their first innings.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/sports/Sri-Lankans-return-with-question-marks/244-355471"
-  },
-  {
-   "section": "Sports",
-   "headline": "Trinity in command after Senarathne's 160",
-   "summary": "A big 160 by Senarathne has put Trinity College in a strong position in their school cricket match.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/sports/Senarathnes-magnificent-160-puts-Trinity-in-command/244-355467"
-  },
-  {
-   "section": "International",
-   "headline": "EU and UK sign deal to strengthen post-Brexit ties",
-   "summary": "The European Union and the United Kingdom announced what they called a landmark agreement to deepen relations.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/"
+   "url": "https://www.newswire.lk/2026/11/21/vehicle-import-taxes-under-spotlight-what-parliament-discussed/"
   }
  ]
 }

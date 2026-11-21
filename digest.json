@@ -1,187 +1,154 @@
 {
- "generatedAt": 1795243230185,
- "generatedAtText": "Sat 21 Nov 2026, 12:10 PM",
+ "generatedAt": 1795261379123,
+ "generatedAtText": "Sat 21 Nov 2026, 5:12 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Organised Crime Bill cleared by Supreme Court",
-   "summary": "Speaker Jagath Wickramaratne announced the court's ruling that the Bill is consistent with the Constitution. It can pass with a simple majority if the amendments proposed by the Attorney General and the court are added at Committee Stage.",
+   "headline": "6.8 quake in Indian Ocean, no tsunami threat",
+   "summary": "A magnitude 6.8 earthquake struck the Indian Ocean in Indonesian waters around 3:12 PM at a depth of about 156 km. The Department of Meteorology issued a bulletin at 3:30 PM saying Sri Lanka faces no tsunami threat.",
    "sources": [
-    "Newsfirst",
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Supreme-Court-rules-Prevention-of-Organised-Crime-Bill-consistent-with-Constitution/108-355438"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Budget 2027 Committee Stage debate begins",
-   "summary": "Parliament started the Committee Stage debate today. Minister Ananda Wijepala said the President's expenditure head includes Rs. 34 million for former presidents and Rs. 6.5 billion for Clean Sri Lanka.",
-   "sources": [
-    "Newsfirst",
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Govt-allocates-Rs-34-Million-for-former-presidents-in-2027-Budget-Minister/108-355440"
+   "url": "https://www.newswire.lk/2026/11/21/6-8-magnitude-earthquake-strikes-indian-ocean-no-tsunami-threat-to-sri-lanka/"
   },
   {
    "section": "Top stories",
-   "headline": "Two directors held over alleged Rs. 4bn investment fraud",
-   "summary": "CID financial crimes officers arrested two directors of Kandy- and Kohuwala-based firms accused of taking about Rs. 4 billion from some 2,000 investors with dividend promises that were never kept. They are due before the Nugegoda court.",
+   "headline": "Deduru Oya spill gates opened after heavy rain",
+   "summary": "Four sluice gates were raised by a foot each, releasing about 2,800 cubic feet of water per second. People living downstream are asked to stay alert and watch river levels.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/two-company-directors-arrested-over-alleged-rs-4-billion-fraud/"
+   "url": "https://www.dailymirror.lk/breaking-news/Four-Deduru-Oya-reservoir-gates-opened-due-to-heavy-rains/108-355478"
   },
   {
    "section": "Top stories",
-   "headline": "Landslide warnings for Kandy, Kegalle and Nuwara Eliya",
-   "summary": "The NBRO issued amber warnings for Yatinuwara and Mawanella and a yellow warning for Ambagamuwa, valid until 5 AM tomorrow. More afternoon thundershowers are forecast across most of the island in the coming days.",
+   "headline": "21 Jaffna University students remanded after clash",
+   "summary": "A dispute between second- and third-year Commerce and Management students turned violent, leaving three hospitalised with cuts. The 21 arrested students were remanded until 26 November by the Jaffna Magistrate.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/21/21-students-of-university-of-jaffna-arrested-over-clash"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Dayasiri questions mandatory remand rules",
+   "summary": "In Parliament, MP Dayasiri Jayasekara challenged Anti-Corruption Act provisions that restrict bail once the bribery commission's certificate is filed, citing Namal Rajapaksa's case. He warned the government against using the law against political opponents.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Landslide-warnings-issued-for-three-districts/108-355433"
+   "url": "https://www.dailymirror.lk/breaking-news/Dayasiri-challenges-mandatory-remand-powers-in-Namals-case/108-355477"
   },
   {
    "section": "Top stories",
-   "headline": "Justice Minister explains Chemmani excavation report",
-   "summary": "Harshana Nanayakkara told Parliament that Prof. Raj Somadeva's report is an archaeological assessment, and the cause of death will be decided separately in court. About 574 individuals have been recovered so far, and the government is open to foreign forensic help with DNA work.",
+   "headline": "PM denies education cuts in Budget 2027",
+   "summary": "During the Committee Stage debate, PM Harini Amarasuriya rejected opposition claims of reduced education spending. She pointed to wider Suraksha insurance cover and higher Mahapola and student allowances.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/justice-minister-clarifies-chemmani-report-following-controversy-over-raj-somadevas-findings/"
+   "url": "https://www.newswire.lk/2026/11/21/pm-rejects-claims-of-education-funding-cuts-in-2027-budget/"
   },
   {
    "section": "Politics & Government",
-   "headline": "Thai Deputy PM on four-day visit",
-   "summary": "Thailand's Deputy PM and Foreign Minister Sihasak Phuangketkeow arrived for talks with Sri Lankan leaders and a Buddhist ceremony in Kandy. A visa-free travel deal for ordinary passport holders is expected to be signed.",
+   "headline": "Over 70 wanted suspects brought back from abroad",
+   "summary": "Public Security Minister Ananda Wijepala said more than 70 organised crime suspects hiding overseas have been repatriated. He spoke at an STF passing-out parade in Katukurunda.",
    "sources": [
-    "Newsfirst",
-    "Newswire",
-    "Daily Mirror"
+    "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/thai-deputy-pm-arrives-in-sri-lanka-as-countries-prepare-to-sign-visa-free-travel-agreement/"
+   "url": "https://www.newswire.lk/2026/11/21/over-70-wanted-criminals-repatriated-to-sri-lanka-minister-says/"
   },
   {
    "section": "Politics & Government",
-   "headline": "FBI team meets police and AG's Department",
-   "summary": "Visiting FBI officials discussed cyber fraud, international criminal networks and digital-evidence training with the AG's Department and police units, including the computer crimes unit.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/21/us-fbi-officials-hold-discussions-with-sri-lanka-police-and-ag%e2%80%99s-department-officials"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Human-elephant conflict plan due by 20 December",
-   "summary": "A first draft of the national action plan must go to the parliamentary oversight committee by 20 December, followed by a meeting with stakeholders to finish it.",
+   "headline": "Committee urges EV battery recycling system",
+   "summary": "The Committee on Ways and Means said importers and manufacturers should be made responsible for disposing of used electric vehicle batteries. It also discussed customs delays and EV tax incentives.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Human-elephant-conflict-action-plan-to-be-submitted-by-December-20/108-355439"
+   "url": "https://www.dailymirror.lk/breaking-news/Parliamentary-Committee-calls-for-proper-recycling-and-disposal-of-electric-vehicle-batteries/108-355480"
   },
   {
    "section": "Economy & Business",
-   "headline": "West Asia crisis slows road building",
-   "summary": "Bitumen imports, usually sourced from Iran, have been disrupted, and only limited supplies are coming from India, China, Thailand and Malaysia. The RDA says imported materials make up about 15–20% of the cost of the three expressways proposed in the Budget.",
+   "headline": "Trade deals and tariffs reviewed in Parliament",
+   "summary": "The same committee reviewed tariff policy and ongoing trade negotiations with the Department of Commerce. It called for feasibility studies on agreements still being negotiated.",
    "sources": [
-    "Daily Mirror"
+    "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/West-Asia-crisis-hinders-expressway-construction-in-Sri-Lanka/108-355419"
+   "url": "https://www.newswire.lk/2026/11/21/sri-lankas-tariff-policies-and-trade-agreements-reviewed-by-parliamentary-committee/"
   },
   {
    "section": "Economy & Business",
-   "headline": "Sri Lanka and Tatarstan to deepen trade ties",
-   "summary": "After talks in Kazan, Tatarstan agreed to take part in Sri Lanka Expo 2027 (14–17 January). Talks also covered vehicles, ICT, energy, fertiliser and education.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/sri-lanka-tatarstan-to-boost-economic-ties/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Harmful chemicals in 13 of 16 Boondi samples",
-   "summary": "The Consumer Affairs Authority is taking legal action against the traders. Separately, 21 imported ice cream, milk tea and syrup samples that exceeded microbial limits have been sent for further testing.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/harmful-chemicals-found-in-13-out-of-16-boondi-samples-tested-in-sri-lanka/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Fire at Thalawathugoda scrap metal yard",
-   "summary": "Fire trucks from Colombo, Kotte and Dehiwala-Mount Lavinia were sent to contain a blaze at a scrap metal depot in Polwatta, Thalawathugoda (Pannipitiya).",
-   "sources": [
-    "Newsfirst",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/21/fire-breaks-out-at-scrap-metal-shop-in-thalawathugoda"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "More assets of ex-Matara co-op chief frozen",
-   "summary": "Police suspended the use of two more properties belonging to Chaminda Gunasekara, worth about Rs. 127 million in total, as part of an illegal-assets probe.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/21/police-suspend-use-of-more-properties-linked-to-former-matara-cooperative-chairman"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Appeal Court cuts priest's rape sentence to 13 years",
-   "summary": "The court upheld the conviction of a temple priest for raping a displaced 17-year-old student in Mullaitivu in 2011, but reduced his jail term from 17 to 13 years.",
+   "headline": "New Colombo apartment complexes planned by 2027",
+   "summary": "The NHDA will work with private developers on new urban housing. Deputy Minister T.B. Sarath inspected state land in Colombo and ordered fixes at the Jana Sevana complex in Dematagoda.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Appeal-Court-sets-13-year-jail-term-for-Hindu-Poosari-over-rape-of-war-displaced-student/108-355418"
+   "url": "https://www.dailymirror.lk/breaking-news/New-apartment-complexes-planned-for-Colombo-by-2027/108-355481"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Diesel leak at Bloemendhal fuel terminal",
+   "summary": "Diesel leaked from the storage terminal into nearby drains this morning. Residents were seen collecting the spilled fuel in containers.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Diesel-leak-reported-at-Bloemendhal-Fuel-Storage-Terminal/108-355452"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Two feared drowned off Nintavur",
+   "summary": "Two young men went missing while bathing in the sea at Nintavur, and a search is under way.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Two-feared-drowned-while-bathing-in-sea-off-Nintavur/108-355443"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Thalawathugoda scrap yard fire contained",
+   "summary": "The fire at the scrap metal yard reported this morning has been brought under control.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/21/fire-at-thalawathugoda-scrap-yard-brought-under-control"
   },
   {
    "section": "Weather & Disasters",
-   "headline": "Unhealthy air in seven areas",
-   "summary": "NBRO readings show unhealthy air for sensitive groups in Mannar, Galle Fort, Dambulla, Hambantota, Badulla, Kurunegala and Nuwara Eliya. Newsfirst reports that the NBRO expects air quality to improve today.",
+   "headline": "Lightning warning for 13 districts",
+   "summary": "An amber warning covers Colombo, Gampaha, Kalutara, Kegalle, Nuwara Eliya, Puttalam and Ratnapura, plus parts of six other districts. It stays in force until 1 AM tomorrow.",
    "sources": [
-    "Newswire",
-    "Newsfirst"
+    "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/air-quality-unhealthy-in-7-areas-across-sri-lanka/"
+   "url": "https://www.newswire.lk/2026/11/21/weather-lightning-warning-issued-for-13-districts/"
   },
   {
    "section": "Sports",
-   "headline": "Western Province win National Games table tennis",
-   "summary": "Western Province topped the table tennis event at the 50th National Sports Games in Bandaragama with three golds, ahead of Southern Province.",
+   "headline": "Sri Lanka lose Test series in Pakistan",
+   "summary": "Pakistan won the second Test in Rawalpindi by eight wickets to take the series 1-0. Sri Lanka were bowled out for 98 in their first innings.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/sports/Western-Province-win-table-tennis-title-at-National-Games/244-355422"
+   "url": "https://www.dailymirror.lk/sports/Sri-Lankans-return-with-question-marks/244-355471"
   },
   {
-   "section": "International",
-   "headline": "Trump threatens tax on US firms building AI data centres abroad",
-   "summary": "He warned of a heavy tax on US tech companies that build AI data centres overseas, saying they would otherwise help China, but did not say how it would be enforced.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/trump-threatens-to-penalize-us-tech-companies-that-build-ai-data-centres-in-other-countries/"
-  },
-  {
-   "section": "International",
-   "headline": "FBI crime database breached",
-   "summary": "US media report that the FBI has been hacked again, this time in a breach that targeted its criminal records database.",
+   "section": "Sports",
+   "headline": "Trinity in command after Senarathne's 160",
+   "summary": "A big 160 by Senarathne has put Trinity College in a strong position in their school cricket match.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/The-FBI-was-hacked-again-this-time-the-breach-targeted-its-crime-database/107-355437"
+   "url": "https://www.dailymirror.lk/sports/Senarathnes-magnificent-160-puts-Trinity-in-command/244-355467"
   },
   {
    "section": "International",
-   "headline": "Bolsonaro taken to hospital",
-   "summary": "Brazil's former president Jair Bolsonaro was taken to hospital with abdominal pain.",
+   "headline": "EU and UK sign deal to strengthen post-Brexit ties",
+   "summary": "The European Union and the United Kingdom announced what they called a landmark agreement to deepen relations.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/brazil-ex-president-bolsonaro-taken-to-hospital-over-abdominal-pain/"
+   "url": "https://www.newswire.lk/2026/11/21/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/"
   }
  ]
 }

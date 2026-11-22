@@ -1,134 +1,117 @@
 {
- "generatedAt": 1795347805932,
- "generatedAtText": "Sun 22 Nov 2026, 5:13 PM",
+ "generatedAt": 1795365809539,
+ "generatedAtText": "Sun 22 Nov 2026, 10:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "FBI team wraps up cyber-fraud visit",
-   "summary": "An FBI and US Justice Department team ended a week in Sri Lanka working with the Attorney General's Department and police on scam-centre cases, including evidence from over 80 seized devices. They also trained local investigators, and both sides plan to keep sharing leads.",
+   "headline": "IMF board to review Sri Lanka on Dec 2",
+   "summary": "The IMF Executive Board will take up Sri Lanka's seventh Extended Fund Facility review and Article IV consultation on December 2, a decision that governs release of the next tranche. A staff-level deal was reached in early October.",
    "sources": [
+    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500"
+   "url": "https://english.newsfirst.lk/2026/11/22/imf-board-to-take-up-sri-lanka%e2%80%99s-7th-review-on-december-2"
   },
   {
    "section": "Top stories",
-   "headline": "Two political figures remanded",
-   "summary": "A Sarvajana Balaya activist held in Thambuttegama over alleged links to organised crime was remanded until November 30. Separately, a former SLPP local election candidate from Diyathalawa, caught with 2.4g of crystal meth, was remanded until December 1.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/22/two-political-figures-remanded-in-separate-police-investigations"
-  },
-  {
-   "section": "Top stories",
-   "headline": "776 child sex-abuse complaints in 10 months",
-   "summary": "The National Child Protection Authority logged 776 complaints of sexual offences against children so far this year. They include 192 rape complaints.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/22/776-complaints-of-sexual-offences-against-children-reported-in-10-months"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Arrest in fatal Nawala hit-and-run",
-   "summary": "Police went through more than 100 CCTV recordings and arrested a driver in Horana over the November 10 crash that killed an 80-year-old pedestrian in Nawala. The suspect tested positive for methamphetamine and was remanded until November 27.",
+   "headline": "Sri Lanka, Thailand sign visa-free travel deal",
+   "summary": "The two countries signed an agreement waiving visas for ordinary passport holders during Thai Deputy PM and Foreign Minister Sihasak Phuangketkeow's meeting with President Dissanayake. Talks also covered trade, tourism, investment and agriculture.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/police-examine-over-100-cctv-recordings-to-arrest-driver-in-fatal-nawala-hit-and-run/"
+   "url": "https://www.newswire.lk/2026/11/22/sri-lanka-and-thailand-sign-visa-free-travel-agreement/"
   },
   {
    "section": "Top stories",
-   "headline": "Amber lightning warning for 14 districts",
-   "summary": "The Met Department warned of severe lightning until 11 PM tonight in 14 districts, including Colombo, Kandy, Galle, Kurunegala and Ratnapura.",
+   "headline": "Teachers, principals to report sick on Nov 30",
+   "summary": "A teachers' and principals' union alliance told the Education Ministry its members will take sick leave islandwide on November 30, saying the 2027 Budget failed to settle salary and allowance demands.",
    "sources": [
-    "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/lightning-warning-issued-for-several-districts-until-11-pm/"
+   "url": "https://www.dailymirror.lk/breaking-news/Teachers-principals-to-report-sick-leave-on-November-30/108-355504"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Port fuel leak fouls Mutuwal coastline",
+   "summary": "Marine gas oil leaking from a port tanker and a terminal pipeline flowed through a drain into the sea, polluting more than 3 km of the Mutuwal/Muthuwela coast. The leak has been stopped and the Coast Guard and Ports Authority are using booms to clean up.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Oil-spill-from-Colombo-Port-tanker-pollutes-Muthuwela-coastline/108-355507"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Teen drowns off Bentota",
+   "summary": "A 16-year-old died after five youths got into difficulty about 200 m offshore at Bentota; the Coast Guard rescued the other four.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/16-year-old-drowns-in-bentota-sea-four-others-rescued/"
   },
   {
    "section": "Politics & Government",
-   "headline": "Sajith links weak Motor Show turnout to tight budgets",
-   "summary": "At the Colombo Motor Show, Opposition Leader Sajith Premadasa said attendance was down because ordinary people have little money, even with strong state finances. He also called for local vehicle manufacturing instead of imports.",
+   "headline": "PM urges prevention focus for dental service",
+   "summary": "Marking the Government Dental Service's centenary, PM Harini Amarasuriya called for more emphasis on preventive care, early diagnosis and equal access.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/motor-show-attendance-down-because-people-have-no-money-despite-full-treasury-sajith/"
+   "url": "https://www.dailymirror.lk/breaking-news/Government-Dental-Service-must-focus-more-on-prevention-PM/108-355506"
   },
   {
    "section": "Politics & Government",
-   "headline": "Revised labour law awareness drive begins",
-   "summary": "Provincial awareness programmes on the revised labour laws began today, starting in the Southern Province. Deputy Labour Minister Mahinda Jayasinghe said the changes were first briefed to employers and unions.",
+   "headline": "Deputy minister dismisses critics who lost privileges",
+   "summary": "Fisheries Deputy Minister Rathna Gamage told an Akmeemana gathering not to be swayed by complaints from groups that lost privileges, saying development gains will be shared.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/22/awareness-programmes-on-revised-labour-laws-begin-today"
+   "url": "https://english.newsfirst.lk/2026/11/22/deputy-minister-urges-public-not-to-be-swayed-by-grievances-of-those-who-have-lost-privileges"
   },
   {
-   "section": "Economy & Business",
-   "headline": "Tax returns due November 30",
-   "summary": "The Inland Revenue Department reminded corporate, partnership and individual taxpayers that 2025/26 income tax returns must be filed by November 30 to avoid penalties.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/ird-reminds-taxpayers-of-november-30-tax-return-deadline/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rs. 2.14bn repair of Horton Plains road begins",
-   "summary": "The Road Development Authority started rebuilding the cyclone-damaged Blackpool–Ambewela–Pattipola–Horton Plains road in Nuwara Eliya. Completion is due in March 2028.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/lackpool-horton-plains-road-rehabilitation-begins-at-cost-of-rs-2-14-billion/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Body found in Kollupitiya",
-   "summary": "A man's body with injuries was found near Alfred House Avenue in Kollupitiya. Police have not yet said whether it was a homicide or a suicide.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/body-of-man-found-with-injuries-in-kollupitiya/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Appeal court cuts priest's rape sentence",
-   "summary": "The Court of Appeal upheld a Hindu priest's conviction for the 2011 rape of a 17-year-old in Mullaitivu, but cut his term from 17 to 13 years.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/court-upholds-rape-conviction-of-hindu-priest-reduces-jail-term-from-17-to-13-years/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Child-harassment sentence suspended on appeal",
-   "summary": "The Court of Appeal changed a three-year jail term for a man who harassed an 8-year-old girl when he was 18 into a suspended sentence. It raised the compensation to Rs. 150,000.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/court-suspends-jail-term-of-man-who-sexually-harassed-8-year-old-girl-when-he-was-18/"
-  },
-  {
-   "section": "International",
-   "headline": "Russian cargo ship burning off Finland",
-   "summary": "The Russian freighter Sparta II was still on fire a day after a drone strike in the Baltic. Finland's military believes Ukraine was likely behind it, and all 16 crew were evacuated.",
+   "section": "Politics & Government",
+   "headline": "New Navy Deputy Chief of Staff",
+   "summary": "Rear Admiral Dammika Wijewardana was named Navy Deputy Chief of Staff from today, while keeping his Northern Naval Area and Chief Hydrographer roles.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Russian-cargo-ship-still-on-fire-off-Finland-after-attack/107-355501"
+   "url": "https://www.dailymirror.lk/breaking-news/Rear-Admiral-Dammika-Wijewardana-appointed-Navy-Deputy-Chief-of-Staff/108-355502"
   },
   {
-   "section": "International",
-   "headline": "Nigeria boat accident toll rises to 24",
-   "summary": "The death toll from a boat accident in Nigeria has climbed to 24.",
+   "section": "Local / Crime & Courts",
+   "headline": "Minister awaits post-mortem on tusker Kavantissa",
+   "summary": "Environment Minister Dhammika Patabendi denied saying the tusker died of diarrhoea and said a post-mortem must establish the cause, amid reports of bullet fragments in the animal.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Death-toll-from-Nigeria-boat-accident-rises-to-24/107-355498"
+   "url": "https://www.dailymirror.lk/breaking-news/Kavantissas-cause-of-death-must-be-established-through-post-mortem-Minister/108-355505"
+  },
+  {
+   "section": "Sports",
+   "headline": "Toss mix-up at India A v Pakistan A",
+   "summary": "At the Asia Cup Rising Stars in Doha, the match official first named India A as toss winners, then corrected it to Pakistan A after their captain objected; Pakistan A chose to bat.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/toss-controversy-in-india-pakistan-clash-as-match-official-declares-wrong-winner-video/"
+  },
+  {
+   "section": "International",
+   "headline": "Honda, Toyota recall 1.6m US vehicles",
+   "summary": "The carmakers are recalling about 1.6 million vehicles over Takata airbag inflators that could rupture; no injuries have been reported.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/honda-and-toyota-recall-1-6-million-vehicles-over-dangerous-airbag-risk/"
+  },
+  {
+   "section": "International",
+   "headline": "Titanic hero's postcard fetches £32,000",
+   "summary": "A postcard sent by a Titanic hero to his sister sold at auction for £32,000, a day after a survivor's engagement ring went for £150,000.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Titanic-heros-postcard-to-sister-sells-for-32k/107-355508"
   }
  ]
 }

@@ -1,129 +1,134 @@
 {
- "generatedAt": 1795329775457,
- "generatedAtText": "Sun 22 Nov 2026, 12:12 PM",
+ "generatedAt": 1795347805932,
+ "generatedAtText": "Sun 22 Nov 2026, 5:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Six police DIGs transferred",
-   "summary": "IGP Priyantha Weerasooriya transferred six Deputy Inspectors General with immediate effect, covering Kalutara, Kegalle and Jaffna as well as the CID, Police Welfare and Special Bureau posts. The moves still need National Police Commission approval.",
+   "headline": "FBI team wraps up cyber-fraud visit",
+   "summary": "An FBI and US Justice Department team ended a week in Sri Lanka working with the Attorney General's Department and police on scam-centre cases, including evidence from over 80 seized devices. They also trained local investigators, and both sides plan to keep sharing leads.",
    "sources": [
-    "Newswire",
-    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Six-DIGs-transferred/108-355487"
+   "url": "https://www.dailymirror.lk/breaking-news/FBI-US-Justice-Department-conclude-week-long-visit-to-Sri-Lanka-over-cyber-fraud-investigations/108-355500"
   },
   {
    "section": "Top stories",
-   "headline": "Doctors and workers' groups protest tomorrow",
-   "summary": "The GMOA will step away from routine duties from noon to 2 p.m. on Monday (23 Nov) over Budget 2027; emergency services are exempt. The Workers' Struggle Centre also plans protests at workplaces on Monday, ahead of one- and two-day strikes from 30 Nov.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Workers-protests-planned-for-tomorrow-strikes-on-November-30/108-355489"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Two sentenced to death over 2003 grenade attack",
-   "summary": "The Avissawella High Court sentenced two men to death after a unanimous jury found them guilty over a 2003 grenade blast in Eheliyagoda that killed three people. The attack grew out of a clash between estate groups at a wedding.",
+   "headline": "Two political figures remanded",
+   "summary": "A Sarvajana Balaya activist held in Thambuttegama over alleged links to organised crime was remanded until November 30. Separately, a former SLPP local election candidate from Diyathalawa, caught with 2.4g of crystal meth, was remanded until December 1.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/22/two-accused-sentenced-to-death-following-unanimous-jury-verdict-in-avissawella-high-court"
+   "url": "https://english.newsfirst.lk/2026/11/22/two-political-figures-remanded-in-separate-police-investigations"
   },
   {
    "section": "Top stories",
-   "headline": "Motor Traffic Department website hit by cyber attack",
-   "summary": "The Department of Motor Traffic's website was attacked overnight. The department says its Narahenpita office is not affected and services will run as normal on Monday.",
+   "headline": "776 child sex-abuse complaints in 10 months",
+   "summary": "The National Child Protection Authority logged 776 complaints of sexual offences against children so far this year. They include 192 rape complaints.",
    "sources": [
-    "Newswire"
+    "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/department-of-motor-traffic-website-hit-by-cyber-attack/"
+   "url": "https://english.newsfirst.lk/2026/11/22/776-complaints-of-sexual-offences-against-children-reported-in-10-months"
   },
   {
    "section": "Top stories",
-   "headline": "Minister compares presidential travel bills",
-   "summary": "Minister Nalinda Jayatissa told Parliament that former President Ranil Wickremesinghe spent Rs. 1,010 million on 33 foreign trips in about 26 months. He said President Anura Kumara Dissanayake spent Rs. 31.7 million on eight trips over a similar period.",
+   "headline": "Arrest in fatal Nawala hit-and-run",
+   "summary": "Police went through more than 100 CCTV recordings and arrested a driver in Horana over the November 10 crash that killed an 80-year-old pedestrian in Nawala. The suspect tested positive for methamphetamine and was remanded until November 27.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/rs-1010-million-vs-rs-31-7-million-minister-reveals-foreign-travel-costs-of-ranil-and-akd/"
+   "url": "https://www.newswire.lk/2026/11/22/police-examine-over-100-cctv-recordings-to-arrest-driver-in-fatal-nawala-hit-and-run/"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Police to help keep drugs off university campuses",
-   "summary": "Deputy Education Minister Dr. Madhura Seneviratne says a special programme with the police is being drawn up to stop outsiders bringing drugs into universities.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/22/special-police-programme-to-prevent-drugs-entering-universities"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Divulapitiya e-waste plant's licence suspended",
-   "summary": "The environmental licence of an e-waste facility in Divulapitiya was suspended after a 16 Nov fire there. Environment Minister Dhammika Patabendi called it a precaution against pollution.",
-   "sources": [
-    "Daily Mirror",
-    "Newsfirst"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Divulapitiya-e-waste-facilitys-licence-suspended-after-fire/108-355493"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Jaffna University opens inquiry into student clash",
-   "summary": "The university has started an internal probe into a 19 Nov hostel clash between management students that injured three. The 21 students arrested by Kopay Police are remanded until 26 Nov.",
+   "section": "Top stories",
+   "headline": "Amber lightning warning for 14 districts",
+   "summary": "The Met Department warned of severe lightning until 11 PM tonight in 14 districts, including Colombo, Kandy, Galle, Kurunegala and Ratnapura.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/jaffna-university-launches-probe-into-student-clash-21-remanded/"
+   "url": "https://www.newswire.lk/2026/11/22/lightning-warning-issued-for-several-districts-until-11-pm/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Sajith links weak Motor Show turnout to tight budgets",
+   "summary": "At the Colombo Motor Show, Opposition Leader Sajith Premadasa said attendance was down because ordinary people have little money, even with strong state finances. He also called for local vehicle manufacturing instead of imports.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/motor-show-attendance-down-because-people-have-no-money-despite-full-treasury-sajith/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Revised labour law awareness drive begins",
+   "summary": "Provincial awareness programmes on the revised labour laws began today, starting in the Southern Province. Deputy Labour Minister Mahinda Jayasinghe said the changes were first briefed to employers and unions.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/22/awareness-programmes-on-revised-labour-laws-begin-today"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Tax returns due November 30",
+   "summary": "The Inland Revenue Department reminded corporate, partnership and individual taxpayers that 2025/26 income tax returns must be filed by November 30 to avoid penalties.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/ird-reminds-taxpayers-of-november-30-tax-return-deadline/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rs. 2.14bn repair of Horton Plains road begins",
+   "summary": "The Road Development Authority started rebuilding the cyclone-damaged Blackpool–Ambewela–Pattipola–Horton Plains road in Nuwara Eliya. Completion is due in March 2028.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/lackpool-horton-plains-road-rehabilitation-begins-at-cost-of-rs-2-14-billion/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Three remanded over fake Litro cylinder racket",
-   "summary": "Kotadeniyawa police arrested three people, including a father and son, accused of repainting yellow gas cylinders to pass them off as Litro cylinders. They are remanded until 20 Dec.",
+   "headline": "Body found in Kollupitiya",
+   "summary": "A man's body with injuries was found near Alfred House Avenue in Kollupitiya. Police have not yet said whether it was a homicide or a suicide.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/three-remanded-over-racket-to-turn-yellow-gas-cylinders-into-fake-litro-cylinders/"
+   "url": "https://www.newswire.lk/2026/11/22/body-of-man-found-with-injuries-in-kollupitiya/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Arrest over Borella crossing assault",
-   "summary": "A 37-year-old man was arrested over an assault near the Borella Cemetery roundabout that began with an argument over a horn at a pedestrian crossing.",
+   "headline": "Appeal court cuts priest's rape sentence",
+   "summary": "The Court of Appeal upheld a Hindu priest's conviction for the 2011 rape of a 17-year-old in Mullaitivu, but cut his term from 17 to 13 years.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/suspect-arrested-over-assault-incident-at-borella-pedestrian-crossing/"
+   "url": "https://www.newswire.lk/2026/11/22/court-upholds-rape-conviction-of-hindu-priest-reduces-jail-term-from-17-to-13-years/"
   },
   {
-   "section": "Weather & Disasters",
-   "headline": "Heavy rain of about 75mm expected today",
-   "summary": "Parts of the Central, Sabaragamuwa and Uva provinces and the Galle and Matara districts may get about 75mm of rain. Showers are expected elsewhere, with several spells in the North and East.",
+   "section": "Local / Crime & Courts",
+   "headline": "Child-harassment sentence suspended on appeal",
+   "summary": "The Court of Appeal changed a three-year jail term for a man who harassed an 8-year-old girl when he was 18 into a suspended sentence. It raised the compensation to Rs. 150,000.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/sunday-fairly-heavy-rainfall-of-about-75mm-expected-in-several-areas/"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Russian tourists rescued at Hikkaduwa",
-   "summary": "Police lifesavers rescued two Russian tourists who were swept out by strong currents at Hikkaduwa beach and gave them first aid.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/russian-couple-rescued-after-being-swept-out-to-sea-in-hikkaduwa/"
+   "url": "https://www.newswire.lk/2026/11/22/court-suspends-jail-term-of-man-who-sexually-harassed-8-year-old-girl-when-he-was-18/"
   },
   {
    "section": "International",
-   "headline": "COP31 draft seeks to save climate talks",
-   "summary": "A new draft at the COP31 summit in Antalya drops any explicit call to phase out fossil fuels but recalls the earlier pledge. It also admits for the first time that the world is on track to miss the 1.5C goal.",
+   "headline": "Russian cargo ship burning off Finland",
+   "summary": "The Russian freighter Sparta II was still on fire a day after a drone strike in the Baltic. Finland's military believes Ukraine was likely behind it, and all 16 crew were evacuated.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/New-draft-deal-aims-to-avert-collapse-of-talks-at-climate-summit/107-355492"
+   "url": "https://www.dailymirror.lk/international/Russian-cargo-ship-still-on-fire-off-Finland-after-attack/107-355501"
+  },
+  {
+   "section": "International",
+   "headline": "Nigeria boat accident toll rises to 24",
+   "summary": "The death toll from a boat accident in Nigeria has climbed to 24.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Death-toll-from-Nigeria-boat-accident-rises-to-24/107-355498"
   }
  ]
 }

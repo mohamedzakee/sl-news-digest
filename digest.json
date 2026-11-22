@@ -1,88 +1,129 @@
 {
- "generatedAt": 1795279400542,
- "generatedAtText": "Sat 21 Nov 2026, 10:13 PM",
+ "generatedAt": 1795329775457,
+ "generatedAtText": "Sun 22 Nov 2026, 12:12 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Teachers' unions call island-wide strike on 30 Nov",
-   "summary": "Several teachers' and principals' unions will hold a one-day national strike on 30 November, saying Budget 2027 failed to fix salary issues. The date is timed ahead of the 1 December debate on the Education Ministry's allocation.",
+   "headline": "Six police DIGs transferred",
+   "summary": "IGP Priyantha Weerasooriya transferred six Deputy Inspectors General with immediate effect, covering Kalutara, Kegalle and Jaffna as well as the CID, Police Welfare and Special Bureau posts. The moves still need National Police Commission approval.",
    "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/teachers-and-principals-unions-announce-island-wide-strike-on-november-30/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "GMOA plans two-hour action on Monday",
-   "summary": "Government doctors will step away from routine duties from noon to 2 PM on Monday, 23 November, to hold branch meetings over pay and allowance grievances left out of Budget 2027. Emergency services will continue.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/doctors-announce-two-hour-nationwide-trade-union-action-over-budget-2027/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Third public sector pay rise due in January 2027",
-   "summary": "PM Harini Amarasuriya told Parliament the third phase of salary increases for public servants and teachers will be paid from January 2027. A commission on salary and pension anomalies is due to report in July 2027.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/21/third-salary-increase-for-all-public-servants-and-teachers-in-january-2027-pm/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "SJB MP questions Namal Rajapaksa's continued remand",
-   "summary": "SJB MP Chithral Fernando argued in Parliament that the Bail Act makes bail the rule rather than the exception. He said he respected judicial independence but warned the precedent could affect MPs of any party.",
-   "sources": [
+    "Newswire",
+    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/SJB-MP-questions-Namal-Rajapaksas-continued-remand-cites-Bail-Act/108-355484"
+   "url": "https://www.dailymirror.lk/breaking-news/Six-DIGs-transferred/108-355487"
   },
   {
    "section": "Top stories",
-   "headline": "Two tankers hit in Strait of Hormuz",
-   "summary": "British maritime monitors said two tankers were struck by unknown projectiles near Oman, with no casualties reported. Iran separately claimed a tanker caught fire after hitting a naval mine, which could not be verified.",
+   "headline": "Doctors and workers' groups protest tomorrow",
+   "summary": "The GMOA will step away from routine duties from noon to 2 p.m. on Monday (23 Nov) over Budget 2027; emergency services are exempt. The Workers' Struggle Centre also plans protests at workplaces on Monday, ahead of one- and two-day strikes from 30 Nov.",
    "sources": [
-    "Daily Mirror"
+    "Daily Mirror",
+    "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/international/Tankers-hit-in-Strait-of-Hormuz-as-Iran-tightens-grip-on-shipping/107-355486"
+   "url": "https://www.dailymirror.lk/breaking-news/Workers-protests-planned-for-tomorrow-strikes-on-November-30/108-355489"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Two sentenced to death over 2003 grenade attack",
+   "summary": "The Avissawella High Court sentenced two men to death after a unanimous jury found them guilty over a 2003 grenade blast in Eheliyagoda that killed three people. The attack grew out of a clash between estate groups at a wedding.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/22/two-accused-sentenced-to-death-following-unanimous-jury-verdict-in-avissawella-high-court"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Motor Traffic Department website hit by cyber attack",
+   "summary": "The Department of Motor Traffic's website was attacked overnight. The department says its Narahenpita office is not affected and services will run as normal on Monday.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/department-of-motor-traffic-website-hit-by-cyber-attack/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Minister compares presidential travel bills",
+   "summary": "Minister Nalinda Jayatissa told Parliament that former President Ranil Wickremesinghe spent Rs. 1,010 million on 33 foreign trips in about 26 months. He said President Anura Kumara Dissanayake spent Rs. 31.7 million on eight trips over a similar period.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/rs-1010-million-vs-rs-31-7-million-minister-reveals-foreign-travel-costs-of-ranil-and-akd/"
   },
   {
    "section": "Politics & Government",
-   "headline": "Opposition Leader objects to blocked Imran Khan debate",
-   "summary": "Sajith Premadasa criticised the Speaker's rejection of an adjournment motion on former Pakistan PM Imran Khan, which was refused over concerns for ties with Pakistan. He also accused the Speaker of treating government and opposition MPs differently.",
+   "headline": "Police to help keep drugs off university campuses",
+   "summary": "Deputy Education Minister Dr. Madhura Seneviratne says a special programme with the police is being drawn up to stop outsiders bringing drugs into universities.",
    "sources": [
-    "Newswire"
+    "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/opposition-leader-questions-decision-to-block-debate-on-former-pakistan-pm-imran-khan/"
+   "url": "https://english.newsfirst.lk/2026/11/22/special-police-programme-to-prevent-drugs-entering-universities"
   },
   {
    "section": "Politics & Government",
-   "headline": "First Budget 2027 expenditure heads approved",
-   "summary": "On the first day of the committee stage, Parliament approved the 2027 allocations for the President's office, the Legislature and the Judiciary.",
+   "headline": "Divulapitiya e-waste plant's licence suspended",
+   "summary": "The environmental licence of an e-waste facility in Divulapitiya was suspended after a 16 Nov fire there. Environment Minister Dhammika Patabendi called it a precaution against pollution.",
    "sources": [
-    "Daily Mirror"
+    "Daily Mirror",
+    "Newsfirst"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Parliament-approves-2027-expenditure-heads-for-President-legislature-and-judiciary/108-355483"
+   "url": "https://www.dailymirror.lk/breaking-news/Divulapitiya-e-waste-facilitys-licence-suspended-after-fire/108-355493"
   },
   {
-   "section": "Economy & Business",
-   "headline": "Rs. 1.66 billion spent on stalled school projects",
-   "summary": "The Committee on Public Accounts found that of 72 education projects started in 2018–2021, only 35 are complete and 20 are stalled over contract disputes. It also reviewed a dropped plan for three national schools per division.",
+   "section": "Local / Crime & Courts",
+   "headline": "Jaffna University opens inquiry into student clash",
+   "summary": "The university has started an internal probe into a 19 Nov hostel clash between management students that injured three. The 21 students arrested by Kopay Police are remanded until 26 Nov.",
    "sources": [
+    "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Rs-1-66-billion-spent-on-72-stalled-education-projects/108-355482"
+   "url": "https://www.newswire.lk/2026/11/22/jaffna-university-launches-probe-into-student-clash-21-remanded/"
   },
   {
-   "section": "Economy & Business",
-   "headline": "Vehicle import taxes reviewed by committee",
-   "summary": "Parliament's Ways and Means Committee discussed with Customs how to simplify vehicle import taxes, EV incentives and clearance delays. No immediate tax changes were announced.",
+   "section": "Local / Crime & Courts",
+   "headline": "Three remanded over fake Litro cylinder racket",
+   "summary": "Kotadeniyawa police arrested three people, including a father and son, accused of repainting yellow gas cylinders to pass them off as Litro cylinders. They are remanded until 20 Dec.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/21/vehicle-import-taxes-under-spotlight-what-parliament-discussed/"
+   "url": "https://www.newswire.lk/2026/11/22/three-remanded-over-racket-to-turn-yellow-gas-cylinders-into-fake-litro-cylinders/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Arrest over Borella crossing assault",
+   "summary": "A 37-year-old man was arrested over an assault near the Borella Cemetery roundabout that began with an argument over a horn at a pedestrian crossing.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/suspect-arrested-over-assault-incident-at-borella-pedestrian-crossing/"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Heavy rain of about 75mm expected today",
+   "summary": "Parts of the Central, Sabaragamuwa and Uva provinces and the Galle and Matara districts may get about 75mm of rain. Showers are expected elsewhere, with several spells in the North and East.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/sunday-fairly-heavy-rainfall-of-about-75mm-expected-in-several-areas/"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Russian tourists rescued at Hikkaduwa",
+   "summary": "Police lifesavers rescued two Russian tourists who were swept out by strong currents at Hikkaduwa beach and gave them first aid.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/22/russian-couple-rescued-after-being-swept-out-to-sea-in-hikkaduwa/"
+  },
+  {
+   "section": "International",
+   "headline": "COP31 draft seeks to save climate talks",
+   "summary": "A new draft at the COP31 summit in Antalya drops any explicit call to phase out fossil fuels but recalls the earlier pledge. It also admits for the first time that the world is on track to miss the 1.5C goal.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/New-draft-deal-aims-to-avert-collapse-of-talks-at-climate-summit/107-355492"
   }
  ]
 }

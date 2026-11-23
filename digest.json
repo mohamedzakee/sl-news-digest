@@ -1,220 +1,195 @@
 {
- "generatedAt": 1795416257643,
- "generatedAtText": "Mon 23 Nov 2026, 12:14 PM",
- "status": "Couldn't read: Daily News",
+ "generatedAt": 1795434246306,
+ "generatedAtText": "Mon 23 Nov 2026, 5:14 PM",
+ "status": "",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Unions stage national protest against Budget",
-   "summary": "Public-sector unions representing teachers, principals, doctors, nurses and other staff marked today as a national protest day against the 2027 Budget. They want a Rs. 25,000 interim allowance, and the nurses' association has warned it may strike.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Trade-unions-launch-national-protest-against-Budget/108-355513"
-  },
-  {
-   "section": "Top stories",
-   "headline": "ADB approves $200m for small businesses",
-   "summary": "The Asian Development Bank approved a $200 million package for micro, small and medium enterprises. It combines a policy loan with a credit line that includes $40 million for green lending, and it supports setting up a microfinance regulator.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/adb-approves-200-million-loan-to-boost-msme-financing-and-resilience-in-sri-lanka"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Colombo Port oil spill spreads along coast",
-   "summary": "Containment booms are now in place after marine gas oil leaked from a damaged valve on a port storage tank. The oil has fouled more than 3 km of the Mutuwal coastline, and cleanup is under way with guidance from the Marine Environment Protection Authority.",
-   "sources": [
-    "Newsfirst",
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/oil-containment-barriers-deployed-after-colombo-port-spill"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Ex-US envoy flags scrutiny if GSP is renewed",
-   "summary": "Former US ambassador Robert Blake said Sri Lanka could face human-rights scrutiny if the new Democrat-led Congress renews the GSP trade scheme. He urged Colombo to name a new ambassador, repeal the PTA and push ahead with reconciliation.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/U-S-scrutiny-of-Sri-Lanka-likely-if-GSP-renewal-is-taken-up-Blake/108-355522"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Heavy rain above 75mm forecast in five provinces",
-   "summary": "The Met Department expects heavy showers above 75mm in parts of the Western, Sabaragamuwa, Central, Southern and Uva provinces, as well as in Anuradhapura and Kurunegala districts.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/fairly-heavy-showers-above-75mm-forecast-in-several-provinces/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Budget committee stage enters day two",
-   "summary": "The committee-stage debate continues today on the votes for the Foreign Affairs, Foreign Employment and Tourism ministries. The final third-reading vote is set for December 14.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/committee-stage-debate-of-the-budget-continues-for-second-day-today"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Indian MP says Jaffna projects are stalled",
-   "summary": "Indian MP Thol. Thirumavalavan claimed Colombo is holding back the India-funded KKS harbour and Jaffna airport upgrades. He said he will take the matter up with India's External Affairs Minister.",
+   "headline": "Yoshitha, ex-Navy chief plead not guilty",
+   "summary": "Yoshitha Rajapaksa and former Navy Commander Wasantha Karannagoda pleaded not guilty in the Colombo High Court to bribery commission charges over Rajapaksa's 2006 placement at a British naval college. Further evidence will be taken on December 10.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/India-funded-KKS-Harbour-Jaffna-airport-projects-stalled-claims-Indian-MP/108-355534"
+   "url": "https://www.dailymirror.lk/breaking-news/Yoshitha-former-Navy-Commander-plead-not-guilty-to-corruption-charges/108-355542"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Review of outdated state websites after DMT hack",
-   "summary": "The Digital Economy Ministry is listing government websites that have not been updated in years. This follows a cyberattack on the Department of Motor Traffic site, which has since been restored, and investigations are continuing.",
+   "section": "Top stories",
+   "headline": "Pillayan remanded until December 7",
+   "summary": "The Batticaloa Magistrate's Court kept former state minister Pillayan (Sivanesathurai Chandrakanthan) in remand. The CID has filed action against him and others over five killings in Batticaloa District in 2008.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/23/government-begins-reviewing-outdated-websites-following-dmt-cyberattack"
+   "url": "https://english.newsfirst.lk/2026/11/23/pillayan-remanded-until-december-7-over-batticaloa-murder-cases"
+  },
+  {
+   "section": "Top stories",
+   "headline": "MEPA to seek compensation for port oil spill",
+   "summary": "The Marine Environment Protection Authority will assess the damage from the Jaya Container Terminal diesel leak and claim compensation from those responsible. It says about 95% of the fuel flowing into the sea is now under control.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/colombo-port-oil-leak-mepa-to-seek-compensation-for-environmental-damage/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Labour law overhaul presented to MPs",
+   "summary": "Draft labour reforms covering contracts, working hours, overtime, and maternity and paternity leave were outlined to MPs. Four draft chapters of a Labour Standards Bill are open for public comment, and no law has been passed yet.",
+   "sources": [
+    "Newswire",
+    "Daily News"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/sri-lanka-plans-major-labour-law-reforms-covering-working-hours-overtime-and-employee-rights/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Colombo–Kandy road shut overnight at Kadugannawa",
+   "summary": "The main road at Lower Kadugannawa will be fully closed from 11 PM tonight to 6 AM tomorrow so that rocks at risk of falling can be removed. The DMC advises drivers to use alternative routes.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/colombo-kandy-main-road-to-be-temporarily-closed-at-lower-kadugannawa-tonight/"
   },
   {
    "section": "Politics & Government",
-   "headline": "Minister denies diarrhoea claim on tusker's death",
-   "summary": "Environment Minister Dammika Patabendi said he never attributed the death of the elephant Kawanthissa to diarrhoea. Only the post-mortem report can settle the cause, he said, and he asked the newspaper to issue a correction.",
+   "headline": "Record tourist arrivals forecast for 2026",
+   "summary": "Foreign Minister Vijitha Herath told Parliament that arrivals have passed two million and tourism earned US$2.3 billion by October. He expects close to 2.4 million visitors by year-end, which would be a new record.",
    "sources": [
-    "Newswire"
+    "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/kawanthissas-death-minister-rejects-news-report-attributing-cause-to-diarrhoea/"
+   "url": "https://english.newsfirst.lk/2026/11/23/sri-lanka-on-track-for-record-tourist-arrivals-in-2026-says-foreign-minister"
   },
   {
-   "section": "Economy & Business",
-   "headline": "IRD warns on large cash transactions",
-   "summary": "The Inland Revenue Department warned that cash payments above Rs. 500,000 made outside approved channels may not be deductible for tax. This could raise tax bills on business expenses as well as on land and vehicle deals.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/cash-transactions-above-rs-500000-could-lead-to-higher-tax-liabilities-ird/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Chili importers warned against hoarding",
-   "summary": "The Trade Minister warned importers not to create artificial chili shortages in order to push up prices.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Trade-Minister-warns-chili-importers-against-creating-artificial-shortages-to-gain-undue-profits/108-355530"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rupee edges up against the dollar",
-   "summary": "The rupee gained slightly against the US dollar in today's trading.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/dollar-rate-today-sri-lankan-rupee-appreciates-slightly-against-usd-4/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Road deaths hit 2,463; festive crackdown planned",
-   "summary": "Police will step up island-wide traffic checks before the holidays, with a focus on drink and drug driving. Road deaths from January 1 to November 21 reached 2,463.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Police-to-step-up-traffic-operations-ahead-of-festive-season-as-road-deaths-reach-2-463/108-355527"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Four STF officers hurt as jeep hits train",
-   "summary": "Four Special Task Force officers were injured when their jeep collided with a train at Midigama, near Weligama.",
+   "section": "Politics & Government",
+   "headline": "Opposition presses Govt in budget debate",
+   "summary": "Namal Rajapaksa asked what happened to the US$4 billion Chinese investment announced after the President's China visit. Harsha de Silva proposed an \"Asian Ocean\" concept with Sri Lanka as a regional hub.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/four-stf-officers-injured-after-jeep-collides-with-train-in-midigama/"
+   "url": "https://www.newswire.lk/2026/11/23/namal-questions-govt-on-whereabouts-of-promised-us4-billion-chinese-investment/"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Two fishermen killed by train in Trincomalee",
-   "summary": "Two fishermen died after being struck by a train in Trincomalee.",
+   "section": "Politics & Government",
+   "headline": "Rights group calls anti-terror bill unworkable",
+   "summary": "Justice for All told a parliamentary committee that the proposed Protection of the State from Terrorism Act should be withdrawn. It has also challenged the bill in the Supreme Court.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/two-fishermen-killed-after-being-hit-by-train-in-trincomalee/"
+   "url": "https://www.newswire.lk/2026/11/23/justice-for-all-tells-parliament-proposed-anti-terrorism-bill-is-unworkable/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Sri Lanka and Thailand exchange visa deal",
+   "summary": "President Anura Kumara Dissanayake met Thailand's Deputy Prime Minister, and the two sides exchanged a visa-exemption agreement for ordinary passport holders. Thai reports describe it as allowing stays of up to 30 days.",
+   "sources": [
+    "Daily News"
+   ],
+   "url": "https://dailynews.lk/2026/11/23/local/1052500/president-meets-thai-deputy-pm-as-sri-lanka-thailand-exchange-visa-deal/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Weather in India may lift some import prices",
+   "summary": "The Trade Minister warned that bad weather in India could raise prices of some imported goods. Importers say only dried chillies are affected, because shipments are exceeding the moisture limit.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/prices-of-some-imported-goods-could-rise-due-to-weather-conditions-in-india-minister/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "GSP+ talks led by special committee",
+   "summary": "The Deputy Tourism Minister said a Cabinet-appointed committee is now leading discussions on renewing the EU's GSP+ trade concession.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/sri-lanka-pushes-ahead-with-gsp-discussions"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "FitsAir resumes Colombo–Chennai flights",
+   "summary": "The budget carrier has resumed direct flights between Colombo and Chennai.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/business/FitsAir-resumes-direct-flights-between-Colombo-and-Chennai/215-355552"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Sea mishaps at Mount Lavinia and Hikkaduwa",
-   "summary": "An Indian national drowned at Mount Lavinia beach. In separate incidents, a German tourist and two Russians were rescued from the sea off Hikkaduwa.",
+   "headline": "Chinese nationals fined Rs. 76.4m over Sinharaja",
+   "summary": "Four Chinese nationals admitted to 143 charges of collecting protected wildlife in the Sinharaja buffer zone, and the Kalawana court fined them a total of Rs. 76.4 million. They were caught on November 9 with more than 300 protected animals.",
    "sources": [
-    "Newswire",
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/four-chinese-nationals-fined-rs-76-4-million-over-sinharaja-wildlife-offences/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Heated exchange in Parliament over Ella trees",
+   "summary": "Opposition MP Chamara Sampath Dassanayake alleged that trees near the Ella playground were cut down to clear a hotel's view. Deputy Minister Ruwan Ranasinghe denied this, saying the old trees were a storm risk.",
+   "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/indian-national-dies-following-drowning-incident-at-mount-lavinia-beach/"
+   "url": "https://www.dailymirror.lk/breaking-news/Chamara-Sampath-Deputy-Minister-clash-in-Parliament-over-Ella-tree-felling-allegations/108-355574"
   },
   {
    "section": "Weather & Disasters",
-   "headline": "Probe ordered into mass fish deaths in Kilinochchi",
-   "summary": "A minister ordered an investigation into a large fish die-off at the Kilinochchi tank.",
+   "headline": "Amber lightning warning for 17 districts",
+   "summary": "The warning is in force until 11 PM tonight. It covers all of Colombo, Galle and Ratnapura and parts of Kandy and Puttalam, among other areas.",
    "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Minister-orders-probe-into-mass-fish-death-at-Kilinochchi-Tank/108-355520"
-  },
-  {
-   "section": "Sports",
-   "headline": "Ransilu Jayathilake wins world powerlifting gold",
-   "summary": "The Sri Lankan powerlifter took gold in the 140kg class at the IPL Powerlifting World Championship in Las Vegas.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Ransilu-Jayathilake-wins-gold-at-World-Powerlifting-Championship/108-355537"
-  },
-  {
-   "section": "Sports",
-   "headline": "Avish Silva third in UAE karting round",
-   "summary": "The young driver finished third overall in Round 5 of the IAME Bambino Cup in the UAE.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5"
-  },
-  {
-   "section": "International",
-   "headline": "Climate summit ends without fossil-fuel deal",
-   "summary": "The global climate talks collapsed after countries could not agree on language about moving away from fossil fuels.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/international/Global-climate-summit-collapses-as-countries-fail-to-agree-on-moving-away-from-fossil-fuels/107-355512"
-  },
-  {
-   "section": "International",
-   "headline": "24 killed in Indonesian factory fire",
-   "summary": "Indonesian officials said 24 people died in a factory blaze, and rescuers are still searching for dozens of people who are missing.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing"
-  },
-  {
-   "section": "International",
-   "headline": "S. Korea education chief quits over AI cheating",
-   "summary": "South Korea's education minister resigned after a scandal over AI-assisted cheating in university exams.",
-   "sources": [
-    "Newsfirst",
     "Newswire"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/23/south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+   "url": "https://www.newswire.lk/2026/11/23/amber-lightning-warning-issued-for-17-districts-of-sri-lanka-today/"
   },
   {
-   "section": "International",
-   "headline": "Democrats win largest House majority since 1992",
-   "summary": "US Democrats have won at least 258 House seats, their biggest majority in more than three decades.",
+   "section": "Sports",
+   "headline": "National Sports Games titles decided",
+   "summary": "At the 50th National Sports Games, Central and Southern provinces won the rugby sevens titles. North Western and Western provinces won gold in beach volleyball.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/sports/50th-National-Sports-Games-Central-and-Southern-Provinces-Win-Rugby-Sevens-titles/244-355561"
+  },
+  {
+   "section": "Sports",
+   "headline": "Cricket's rulebook released in Sinhala and Tamil",
+   "summary": "The Laws of Cricket are now available in both local languages.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/23/democrats-clinch-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
+   "url": "https://english.newsfirst.lk/2026/11/23/cricket%e2%80%99s-rulebook-finally-arrives-in-sinhala-and-tamil"
+  },
+  {
+   "section": "International",
+   "headline": "Zelenskyy says Ukraine hit Russian ships off Libya",
+   "summary": "He said naval drones sank the warship Merkury and struck a cargo ship in Benghazi. The UN mission in Libya has called for an independent probe.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst"
+   ],
+   "url": "https://www.dailymirror.lk/international/Zelenskyy-says-Ukraine-behind-drone-attacks-on-Russian-ships-near-Libya/107-355571"
+  },
+  {
+   "section": "International",
+   "headline": "Houthis claim strike on Saudi refinery",
+   "summary": "The Houthis say they hit the Rabigh refinery on the Red Sea coast. The damage is unconfirmed, and Saudi Arabia has not commented.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Houthis-claim-attack-on-Saudi-oil-refinery/107-355563"
+  },
+  {
+   "section": "International",
+   "headline": "Zimbabwe arrests preacher Uebert Angel",
+   "summary": "Police in Zimbabwe arrested the prominent pastor over sexual offence allegations.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/international/Zimbabwean-Pastor-Uebert-Angel-arrested-over-sexual-assault/107-355573"
   }
  ]
 }

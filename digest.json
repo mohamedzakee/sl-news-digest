@@ -1,117 +1,220 @@
 {
- "generatedAt": 1795365809539,
- "generatedAtText": "Sun 22 Nov 2026, 10:13 PM",
+ "generatedAt": 1795416257643,
+ "generatedAtText": "Mon 23 Nov 2026, 12:14 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "IMF board to review Sri Lanka on Dec 2",
-   "summary": "The IMF Executive Board will take up Sri Lanka's seventh Extended Fund Facility review and Article IV consultation on December 2, a decision that governs release of the next tranche. A staff-level deal was reached in early October.",
+   "headline": "Unions stage national protest against Budget",
+   "summary": "Public-sector unions representing teachers, principals, doctors, nurses and other staff marked today as a national protest day against the 2027 Budget. They want a Rs. 25,000 interim allowance, and the nurses' association has warned it may strike.",
    "sources": [
-    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/22/imf-board-to-take-up-sri-lanka%e2%80%99s-7th-review-on-december-2"
+   "url": "https://www.dailymirror.lk/breaking-news/Trade-unions-launch-national-protest-against-Budget/108-355513"
   },
   {
    "section": "Top stories",
-   "headline": "Sri Lanka, Thailand sign visa-free travel deal",
-   "summary": "The two countries signed an agreement waiving visas for ordinary passport holders during Thai Deputy PM and Foreign Minister Sihasak Phuangketkeow's meeting with President Dissanayake. Talks also covered trade, tourism, investment and agriculture.",
+   "headline": "ADB approves $200m for small businesses",
+   "summary": "The Asian Development Bank approved a $200 million package for micro, small and medium enterprises. It combines a policy loan with a credit line that includes $40 million for green lending, and it supports setting up a microfinance regulator.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/adb-approves-200-million-loan-to-boost-msme-financing-and-resilience-in-sri-lanka"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Colombo Port oil spill spreads along coast",
+   "summary": "Containment booms are now in place after marine gas oil leaked from a damaged valve on a port storage tank. The oil has fouled more than 3 km of the Mutuwal coastline, and cleanup is under way with guidance from the Marine Environment Protection Authority.",
+   "sources": [
+    "Newsfirst",
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/oil-containment-barriers-deployed-after-colombo-port-spill"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Ex-US envoy flags scrutiny if GSP is renewed",
+   "summary": "Former US ambassador Robert Blake said Sri Lanka could face human-rights scrutiny if the new Democrat-led Congress renews the GSP trade scheme. He urged Colombo to name a new ambassador, repeal the PTA and push ahead with reconciliation.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/U-S-scrutiny-of-Sri-Lanka-likely-if-GSP-renewal-is-taken-up-Blake/108-355522"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Heavy rain above 75mm forecast in five provinces",
+   "summary": "The Met Department expects heavy showers above 75mm in parts of the Western, Sabaragamuwa, Central, Southern and Uva provinces, as well as in Anuradhapura and Kurunegala districts.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/22/sri-lanka-and-thailand-sign-visa-free-travel-agreement/"
+   "url": "https://www.newswire.lk/2026/11/23/fairly-heavy-showers-above-75mm-forecast-in-several-provinces/"
   },
   {
-   "section": "Top stories",
-   "headline": "Teachers, principals to report sick on Nov 30",
-   "summary": "A teachers' and principals' union alliance told the Education Ministry its members will take sick leave islandwide on November 30, saying the 2027 Budget failed to settle salary and allowance demands.",
+   "section": "Politics & Government",
+   "headline": "Budget committee stage enters day two",
+   "summary": "The committee-stage debate continues today on the votes for the Foreign Affairs, Foreign Employment and Tourism ministries. The final third-reading vote is set for December 14.",
    "sources": [
-    "Daily Mirror"
+    "Newsfirst"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Teachers-principals-to-report-sick-leave-on-November-30/108-355504"
+   "url": "https://english.newsfirst.lk/2026/11/23/committee-stage-debate-of-the-budget-continues-for-second-day-today"
   },
   {
-   "section": "Top stories",
-   "headline": "Port fuel leak fouls Mutuwal coastline",
-   "summary": "Marine gas oil leaking from a port tanker and a terminal pipeline flowed through a drain into the sea, polluting more than 3 km of the Mutuwal/Muthuwela coast. The leak has been stopped and the Coast Guard and Ports Authority are using booms to clean up.",
+   "section": "Politics & Government",
+   "headline": "Indian MP says Jaffna projects are stalled",
+   "summary": "Indian MP Thol. Thirumavalavan claimed Colombo is holding back the India-funded KKS harbour and Jaffna airport upgrades. He said he will take the matter up with India's External Affairs Minister.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Oil-spill-from-Colombo-Port-tanker-pollutes-Muthuwela-coastline/108-355507"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Teen drowns off Bentota",
-   "summary": "A 16-year-old died after five youths got into difficulty about 200 m offshore at Bentota; the Coast Guard rescued the other four.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/16-year-old-drowns-in-bentota-sea-four-others-rescued/"
+   "url": "https://www.dailymirror.lk/breaking-news/India-funded-KKS-Harbour-Jaffna-airport-projects-stalled-claims-Indian-MP/108-355534"
   },
   {
    "section": "Politics & Government",
-   "headline": "PM urges prevention focus for dental service",
-   "summary": "Marking the Government Dental Service's centenary, PM Harini Amarasuriya called for more emphasis on preventive care, early diagnosis and equal access.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Government-Dental-Service-must-focus-more-on-prevention-PM/108-355506"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Deputy minister dismisses critics who lost privileges",
-   "summary": "Fisheries Deputy Minister Rathna Gamage told an Akmeemana gathering not to be swayed by complaints from groups that lost privileges, saying development gains will be shared.",
+   "headline": "Review of outdated state websites after DMT hack",
+   "summary": "The Digital Economy Ministry is listing government websites that have not been updated in years. This follows a cyberattack on the Department of Motor Traffic site, which has since been restored, and investigations are continuing.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/22/deputy-minister-urges-public-not-to-be-swayed-by-grievances-of-those-who-have-lost-privileges"
+   "url": "https://english.newsfirst.lk/2026/11/23/government-begins-reviewing-outdated-websites-following-dmt-cyberattack"
   },
   {
    "section": "Politics & Government",
-   "headline": "New Navy Deputy Chief of Staff",
-   "summary": "Rear Admiral Dammika Wijewardana was named Navy Deputy Chief of Staff from today, while keeping his Northern Naval Area and Chief Hydrographer roles.",
+   "headline": "Minister denies diarrhoea claim on tusker's death",
+   "summary": "Environment Minister Dammika Patabendi said he never attributed the death of the elephant Kawanthissa to diarrhoea. Only the post-mortem report can settle the cause, he said, and he asked the newspaper to issue a correction.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/kawanthissas-death-minister-rejects-news-report-attributing-cause-to-diarrhoea/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "IRD warns on large cash transactions",
+   "summary": "The Inland Revenue Department warned that cash payments above Rs. 500,000 made outside approved channels may not be deductible for tax. This could raise tax bills on business expenses as well as on land and vehicle deals.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/cash-transactions-above-rs-500000-could-lead-to-higher-tax-liabilities-ird/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Chili importers warned against hoarding",
+   "summary": "The Trade Minister warned importers not to create artificial chili shortages in order to push up prices.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Rear-Admiral-Dammika-Wijewardana-appointed-Navy-Deputy-Chief-of-Staff/108-355502"
+   "url": "https://www.dailymirror.lk/breaking-news/Trade-Minister-warns-chili-importers-against-creating-artificial-shortages-to-gain-undue-profits/108-355530"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rupee edges up against the dollar",
+   "summary": "The rupee gained slightly against the US dollar in today's trading.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/dollar-rate-today-sri-lankan-rupee-appreciates-slightly-against-usd-4/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Minister awaits post-mortem on tusker Kavantissa",
-   "summary": "Environment Minister Dhammika Patabendi denied saying the tusker died of diarrhoea and said a post-mortem must establish the cause, amid reports of bullet fragments in the animal.",
+   "headline": "Road deaths hit 2,463; festive crackdown planned",
+   "summary": "Police will step up island-wide traffic checks before the holidays, with a focus on drink and drug driving. Road deaths from January 1 to November 21 reached 2,463.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Kavantissas-cause-of-death-must-be-established-through-post-mortem-Minister/108-355505"
+   "url": "https://www.dailymirror.lk/breaking-news/Police-to-step-up-traffic-operations-ahead-of-festive-season-as-road-deaths-reach-2-463/108-355527"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Four STF officers hurt as jeep hits train",
+   "summary": "Four Special Task Force officers were injured when their jeep collided with a train at Midigama, near Weligama.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/four-stf-officers-injured-after-jeep-collides-with-train-in-midigama/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Two fishermen killed by train in Trincomalee",
+   "summary": "Two fishermen died after being struck by a train in Trincomalee.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/two-fishermen-killed-after-being-hit-by-train-in-trincomalee/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Sea mishaps at Mount Lavinia and Hikkaduwa",
+   "summary": "An Indian national drowned at Mount Lavinia beach. In separate incidents, a German tourist and two Russians were rescued from the sea off Hikkaduwa.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/23/indian-national-dies-following-drowning-incident-at-mount-lavinia-beach/"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Probe ordered into mass fish deaths in Kilinochchi",
+   "summary": "A minister ordered an investigation into a large fish die-off at the Kilinochchi tank.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Minister-orders-probe-into-mass-fish-death-at-Kilinochchi-Tank/108-355520"
   },
   {
    "section": "Sports",
-   "headline": "Toss mix-up at India A v Pakistan A",
-   "summary": "At the Asia Cup Rising Stars in Doha, the match official first named India A as toss winners, then corrected it to Pakistan A after their captain objected; Pakistan A chose to bat.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/toss-controversy-in-india-pakistan-clash-as-match-official-declares-wrong-winner-video/"
-  },
-  {
-   "section": "International",
-   "headline": "Honda, Toyota recall 1.6m US vehicles",
-   "summary": "The carmakers are recalling about 1.6 million vehicles over Takata airbag inflators that could rupture; no injuries have been reported.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/22/honda-and-toyota-recall-1-6-million-vehicles-over-dangerous-airbag-risk/"
-  },
-  {
-   "section": "International",
-   "headline": "Titanic hero's postcard fetches £32,000",
-   "summary": "A postcard sent by a Titanic hero to his sister sold at auction for £32,000, following the sale of a survivor's engagement ring went for £150,000.",
+   "headline": "Ransilu Jayathilake wins world powerlifting gold",
+   "summary": "The Sri Lankan powerlifter took gold in the 140kg class at the IPL Powerlifting World Championship in Las Vegas.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Titanic-heros-postcard-to-sister-sells-for-32k/107-355508"
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-Ransilu-Jayathilake-wins-gold-at-World-Powerlifting-Championship/108-355537"
+  },
+  {
+   "section": "Sports",
+   "headline": "Avish Silva third in UAE karting round",
+   "summary": "The young driver finished third overall in Round 5 of the IAME Bambino Cup in the UAE.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/avish-silva-back-on-the-podium-3rd-overall-at-iame-bambino-cup-uae-round-5"
+  },
+  {
+   "section": "International",
+   "headline": "Climate summit ends without fossil-fuel deal",
+   "summary": "The global climate talks collapsed after countries could not agree on language about moving away from fossil fuels.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Global-climate-summit-collapses-as-countries-fail-to-agree-on-moving-away-from-fossil-fuels/107-355512"
+  },
+  {
+   "section": "International",
+   "headline": "24 killed in Indonesian factory fire",
+   "summary": "Indonesian officials said 24 people died in a factory blaze, and rescuers are still searching for dozens of people who are missing.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/indonesia-says-24-killed-in-factory-blaze-as-rescuers-search-for-dozens-missing"
+  },
+  {
+   "section": "International",
+   "headline": "S. Korea education chief quits over AI cheating",
+   "summary": "South Korea's education minister resigned after a scandal over AI-assisted cheating in university exams.",
+   "sources": [
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/south-korea-education-chief-resigns-amid-ai-cheating-scandal"
+  },
+  {
+   "section": "International",
+   "headline": "Democrats win largest House majority since 1992",
+   "summary": "US Democrats have won at least 258 House seats, their biggest majority in more than three decades.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/23/democrats-clinch-historic-house-majority-of-at-least-258-seats-the-largest-since-1992"
   }
  ]
 }

@@ -1,193 +1,207 @@
 {
- "generatedAt": 1795502622001,
- "generatedAtText": "Tue 24 Nov 2026, 12:13 PM",
- "status": "Couldn't read: Daily News",
+ "generatedAt": 1795520656408,
+ "generatedAtText": "Tue 24 Nov 2026, 5:14 PM",
+ "status": "Daily News site blocked; used search results",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Expert warns PM of unfixed state system flaws",
-   "summary": "Cybersecurity expert Dr Sanjana Hattotuwa wrote to PM Harini Amarasuriya that weaknesses he flagged a month ago at LECO, the Health Ministry and Sri Lanka Police remain open. He warned they could expose payment records, health workers' IDs and confidential police complaints.",
+   "headline": "Cabinet clears US$30m OPEC Fund loan",
+   "summary": "Cabinet approved a US$30 million policy-based loan from the OPEC Fund to back the 'Reforms for Growth, Resilience and Openness' programme, alongside World Bank financing under the same operation.",
    "sources": [
+    "Newsfirst",
+    "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/cybersecurity-flaws-in-key-government-systems-remain-unresolved-expert-warns-pm/"
+   "url": "https://english.newsfirst.lk/2026/11/24/cabinet-greenlights-us-30-million-opec-fund-loan-to-support-sri-lanka%e2%80%99s-structural-reforms"
   },
   {
    "section": "Top stories",
-   "headline": "Imported food prices may rise, minister warns",
-   "summary": "Trade Minister Wasantha Samarasinghe said El Niño-linked weather in India could push up some imported food prices, though importers pledged to keep festive supplies flowing. Dried chilli shipments are held up over moisture limits, and the government says it will impose price controls if traders exploit shortages.",
+   "headline": "GMOA threatens tougher action after Nov 30",
+   "summary": "The doctors' union says the 2027 Budget treats doctors unfairly and is running a week-long awareness campaign over salary deductions. It warns of protests or strikes if the government does not respond by November 30.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Imported-food-prices-may-rise-due-to-El-Niño-effects-in-India-Minister-warns/108-355589"
+   "url": "https://www.dailymirror.lk/breaking-news/GMOA-warns-of-tougher-trade-union-action-if-Government-ignores-demands/108-355637"
   },
   {
    "section": "Top stories",
-   "headline": "Sri Lanka and Thailand talk FTA, visa-free travel",
-   "summary": "Thai Deputy PM and Foreign Minister Sihasak Phuangketkeow met PM Amarasuriya at Temple Trees to push the bilateral free trade agreement. A memorandum signed on 22 November gives Sri Lankan ordinary passport holders 30-day visa-free entry to Thailand.",
+   "headline": "University non-academic staff strike tomorrow",
+   "summary": "University non-academic workers will hold a one-day symbolic strike on November 25 over cuts to allowances and privileges, and plan a two-day strike on December 1–2 if the issue is not resolved.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Thailand-discuss-FTA-and-visa-free-travel/108-355593"
+   "url": "https://www.dailymirror.lk/breaking-news/University-non-academic-staff-to-stage-one-day-strike-tomorrow/108-355636"
   },
   {
    "section": "Top stories",
-   "headline": "Teen killed as car hits Kohuwala bus stop",
-   "summary": "A 16-year-old from Nugegoda died after a car lost control on Monday evening and ploughed into a bus stop, also hitting several vehicles and injuring three others. The 68-year-old driver has been arrested.",
+   "headline": "Teachers plan sick-leave protest on Nov 30",
+   "summary": "Teachers' and principals' unions will report sick on November 30 to press for the remaining two-thirds of their promised salary increase. One faction of the Lanka Teachers' Service Union is staying out.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/16-year-old-dies-after-car-crashes-into-bus-stop-in-kohuwala/"
+   "url": "https://www.dailymirror.lk/breaking-news/Teachers-unions-to-stage-one-day-sick-leave-campaign-on-November-30/108-355604"
   },
   {
    "section": "Top stories",
-   "headline": "Idle Mahaweli lands to be taken back",
-   "summary": "The government will reclaim Mahaweli land where approved projects have not started, Deputy Minister Aravinda Senarath said. Investors will get a grace period first, after which unused plots will be reallocated.",
+   "headline": "ADB approves US$200m for small businesses",
+   "summary": "The Asian Development Bank approved a US$200 million package to help SMEs get credit. Half goes to loans through partner lenders, including US$40 million for green projects, and half is a policy loan to strengthen credit guarantees, reporting and microfinance oversight.",
    "sources": [
-    "Newsfirst"
+    "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government"
+   "url": "https://www.dailymirror.lk/business-news/ADBs-US-200mn-package-to-ease-credit-barriers-for-small-businesses-in-SL/273-355633"
   },
   {
    "section": "Politics & Government",
-   "headline": "Foreign Ministry budget head passed without vote",
-   "summary": "Parliament approved the 2027 allocation for the Foreign Affairs, Foreign Employment and Tourism Ministry at committee stage without amendment or a vote. The Prevention of Foreign Terrorist Fighters Bill also passed without a vote.",
+   "headline": "Marikkar questions Foreign Employment Bureau hires",
+   "summary": "SJB MP S. M. Marikkar told Parliament that several appointees at the Bureau of Foreign Employment lack the required qualifications. He also accused the Deputy Minister's private secretary of interfering in the bureau.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/latest-news/Marikkar-questions-appointments-and-alleged-interference-at-Foreign-Employment-Bureau/342-355605"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Deputy minister: pay demands show trust in govt",
+   "summary": "A health deputy minister said the wave of salary demands reflects public trust that the current government will deliver.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/24/salary-demands-reflect-trust-in-current-government-says-health-deputy-minister"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Sajith urges merit-based cricket selection",
+   "summary": "Opposition Leader Sajith Premadasa told Parliament that players should be picked on runs and wickets, not vague factors like team spirit, and warned against favouritism based on school, family or region.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/dont-drop-performing-cricketers-over-subjective-reasons-sajith/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "UK to help reform Sri Lanka Customs",
+   "summary": "Sri Lanka Customs signed an MoU to receive technical assistance from the United Kingdom as part of a new reform push.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Customs-to-receive-UK-technical-assistance-under-new-MoU/108-355644"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "US$5.1m insulin and blood-thinner contracts",
+   "summary": "Cabinet approved drug deals worth about US$5.1 million: India's M.J. Biopharm will supply about 2.7 million insulin vials, and China's Shenzhen Techdow will supply around 920,000 enoxaparin doses.",
    "sources": [
     "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/foreign-affairs-ministry-budget-head-passed-without-vote/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Hakeem criticises block on Imran Khan debate",
-   "summary": "SLMC leader Rauff Hakeem objected to a decision blocking a debate on former Pakistan PM Imran Khan, recalling Khan's role in Sri Lanka ending forced cremations during COVID-19.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/hakeem-slams-decision-to-block-imran-khan-debate-recalls-his-role-in-ending-sri-lankas-forced-cremations/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Teachers' union presses salary demands",
-   "summary": "Ceylon Teachers' Union General Secretary Joseph Stalin said unions must keep reminding the government of teachers' pending salary demands.",
-   "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Government-must-be-reminded-of-teachers-salary-demands-says-Starlin/108-355600"
+   "url": "https://www.newswire.lk/2026/11/24/sri-lanka-awards-us5-1-million-pharmaceutical-contracts-to-indian-and-chinese-firms/"
   },
   {
    "section": "Economy & Business",
-   "headline": "Govt seeks ways to catch income tax dodgers",
-   "summary": "Senior Economic Adviser Duminda Hulangamuwa admitted many earners, especially professionals and traders, escape income tax. He proposed linking tax, customs, banking and land registry data, though no such system exists yet.",
+   "headline": "India grants Rs. 600m for Puttalam Hospital",
+   "summary": "India will provide Rs. 600 million to develop the Puttalam hospital.",
    "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/not-paying-income-tax-govt-looks-at-ways-to-identify-more-taxpayers/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rs. 500m for northern power transmission line",
-   "summary": "Funds have been allocated for early work on a 400 kV line from Kilinochchi to New Habarana, due by 2030, with US$150 million sought from the AIIB.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Rs-500-million-allocated-for-northern-power-transmission-project/108-355591"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "First national battery testing centre opens",
-   "summary": "A national battery testing centre built with a Rs. 161.5 million investment has been opened.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/first-national-battery-testing-centre-opened-with-rs-161-5-million-investment/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Illegally assembled SUV seized, man arrested",
-   "summary": "Police seized a jeep in Bandarawela that was allegedly imported without duty and assembled locally, and arrested a Gampaha resident in connection.",
-   "sources": [
-    "Newsfirst",
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep"
+   "url": "https://www.dailymirror.lk/breaking-news/India-grants-Rs-600-million-for-Puttalam-Hospital-upgrade/108-355642"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "T-56 and M-16 rounds found in Anguruwathota",
-   "summary": "Police recovered 90 T-56 and 23 M-16 live rounds plus handcuffs hidden at Uduwara, acting on information from a suspect arrested on 20 November.",
+   "section": "Economy & Business",
+   "headline": "Kurunegala–Galewela expressway work starts Dec 1",
+   "summary": "Building the Kurunegala–Galewela section of the Central Expressway starts on December 1. The project will take about 3.5 years, cost over Rs. 240 billion and be paid for from domestic funds, without foreign loans.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota"
+   "url": "https://english.newsfirst.lk/2026/11/24/construction-of-kurunegalagalewela-expressway-section-to-begin-december-1"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Probe ordered into Kilinochchi Tank fish deaths",
-   "summary": "Fisheries Minister Ramalingam Chandrasegar ordered an urgent inquiry after mass deaths of fish and prawns at the tank, with losses to fishing families to be assessed.",
+   "section": "Economy & Business",
+   "headline": "Colombo shares close lower",
+   "summary": "The ASPI and S&P SL20 both ended Tuesday in the red on turnover of just over Rs. 1.1 billion. John Keells Holdings slipped 1.6%.",
    "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/minister-orders-urgent-probe-after-mass-fish-deaths-at-kilinochchi-tank/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Colombo–Kandy road reopens at Kadugannawa",
-   "summary": "The Pahala Kadugannawa stretch reopened this morning after an overnight closure for maintenance.",
-   "sources": [
-    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/24/colombo-kandy-main-road-reopens-after-overnight-closure"
+   "url": "https://www.dailymirror.lk/business-news/Indices-close-in-red/273-355628"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Fake 'British national' held over gold thefts",
+   "summary": "Fort Police arrested a man who allegedly posed as a British national and stole nearly Rs. 2 million worth of gold jewellery from Colombo shops between September and November. Heroin was also found on him.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Man-posing-as-British-national-arrested-over-gold-jewellery-thefts/108-355643"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "284 environmental officers to be recruited",
+   "summary": "The government will recruit 284 environmental officers to fill vacancies across the island.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/24/284-new-environmental-officers-appointed-to-fill-island-wide-vacancies"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "US Embassy shut for two days for Thanksgiving",
+   "summary": "The US Embassy in Colombo will close for two days for the Thanksgiving holiday.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/24/u-s-embassy-announces-two-day-thanksgiving-closure"
   },
   {
    "section": "Weather & Disasters",
-   "headline": "Heavy rain over 75mm in several provinces",
-   "summary": "The Met Department expects heavy falls in parts of Western, Sabaragamuwa, Central and North Western provinces and Galle and Matara districts, with thundershowers after 2 pm. Rough seas and strong winds are likely around much of the coast.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/weather-heavy-rain-expected-in-several-provinces/"
-  },
-  {
-   "section": "Sports",
-   "headline": "SL women face Ireland in Emerging Nations final",
-   "summary": "Sri Lanka and Ireland both went unbeaten into the ICC Women's Emerging Nations Trophy final in Ajman. Sri Lanka A also reached the ACC Rising Stars semi-finals after beating Bangladesh A by seven wickets.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reach-two-knockout-stages-as-UK-lands-2035-World-Cup/108-355586"
-  },
-  {
-   "section": "International",
-   "headline": "Hasina plans 16 December return to Bangladesh",
-   "summary": "Ousted Bangladeshi PM Sheikh Hasina wants to fly home from India on the state carrier, despite Dhaka's vow to arrest her.",
+   "headline": "Amber lightning warning for 24 districts",
+   "summary": "The Met Department warned of a high chance of thunderstorms and lightning this evening and tonight in every district except Jaffna. The warning is valid until 11 PM.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/sheikh-hasina-seeks-to-return-to-bangladesh-on-december-16-on-state-carrier/"
+   "url": "https://www.newswire.lk/2026/11/24/high-risk-of-lightning-strikes-weather-warning-for-24-districts/"
   },
   {
-   "section": "International",
-   "headline": "Oil falls to three-month low",
-   "summary": "Crude prices slid on higher Middle East supply and the restart of a Libyan pipeline.",
+   "section": "Weather & Disasters",
+   "headline": "Air quality improves sharply",
+   "summary": "The Central Environmental Authority says the Air Quality Index has fallen from nearly 200 to around 50 now that smoke drifting in from India has cleared.",
    "sources": [
-    "Newswire"
+    "Daily News"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/oil-slumps-to-3-month-low-on-increased-middle-east-flows-libyan-pipeline-restart/"
+   "url": "https://dailynews.lk/2026/11/24/local/1052661/sri-lanka-records-significant-improvement-in-air-quality/"
   },
   {
-   "section": "International",
-   "headline": "India to test all bottled water brands",
-   "summary": "Indian authorities will test every bottled water brand after a sample from a leading brand was found unsafe.",
+   "section": "Weather & Disasters",
+   "headline": "Supermoon visible tonight",
+   "summary": "A supermoon will be visible over Sri Lanka tonight.",
    "sources": [
+    "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/india-to-test-all-bottled-water-brands-after-top-brand-sample-found-unsafe/"
+   "url": "https://www.newswire.lk/2026/11/24/when-to-watch-todays-supermoon-in-sri-lanka/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Ireland set up final with SL women tomorrow",
+   "summary": "Ireland beat the Netherlands by 44 runs and will meet Sri Lanka in the ICC Women's Emerging Nations Trophy final in the UAE on Wednesday.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Heres-to-one-more-Lewis-targets-Sri-Lanka-scalp-in-final/108-355599"
+  },
+  {
+   "section": "Sports",
+   "headline": "Wakeel wins Mumbai squash title",
+   "summary": "Shamil Wakeel won the PSA Satellite squash event in Mumbai, and fellow Sri Lankan Tuwin Osanda Herath finished third.",
+   "sources": [
+    "Daily News"
+   ],
+   "url": "https://dailynews.lk/2026/11/24/sports/1052513/wakeel-claims-mumbai-squash-crown-herath-finishes-third/"
   }
  ]
 }

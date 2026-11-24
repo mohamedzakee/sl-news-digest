@@ -1,158 +1,193 @@
 {
- "generatedAt": 1795452245268,
- "generatedAtText": "Mon 23 Nov 2026, 10:14 PM",
+ "generatedAt": 1795502622001,
+ "generatedAtText": "Tue 24 Nov 2026, 12:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "First woman named Sri Lanka's US envoy",
-   "summary": "Foreign Ministry Secretary Aruni Ranaraja is to become Sri Lanka's first female Ambassador to the United States, Foreign Minister Vijitha Herath told Parliament during the ministry's budget debate.",
-   "sources": [
-    "Daily Mirror",
-    "Newsfirst",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/23/sri-lanka-names-first-woman-ambassador-to-usa"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Inflation rises to 8.5% in October",
-   "summary": "National CPI inflation climbed to 8.5% in October from 8.1% in September. Food inflation was 7.2% and non-food 9.5%, with transport costs, mainly petrol, the biggest driver.",
+   "headline": "Expert warns PM of unfixed state system flaws",
+   "summary": "Cybersecurity expert Dr Sanjana Hattotuwa wrote to PM Harini Amarasuriya that weaknesses he flagged a month ago at LECO, the Health Ministry and Sri Lanka Police remain open. He warned they could expose payment records, health workers' IDs and confidential police complaints.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/sri-lankas-inflation-rises-to-8-5-in-october/"
+   "url": "https://www.newswire.lk/2026/11/24/cybersecurity-flaws-in-key-government-systems-remain-unresolved-expert-warns-pm/"
   },
   {
    "section": "Top stories",
-   "headline": "Fire at Ward Place building in Borella",
-   "summary": "A fire broke out at a building on Ward Place, Borella, reported as a hotel by one outlet and an apartment complex by another. Four fire engines were sent and two people were taken to hospital; the cause is not yet known.",
+   "headline": "Imported food prices may rise, minister warns",
+   "summary": "Trade Minister Wasantha Samarasinghe said El Niño-linked weather in India could push up some imported food prices, though importers pledged to keep festive supplies flowing. Dried chilli shipments are held up over moisture limits, and the government says it will impose price controls if traders exploit shortages.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Imported-food-prices-may-rise-due-to-El-Niño-effects-in-India-Minister-warns/108-355589"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Sri Lanka and Thailand talk FTA, visa-free travel",
+   "summary": "Thai Deputy PM and Foreign Minister Sihasak Phuangketkeow met PM Amarasuriya at Temple Trees to push the bilateral free trade agreement. A memorandum signed on 22 November gives Sri Lankan ordinary passport holders 30-day visa-free entry to Thailand.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/2-hospitalised-after-fire-breaks-out-at-apartment-complex-in-colombo/"
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-Thailand-discuss-FTA-and-visa-free-travel/108-355593"
   },
   {
    "section": "Top stories",
-   "headline": "Heavy rain warning for next 36 hours",
-   "summary": "The Met Department says rain above 75 mm is possible in the Western, Sabaragamuwa, Central and North Western provinces and in Galle and Matara. It also warned of strong winds and lightning during thundershowers.",
+   "headline": "Teen killed as car hits Kohuwala bus stop",
+   "summary": "A 16-year-old from Nugegoda died after a car lost control on Monday evening and ploughed into a bus stop, also hitting several vehicles and injuring three others. The 68-year-old driver has been arrested.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/heavy-showers-expected-across-several-parts-of-sri-lanka-over-next-36-hours/"
+   "url": "https://www.newswire.lk/2026/11/24/16-year-old-dies-after-car-crashes-into-bus-stop-in-kohuwala/"
   },
   {
    "section": "Top stories",
-   "headline": "Egg prices held for festive season",
-   "summary": "At a Trade Ministry meeting, egg producers agreed not to raise prices over the festive season, and poultry groups said chicken prices are already falling. The minister told the Consumer Affairs Authority to tighten checks on animal feed quality.",
+   "headline": "Idle Mahaweli lands to be taken back",
+   "summary": "The government will reclaim Mahaweli land where approved projects have not started, Deputy Minister Aravinda Senarath said. Investors will get a grace period first, after which unused plots will be reallocated.",
    "sources": [
-    "Newswire"
+    "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/egg-producers-agree-not-to-raise-prices-during-festive-season-trade-ministry/"
+   "url": "https://english.newsfirst.lk/2026/11/24/unutilized-mahaweli-lands-to-be-taken-back-by-government"
   },
   {
    "section": "Politics & Government",
-   "headline": "Namal urges presidential pardon for Gnanasara Thera",
-   "summary": "In Parliament, MP Namal Rajapaksa said the President could pardon Ven. Galagodaaththe Gnanasara Thera. He pointed to the government's help in getting a Saudi death sentence lifted for a Sri Lankan, Anojan, in a similar type of case.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/namal-says-president-can-pardon-gnanasara-thera-citing-intervention-in-anojan-case/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Mujibur Rahman raises concerns over Israeli presence",
-   "summary": "Opposition MP Mujibur Rahman told Parliament that Israeli activities in Sri Lanka are a national security risk. He questioned why Israel is in the free online visa scheme and why the Chabad House in Colombo 7 is still open.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/mujibur-rahman-warns-of-national-security-risks-over-israeli-activities-in-sri-lanka/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "PM: transport a must when schools merge",
-   "summary": "PM Harini Amarasuriya said transport will be required wherever schools are merged under the reorganisation programme. Tamil-medium classes will be added in Colombo schools that lack them, and a trilingual school is planned.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Schools-to-be-reorganised-with-transport-facilities-says-PM/108-355584"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "170 Indian troops in Mitra Shakti exercise",
-   "summary": "About 170 Indian personnel are training with Sri Lankan forces at Maduru Oya in the 12th Mitra Shakti joint counter-terrorism exercise, which runs until November 26.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/23/170-indian-troops-join-sri-lankan-military-for-joint-counter-terrorism-exercise-at-maduru-oya/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rs. 2 trillion capital spending planned for 2027",
-   "summary": "The Treasury Secretary said the 2027 Budget's Rs. 2 trillion capital spending should boost business and jobs, with Rs. 174 billion for SMEs. The Presidential Secretary added that the spending must be well planned to meet development targets.",
+   "headline": "Foreign Ministry budget head passed without vote",
+   "summary": "Parliament approved the 2027 allocation for the Foreign Affairs, Foreign Employment and Tourism Ministry at committee stage without amendment or a vote. The Prevention of Foreign Terrorist Fighters Bill also passed without a vote.",
    "sources": [
     "Newswire",
     "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/rs-2-trillion-capital-spending-in-2027-to-boost-businesses-and-jobs-treasury-secretary/"
+   "url": "https://www.newswire.lk/2026/11/24/foreign-affairs-ministry-budget-head-passed-without-vote/"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "2,463 road deaths so far this year",
-   "summary": "Police say 2,463 people died in road accidents between January 1 and November 21. That includes 813 pedestrians and nearly 900 motorcyclists and pillion riders, and is slightly fewer deaths than in the same period last year.",
+   "section": "Politics & Government",
+   "headline": "Hakeem criticises block on Imran Khan debate",
+   "summary": "SLMC leader Rauff Hakeem objected to a decision blocking a debate on former Pakistan PM Imran Khan, recalling Khan's role in Sri Lanka ending forced cremations during COVID-19.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/road-accidents-claim-2463-lives-in-sri-lanka-so-far-in-2026-police/"
+   "url": "https://www.newswire.lk/2026/11/24/hakeem-slams-decision-to-block-imran-khan-debate-recalls-his-role-in-ending-sri-lankas-forced-cremations/"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Animal group acts over 'dumped' airport dogs",
-   "summary": "An animal welfare forum has filed an information request and complaints alleging that dogs removed from the Katunayake and Mattala airports were left in Hambantota forests and at the Kerawalapitiya garbage dump. Mattala airport authorities reportedly deny involvement.",
+   "section": "Politics & Government",
+   "headline": "Teachers' union presses salary demands",
+   "summary": "Ceylon Teachers' Union General Secretary Joseph Stalin said unions must keep reminding the government of teachers' pending salary demands.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Animal-group-seeks-action-over-alleged-dumping-of-airport-dogs/108-355585"
+   "url": "https://www.dailymirror.lk/breaking-news/Government-must-be-reminded-of-teachers-salary-demands-says-Starlin/108-355600"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Govt seeks ways to catch income tax dodgers",
+   "summary": "Senior Economic Adviser Duminda Hulangamuwa admitted many earners, especially professionals and traders, escape income tax. He proposed linking tax, customs, banking and land registry data, though no such system exists yet.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/not-paying-income-tax-govt-looks-at-ways-to-identify-more-taxpayers/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rs. 500m for northern power transmission line",
+   "summary": "Funds have been allocated for early work on a 400 kV line from Kilinochchi to New Habarana, due by 2030, with US$150 million sought from the AIIB.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Rs-500-million-allocated-for-northern-power-transmission-project/108-355591"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "First national battery testing centre opens",
+   "summary": "A national battery testing centre built with a Rs. 161.5 million investment has been opened.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/first-national-battery-testing-centre-opened-with-rs-161-5-million-investment/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Asha de Vos gets UK marine biology fellowship",
-   "summary": "Sri Lankan marine biologist Asha de Vos has been named a Fellow of the UK's Marine Biological Association.",
+   "headline": "Illegally assembled SUV seized, man arrested",
+   "summary": "Police seized a jeep in Bandarawela that was allegedly imported without duty and assembled locally, and arrested a Gampaha resident in connection.",
    "sources": [
+    "Newsfirst",
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-marine-biologist-Asha-de-Vos-named-Fellow-of-UK-Marine-Biological-Association/108-355583"
+   "url": "https://english.newsfirst.lk/2026/11/24/gampaha-resident-arrested-over-illegally-assembled-duty-free-jeep"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "T-56 and M-16 rounds found in Anguruwathota",
+   "summary": "Police recovered 90 T-56 and 23 M-16 live rounds plus handcuffs hidden at Uduwara, acting on information from a suspect arrested on 20 November.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/24/police-recover-t-56-m-16-ammunition-in-anguruwathota"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Probe ordered into Kilinochchi Tank fish deaths",
+   "summary": "Fisheries Minister Ramalingam Chandrasegar ordered an urgent inquiry after mass deaths of fish and prawns at the tank, with losses to fishing families to be assessed.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/minister-orders-urgent-probe-after-mass-fish-deaths-at-kilinochchi-tank/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Colombo–Kandy road reopens at Kadugannawa",
+   "summary": "The Pahala Kadugannawa stretch reopened this morning after an overnight closure for maintenance.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/24/colombo-kandy-main-road-reopens-after-overnight-closure"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Heavy rain over 75mm in several provinces",
+   "summary": "The Met Department expects heavy falls in parts of Western, Sabaragamuwa, Central and North Western provinces and Galle and Matara districts, with thundershowers after 2 pm. Rough seas and strong winds are likely around much of the coast.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/weather-heavy-rain-expected-in-several-provinces/"
   },
   {
    "section": "Sports",
-   "headline": "Sri Lanka women in Emerging Nations final",
-   "summary": "Sri Lanka beat Pakistan by four runs to reach the final of the ICC Women's Emerging Nations Trophy. They play Ireland in Ajman, UAE, on Wednesday.",
+   "headline": "SL women face Ireland in Emerging Nations final",
+   "summary": "Sri Lanka and Ireland both went unbeaten into the ICC Women's Emerging Nations Trophy final in Ajman. Sri Lanka A also reached the ACC Rising Stars semi-finals after beating Bangladesh A by seven wickets.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/sri-lanka-to-face-ireland-in-icc-womens-emerging-nations-trophy-final/"
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-reach-two-knockout-stages-as-UK-lands-2035-World-Cup/108-355586"
   },
   {
    "section": "International",
-   "headline": "India pledges $1.62bn package for Nepal",
-   "summary": "After talks between Narendra Modi and Nepal's PM Balendra Shah in New Delhi, India announced a $1.62 billion economic package and signed eight MoUs. The aid follows Nepal's deadly August floods.",
+   "headline": "Hasina plans 16 December return to Bangladesh",
+   "summary": "Ousted Bangladeshi PM Sheikh Hasina wants to fly home from India on the state carrier, despite Dhaka's vow to arrest her.",
    "sources": [
-    "Newswire"
+    "Newswire",
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/23/india-announces-1-62-billion-economic-package-for-nepal/"
+   "url": "https://www.newswire.lk/2026/11/24/sheikh-hasina-seeks-to-return-to-bangladesh-on-december-16-on-state-carrier/"
   },
   {
    "section": "International",
-   "headline": "Nvidia reinstates Jensen Huang as CEO",
-   "summary": "Nvidia has brought back Jensen Huang as chief executive following a controversy linked to a Chinese spying affair.",
+   "headline": "Oil falls to three-month low",
+   "summary": "Crude prices slid on higher Middle East supply and the restart of a Libyan pipeline.",
    "sources": [
-    "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/international/Nvidia-reinstates-Jensen-Huang-as-CEO/107-355579"
+   "url": "https://www.newswire.lk/2026/11/24/oil-slumps-to-3-month-low-on-increased-middle-east-flows-libyan-pipeline-restart/"
+  },
+  {
+   "section": "International",
+   "headline": "India to test all bottled water brands",
+   "summary": "Indian authorities will test every bottled water brand after a sample from a leading brand was found unsafe.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/24/india-to-test-all-bottled-water-brands-after-top-brand-sample-found-unsafe/"
   }
  ]
 }

@@ -1,203 +1,188 @@
 {
- "generatedAt": 1795589025796,
- "generatedAtText": "Wed 25 Nov 2026, 12:13 PM",
+ "generatedAt": 1795607035063,
+ "generatedAtText": "Wed 25 Nov 2026, 5:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "University exams off as staff strike",
-   "summary": "Non-academic university staff staged another token strike, their second in a week, forcing exams and lectures to be cancelled today. They want salary, overtime and allowance cuts from the 2025 budget reversed.",
+   "headline": "Exports top US$15 billion",
+   "summary": "Sri Lanka's goods and services exports passed US$15.28 billion in January–October, a record pace, the Export Development Board said. Electronics, food, spices and ICT led growth, while apparel and tea were weaker.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-breaks-through-15-bn-export-barrier-in-record-time"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Court keeps Gotabaya travel ban",
+   "summary": "The Colombo Fort Magistrate's Court refused to temporarily lift former President Gotabaya Rajapaksa's overseas travel ban in the Easter attacks probe. It told the CID to clarify urgently whether he will be named a suspect; his appeal against a possible PTA arrest will be heard in March.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/court-rejects-gota%e2%80%99s-bid-to-lift-foreign-travel-ban"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Inflation rises to 8.5% in October",
+   "summary": "National consumer price inflation climbed to 8.5% in October from 8.1%, the highest this year. Petrol, bus fares and other transport costs were the biggest contributors, with food inflation up to 7.2%.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business/Inflation-climbs-to-8-5-in-October-on-higher-transport-costs/215-355713"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Sri Lanka women win Emerging Nations Trophy",
+   "summary": "Sri Lanka bowled Ireland out for 96 in the final to win the ICC Women's Emerging Nations Trophy.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-crowned-champions-after-crushing-ireland-in-emerging-nations-trophy-final"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Road cave-in snarls traffic at Liberty",
+   "summary": "Part of Duplication Road in Kollupitiya collapsed near Liberty Roundabout, cutting traffic to one lane. Police advised motorists to use other routes.",
    "sources": [
     "Newsfirst",
     "Newswire"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/25/university-exams-postponed-amid-non-academic-staff-strike"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Johnston Fernando fined over vehicles",
-   "summary": "The Colombo Fort Magistrate's Court fined former minister Johnston Fernando Rs. 130,000 on three charges of unlawful vehicle possession. He also received a six-month jail term suspended for five years.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/illegal-vehicle-possession-johnston-fined-rs-130000-handed-suspended-sentence/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Vasudeva Nanayakkara at Bribery Commission",
-   "summary": "Former minister Vasudeva Nanayakkara arrived at CIABOC this morning to give a statement in an ongoing investigation. Details of the probe have not been disclosed.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/former-minister-vasudeva-nanayakkara-arrives-at-bribery-commission/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Heavy rain over 100 mm forecast",
-   "summary": "Very heavy falls above 100 mm are expected today in the Western, Sabaragamuwa, Central, Uva and North-Western provinces and in Galle and Matara. Thundershowers are likely elsewhere after 1 pm.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/heavy-rainfall-above-100-mm-expected-in-several-parts-of-sri-lanka-today/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Marine study ordered on port oil spill",
-   "summary": "MEPA will commission a NARA assessment of damage from the fuel leak at Colombo Port's JCT terminal that reached the Mutuwella coast. Cleanup is reported complete.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/mepa-to-assess-marine-impact-of-colombo-port-oil-spill"
+   "url": "https://english.newsfirst.lk/2026/11/25/road-collapse-leads-to-heavy-traffic-near-liberty-circle"
   },
   {
    "section": "Politics & Government",
-   "headline": "MPs wear orange against gender violence",
-   "summary": "The PM and Opposition Leader were among MPs wearing orange in Parliament to mark the campaign against violence against women. The PM said around 840 million women worldwide have faced gender-based violence.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/pm-opposition-leader-among-mps-wearing-orange-to-condemn-violence-against-women/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Opposition flags shrinking key sectors",
-   "summary": "Joint Opposition convener G.L. Peiris said paddy, fisheries, aquarium-fish exports and tea output fell year on year in the second quarter. He argued the Budget does not tackle the decline.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Key-economic-sectors-contract-Opposition-raises-alarm/108-355661"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Thriposha maize stuck at port, COPE told",
-   "summary": "COPE heard that 2,000 tonnes of maize imported for Thriposha has sat at Colombo Port for almost a year. The importer lacked approvals from the Import and Export Controller.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/2-000-MT-of-imported-maize-for-Thriposha-held-up-at-Colombo-Port-COPE-told/108-355660"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "SL, Maldives hold defence talks",
-   "summary": "Defence Secretary Sampath Thuyacontha met Maldivian defence leaders in Male on regional security and Indian Ocean cooperation. The visit was linked to the Colombo Security Conclave.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-maldives-hold-talks-on-regional-security-and-defence-ties"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Free smart meters for 300,000 users",
-   "summary": "The Energy Ministry plans free smart meters in 2027 for 300,000 consumers using over 180 units, funded by a US$12 million ADB grant. Four distribution control centres are also planned.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/free-smart-meters-for-300000-electricity-consumers-in-2027/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rs. 500 mn loan scheme for fisheries",
-   "summary": "A Rs. 500 million concessionary loan scheme has been announced for the fisheries sector.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/fisheries-sector-to-receive-rs-500-million-concessionary-loan-scheme"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "New elevated highway into Colombo",
-   "summary": "A 5.2 km elevated road linking the New Kelani Bridge to the Port Access Elevated Highway is under way, promising to cut a 40-minute trip to about five minutes. A later extension to Galle Face is planned.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/new-elevated-highway-to-cut-40-minute-colombo-commute-to-5-minutes/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rupee edges up against dollar",
-   "summary": "The rupee appreciated slightly against the US dollar in today's Central Bank rates.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/dollar-rate-today-sri-lankan-rupee-appreciates-slightly-against-usd-5/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Bail for Sri Lankan in LTTE revival case",
-   "summary": "A court in Kerala granted bail to a Sri Lankan accused in an alleged LTTE revival conspiracy.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/indian-court-grants-bail-to-sri-lankan-accused-in-ltte-revival-conspiracy/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Husband held over Vakarai murder",
-   "summary": "Police arrested a man over the killing of his 23-year-old wife in Vakarai.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/husband-arrested-over-murder-of-23-year-old-wife-in-vakarai/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Six die on the roads in a day",
-   "summary": "Police said six people were killed in separate road accidents on Tuesday, including two motorcyclists and an 82-year-old pedestrian in Moratuwa.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/six-killed-in-road-accidents-across-sri-lanka-in-a-single-day/"
-  },
-  {
-   "section": "Sports",
-   "headline": "Pathirana, Hasaranga in top IPL bracket",
-   "summary": "Matheesha Pathirana and Wanindu Hasaranga have entered the IPL 2027 auction at the top INR 2 crore base price. The mini-auction is on December 16 in Goa, with 1,220 players registered.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/ipl-2027-auction-1220-players-register-two-sri-lankans-in-highest-price-bracket/"
-  },
-  {
-   "section": "International",
-   "headline": "US readies higher tariffs on 16 economies",
-   "summary": "Washington is reportedly preparing tariff hikes on China, the EU and 14 other countries.",
+   "headline": "Fisheries talks with India in January",
+   "summary": "Fisheries Minister Ramalingam Chandrasekar said a joint working group will meet in New Delhi on 22 January to seek a lasting fix for Indian trawlers fishing in Sri Lankan waters.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/international/US-prepares-higher-tariffs-on-China-EU-and-14-other-nations/107-355656"
+   "url": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-talks-to-seek-permanent-solution-to-fisheries-dispute-in-January/108-355726"
   },
   {
-   "section": "International",
-   "headline": "Huawei convicted in US trial",
-   "summary": "A US jury found China's Huawei guilty on 10 criminal counts.",
+   "section": "Politics & Government",
+   "headline": "Ethics framework to curb misleading ads",
+   "summary": "The government plans a social ethics framework to address discriminatory and misleading advertising. Separately, a minister's office denied reports of a ban on caste references in matrimonial ads.",
    "sources": [
+    "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/chinas-huawei-found-guilty-of-10-criminal-charges-in-us-trial/"
+   "url": "https://www.dailymirror.lk/breaking-news/Govt-plans-social-ethics-framework-to-curb-misleading-advertisements/108-355704"
   },
   {
-   "section": "International",
-   "headline": "Houthi strike hits Riyadh tower",
-   "summary": "Eleven people, including Indian and Nepali nationals, were hurt in a Houthi attack on a Riyadh skyscraper. The US has issued a fresh security alert for citizens in the region.",
+   "section": "Politics & Government",
+   "headline": "Govt pledges equal healthcare access",
+   "summary": "The government said it is committed to giving all citizens equal access to quality healthcare.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/govt-vows-equal-access-to-quality-healthcare-for-all"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Kurunegala–Galewela expressway work to start",
+   "summary": "Construction of the Kurunegala–Galewela expressway section is due to begin on 1 December. Access Engineering won the largest share of Rs. 68 bn in Ruwanpura Expressway contracts.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/indians-and-nepalis-among-11-injured-in-houthi-attack-on-riyadh-skyscraper/"
+   "url": "https://www.newswire.lk/2026/11/25/kurunegala-galewela-expressway-construction-to-begin-on-december-1/"
   },
   {
-   "section": "International",
-   "headline": "Bangladesh lifts garment minimum wage",
-   "summary": "Bangladesh raised the minimum wage for garment workers after weeks of protests.",
+   "section": "Economy & Business",
+   "headline": "Disabled cargo ship towed to Hambantota",
+   "summary": "Hambantota Port berthed the Cyprus-flagged MV AAL Gibraltar, which lost propulsion after engine-room flooding, for repairs.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Bangladesh-raises-minimum-wage-for-garment-workers-after-weeks-of-protests/107-355677"
+   "url": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-provides-refuge-to-disabled-cargo-vessel/108-355715"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "No bail in Kavantissa tusker shooting",
+   "summary": "A Mahawa court remanded two suspects in the shooting of the tusker Kavantissa until 9 December and asked the Wildlife Department for a valuation of the elephant and the final post-mortem report.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/court-refuses-bail-in-kavantissa-elephant-shooting-case"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Arrest warrant for Rajangane Saddharathana",
+   "summary": "The Colombo Fort court issued a warrant after he failed to appear in a case over social media remarks said to threaten religious harmony.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/arrest-warrant-issued-for-rajangane-saddharathana-over-social-media-remarks/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Ananda Palitha further remanded",
+   "summary": "SJB executive member Ananda Palitha was further remanded over an alleged Rs. 3.1 mn overtime fraud at the CPC.",
+   "sources": [
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/sjb-executive-member-ananda-palitha-further-remanded-over-rs-3-1-mn-overtime-fraud"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Mother and son slashed in Kolonnawa",
+   "summary": "A mother and son were attacked with a sharp weapon at a hardware store in Kolonnawa in broad daylight. Separately, a woman was killed by a bus near Royal College, Colombo.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/mother-and-son-slashed-in-broad-daylight-at-kolonnawa-hardware-store"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Lightning warning for 17 districts",
+   "summary": "The Met Department issued an amber lightning warning valid until 11:30 PM for 17 districts, including Colombo, Gampaha, Kandy and Jaffna, with thunderstorms likely this evening and tonight.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/amber-lightning-warning-issued-for-17-sri-lankan-districts-today/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Sri Lankans enter IPL 2027 auction",
+   "summary": "Several Sri Lankan players have registered for the IPL 2027 auction; Newswire counts 21 while Daily Mirror reports seven.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/21-sri-lankan-players-register-for-ipl-auction-2027/"
+  },
+  {
+   "section": "International",
+   "headline": "Colombia supermarket hostages freed",
+   "summary": "Colombian security forces stormed a supermarket and freed all the hostages held by gunmen.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/all-hostages-rescued-after-colombian-security-forces-storm-supermarket"
+  },
+  {
+   "section": "International",
+   "headline": "China hits back after Huawei verdict",
+   "summary": "China accused the US of suppressing Chinese companies after a US court convicted Huawei of fraud and trade-secret theft.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/China-lashes-out-at-US-for-suppressing-Chinese-companies-after-Huawei-conviction/107-355722"
+  },
+  {
+   "section": "International",
+   "headline": "Sri Lankan refugee dies in Eswatini",
+   "summary": "A Sri Lankan refugee died months after being relocated by the UK to Eswatini.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Sri-Lankan-refugee-dies-months-after-forced-UK-resettlement-in-Eswatini/107-355695"
   }
  ]
 }

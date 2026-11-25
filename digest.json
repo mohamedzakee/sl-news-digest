@@ -1,110 +1,203 @@
 {
- "generatedAt": 1795538625686,
- "generatedAtText": "Tue 24 Nov 2026, 10:13 PM",
+ "generatedAt": 1795589025796,
+ "generatedAtText": "Wed 25 Nov 2026, 12:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Indian Ocean quake poses no tsunami risk",
-   "summary": "A magnitude 6.5 earthquake struck the Mauritius–Réunion region of the Indian Ocean at 4:36 PM at a depth of 10 km. Authorities said there is no tsunami threat and Sri Lanka's coasts are safe.",
+   "headline": "University exams off as staff strike",
+   "summary": "Non-academic university staff staged another token strike, their second in a week, forcing exams and lectures to be cancelled today. They want salary, overtime and allowance cuts from the 2025 budget reversed.",
    "sources": [
-    "Newswire",
     "Newsfirst",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Magnitude-6-5-earthquake-recorded-in-Indian-Ocean-no-tsunami-threat-to-Sri-Lanka/108-355647"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Amber landslide alert for Kandy, Kegalle",
-   "summary": "The NBRO issued an Amber landslide warning for seven divisional areas in Kandy and Kegalle until 4 PM Wednesday after over 100 mm of rain in 24 hours, with Yellow alerts for other parts of both districts. Residents are told to be ready to evacuate.",
-   "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/amber-landslide-alert-issued-for-kandy-kegalle-districts/"
+   "url": "https://english.newsfirst.lk/2026/11/25/university-exams-postponed-amid-non-academic-staff-strike"
   },
   {
    "section": "Top stories",
-   "headline": "Travellers may fly without ETA for now",
-   "summary": "With the ETA website down for maintenance, Immigration is letting eligible foreign visitors board flights without prior ETA approval until further notice. Nationals of seven countries, including Pakistan, Nigeria and Afghanistan, are excluded.",
+   "headline": "Johnston Fernando fined over vehicles",
+   "summary": "The Colombo Fort Magistrate's Court fined former minister Johnston Fernando Rs. 130,000 on three charges of unlawful vehicle possession. He also received a six-month jail term suspended for five years.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/sri-lanka-temporarily-allows-eligible-travellers-to-fly-without-prior-eta-amid-website-maintenance/"
+   "url": "https://www.newswire.lk/2026/11/25/illegal-vehicle-possession-johnston-fined-rs-130000-handed-suspended-sentence/"
   },
   {
    "section": "Top stories",
-   "headline": "China to help upgrade Sri Lanka Police",
-   "summary": "An agreement signed at Police Headquarters commits China to train officers on tech-enabled crime and upgrade police infrastructure. It was signed by the Chinese Ambassador and the Public Security Ministry Secretary.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/china-to-support-capacity-development-and-infrastructure-upgrades-of-sri-lanka-police/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Police SI gets 50 years for abusing schoolgirl",
-   "summary": "A police Sub-Inspector was sentenced to 50 years' rigorous imprisonment over the abduction and sexual abuse of a schoolgirl, in a case heard at the Kurunegala High Court.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/police-si-jailed-for-50-years-over-abduction-and-sexual-abuse-of-schoolgirl/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Ravi K questions inflation and money printing",
-   "summary": "Opposition MP Ravi Karunanayake asked how inflation is rising if the government is not printing money. He urged the Central Bank to give accurate projections and a stabilisation plan.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Is-government-printing-money-asks-Ravi-K/108-355651"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "New Puttalam District Secretariat complex",
-   "summary": "Cabinet approved a four-storey office block, a 1,000-seat auditorium and parking at the current Puttalam DS site. Offices are now scattered because only part of a 2013 plan was built.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/cabinet-approves-new-building-complex-with-1000-seat-auditorium-for-puttalam-ds/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Indian Coast Guard ship in Trincomalee",
-   "summary": "The Indian Coast Guard ship Sujay is in Trincomalee until November 25 to support a joint India–Sri Lanka cycling expedition. Its crew is also training Sri Lankan coast guards on pollution-response equipment.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/24/indian-coast-guard-ship-visits-trincomalee-for-joint-expedition/"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Heavy showers forecast for several provinces",
-   "summary": "The Met Department expects showers and thundershowers across much of the island, with over 75 mm possible in parts of the Western, Sabaragamuwa, Central, Uva and North Western provinces and Galle and Matara. People are warned about strong winds and lightning.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Heavy-showers-expected-in-several-provinces/108-355646"
-  },
-  {
-   "section": "Sports",
-   "headline": "SL women climb ICC T20I rankings",
-   "summary": "Vishmi Gunaratne jumped 37 places to 51st among batters and Imesha Dulani rose to 23rd. In bowling, Kavisha Dilhari moved to 12th and Sugandika Kumari to 13th.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-trio-rise-in-ICC-T20I-rankings/108-355650"
-  },
-  {
-   "section": "Sports",
-   "headline": "Sooryavanshi, 15, hits record 204 off 53",
-   "summary": "India A's Vaibhav Sooryavanshi set List A records with a 28-ball hundred, a 52-ball double century and 28 sixes against the UAE in Doha. India A won by seven wickets.",
+   "headline": "Vasudeva Nanayakkara at Bribery Commission",
+   "summary": "Former minister Vasudeva Nanayakkara arrived at CIABOC this morning to give a statement in an ongoing investigation. Details of the probe have not been disclosed.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/24/vaibhav-sooryavanshi-smashes-28-ball-century-and-204-in-record-breaking-knock/"
+   "url": "https://www.newswire.lk/2026/11/25/former-minister-vasudeva-nanayakkara-arrives-at-bribery-commission/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Heavy rain over 100 mm forecast",
+   "summary": "Very heavy falls above 100 mm are expected today in the Western, Sabaragamuwa, Central, Uva and North-Western provinces and in Galle and Matara. Thundershowers are likely elsewhere after 1 pm.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/heavy-rainfall-above-100-mm-expected-in-several-parts-of-sri-lanka-today/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Marine study ordered on port oil spill",
+   "summary": "MEPA will commission a NARA assessment of damage from the fuel leak at Colombo Port's JCT terminal that reached the Mutuwella coast. Cleanup is reported complete.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/mepa-to-assess-marine-impact-of-colombo-port-oil-spill"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "MPs wear orange against gender violence",
+   "summary": "The PM and Opposition Leader were among MPs wearing orange in Parliament to mark the campaign against violence against women. The PM said around 840 million women worldwide have faced gender-based violence.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/pm-opposition-leader-among-mps-wearing-orange-to-condemn-violence-against-women/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Opposition flags shrinking key sectors",
+   "summary": "Joint Opposition convener G.L. Peiris said paddy, fisheries, aquarium-fish exports and tea output fell year on year in the second quarter. He argued the Budget does not tackle the decline.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Key-economic-sectors-contract-Opposition-raises-alarm/108-355661"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Thriposha maize stuck at port, COPE told",
+   "summary": "COPE heard that 2,000 tonnes of maize imported for Thriposha has sat at Colombo Port for almost a year. The importer lacked approvals from the Import and Export Controller.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/2-000-MT-of-imported-maize-for-Thriposha-held-up-at-Colombo-Port-COPE-told/108-355660"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "SL, Maldives hold defence talks",
+   "summary": "Defence Secretary Sampath Thuyacontha met Maldivian defence leaders in Male on regional security and Indian Ocean cooperation. The visit was linked to the Colombo Security Conclave.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-maldives-hold-talks-on-regional-security-and-defence-ties"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Free smart meters for 300,000 users",
+   "summary": "The Energy Ministry plans free smart meters in 2027 for 300,000 consumers using over 180 units, funded by a US$12 million ADB grant. Four distribution control centres are also planned.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/free-smart-meters-for-300000-electricity-consumers-in-2027/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rs. 500 mn loan scheme for fisheries",
+   "summary": "A Rs. 500 million concessionary loan scheme has been announced for the fisheries sector.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/25/fisheries-sector-to-receive-rs-500-million-concessionary-loan-scheme"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "New elevated highway into Colombo",
+   "summary": "A 5.2 km elevated road linking the New Kelani Bridge to the Port Access Elevated Highway is under way, promising to cut a 40-minute trip to about five minutes. A later extension to Galle Face is planned.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/new-elevated-highway-to-cut-40-minute-colombo-commute-to-5-minutes/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rupee edges up against dollar",
+   "summary": "The rupee appreciated slightly against the US dollar in today's Central Bank rates.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/dollar-rate-today-sri-lankan-rupee-appreciates-slightly-against-usd-5/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Bail for Sri Lankan in LTTE revival case",
+   "summary": "A court in Kerala granted bail to a Sri Lankan accused in an alleged LTTE revival conspiracy.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/indian-court-grants-bail-to-sri-lankan-accused-in-ltte-revival-conspiracy/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Husband held over Vakarai murder",
+   "summary": "Police arrested a man over the killing of his 23-year-old wife in Vakarai.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/husband-arrested-over-murder-of-23-year-old-wife-in-vakarai/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Six die on the roads in a day",
+   "summary": "Police said six people were killed in separate road accidents on Tuesday, including two motorcyclists and an 82-year-old pedestrian in Moratuwa.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/six-killed-in-road-accidents-across-sri-lanka-in-a-single-day/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Pathirana, Hasaranga in top IPL bracket",
+   "summary": "Matheesha Pathirana and Wanindu Hasaranga have entered the IPL 2027 auction at the top INR 2 crore base price. The mini-auction is on December 16 in Goa, with 1,220 players registered.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/ipl-2027-auction-1220-players-register-two-sri-lankans-in-highest-price-bracket/"
+  },
+  {
+   "section": "International",
+   "headline": "US readies higher tariffs on 16 economies",
+   "summary": "Washington is reportedly preparing tariff hikes on China, the EU and 14 other countries.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/international/US-prepares-higher-tariffs-on-China-EU-and-14-other-nations/107-355656"
+  },
+  {
+   "section": "International",
+   "headline": "Huawei convicted in US trial",
+   "summary": "A US jury found China's Huawei guilty on 10 criminal counts.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/chinas-huawei-found-guilty-of-10-criminal-charges-in-us-trial/"
+  },
+  {
+   "section": "International",
+   "headline": "Houthi strike hits Riyadh tower",
+   "summary": "Eleven people, including Indian and Nepali nationals, were hurt in a Houthi attack on a Riyadh skyscraper. The US has issued a fresh security alert for citizens in the region.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/indians-and-nepalis-among-11-injured-in-houthi-attack-on-riyadh-skyscraper/"
+  },
+  {
+   "section": "International",
+   "headline": "Bangladesh lifts garment minimum wage",
+   "summary": "Bangladesh raised the minimum wage for garment workers after weeks of protests.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Bangladesh-raises-minimum-wage-for-garment-workers-after-weeks-of-protests/107-355677"
   }
  ]
 }

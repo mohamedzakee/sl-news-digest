@@ -1,188 +1,128 @@
 {
- "generatedAt": 1795607035063,
- "generatedAtText": "Wed 25 Nov 2026, 5:13 PM",
+ "generatedAt": 1795625019572,
+ "generatedAtText": "Wed 25 Nov 2026, 10:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Exports top US$15 billion",
-   "summary": "Sri Lanka's goods and services exports passed US$15.28 billion in January–October, a record pace, the Export Development Board said. Electronics, food, spices and ICT led growth, while apparel and tea were weaker.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-breaks-through-15-bn-export-barrier-in-record-time"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Court keeps Gotabaya travel ban",
-   "summary": "The Colombo Fort Magistrate's Court refused to temporarily lift former President Gotabaya Rajapaksa's overseas travel ban in the Easter attacks probe. It told the CID to clarify urgently whether he will be named a suspect; his appeal against a possible PTA arrest will be heard in March.",
+   "headline": "US tariffs spare Sri Lanka",
+   "summary": "Washington announced new tariffs on 14 trading partners, including China (up to 40%), Vietnam, India, Japan and the EU (20–25% for most). Sri Lanka was left off the list.",
    "sources": [
     "Newsfirst",
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/25/court-rejects-gota%e2%80%99s-bid-to-lift-foreign-travel-ban"
+   "url": "https://english.newsfirst.lk/2026/11/25/us-unveils-new-tariffs-on-major-trade-partners-sri-lanka-spared"
   },
   {
    "section": "Top stories",
-   "headline": "Inflation rises to 8.5% in October",
-   "summary": "National consumer price inflation climbed to 8.5% in October from 8.1%, the highest this year. Petrol, bus fares and other transport costs were the biggest contributors, with food inflation up to 7.2%.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/business/Inflation-climbs-to-8-5-in-October-on-higher-transport-costs/215-355713"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Sri Lanka women win Emerging Nations Trophy",
-   "summary": "Sri Lanka bowled Ireland out for 96 in the final to win the ICC Women's Emerging Nations Trophy.",
-   "sources": [
-    "Newsfirst",
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/sri-lanka-crowned-champions-after-crushing-ireland-in-emerging-nations-trophy-final"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Road cave-in snarls traffic at Liberty",
-   "summary": "Part of Duplication Road in Kollupitiya collapsed near Liberty Roundabout, cutting traffic to one lane. Police advised motorists to use other routes.",
-   "sources": [
-    "Newsfirst",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/road-collapse-leads-to-heavy-traffic-near-liberty-circle"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Fisheries talks with India in January",
-   "summary": "Fisheries Minister Ramalingam Chandrasekar said a joint working group will meet in New Delhi on 22 January to seek a lasting fix for Indian trawlers fishing in Sri Lankan waters.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/India-Sri-Lanka-talks-to-seek-permanent-solution-to-fisheries-dispute-in-January/108-355726"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Ethics framework to curb misleading ads",
-   "summary": "The government plans a social ethics framework to address discriminatory and misleading advertising. Separately, a minister's office denied reports of a ban on caste references in matrimonial ads.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Govt-plans-social-ethics-framework-to-curb-misleading-advertisements/108-355704"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Govt pledges equal healthcare access",
-   "summary": "The government said it is committed to giving all citizens equal access to quality healthcare.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/govt-vows-equal-access-to-quality-healthcare-for-all"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Kurunegala–Galewela expressway work to start",
-   "summary": "Construction of the Kurunegala–Galewela expressway section is due to begin on 1 December. Access Engineering won the largest share of Rs. 68 bn in Ruwanpura Expressway contracts.",
+   "headline": "Reservoir spill gates opened as rain persists",
+   "summary": "Six Deduru Oya spill gates were opened, releasing about 4,200 cubic feet per second. Two Thabbowa Reservoir gates were due to open by 10 PM, and people living downstream along both rivers have been told to stay alert.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/kurunegala-galewela-expressway-construction-to-begin-on-december-1/"
+   "url": "https://www.newswire.lk/2026/11/25/six-spill-gates-of-deduru-oya-reservoir-opened-by-amid-rain/"
   },
   {
-   "section": "Economy & Business",
-   "headline": "Disabled cargo ship towed to Hambantota",
-   "summary": "Hambantota Port berthed the Cyprus-flagged MV AAL Gibraltar, which lost propulsion after engine-room flooding, for repairs.",
+   "section": "Top stories",
+   "headline": "Teachers' sick-leave action goes ahead Nov 30",
+   "summary": "The Teachers and Principals Trade Union Alliance will hold its sick-leave campaign on 30 November as planned. It says talks with the Prime Minister brought no favourable response to its demands.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Hambantota-Port-provides-refuge-to-disabled-cargo-vessel/108-355715"
+   "url": "https://www.dailymirror.lk/breaking-news/Teachers-Principals-to-continue-trade-union-action-on-November-30/108-355738"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "No bail in Kavantissa tusker shooting",
-   "summary": "A Mahawa court remanded two suspects in the shooting of the tusker Kavantissa until 9 December and asked the Wildlife Department for a valuation of the elephant and the final post-mortem report.",
+   "section": "Top stories",
+   "headline": "NCPA logs 9,600 child complaints in nine months",
+   "summary": "The National Child Protection Authority recorded 9,613 complaints from January to September, including 169 child rape cases and 51 teenage pregnancies. Colombo, Gampaha and Kurunegala had the most cases, and a doctors' union is calling for a national child protection policy.",
    "sources": [
-    "Newsfirst"
+    "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/25/court-refuses-bail-in-kavantissa-elephant-shooting-case"
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-children-under-threat-51-teenage-pregnancies-169-rape-complaints-9-600-complaints-in-just-nine-months-NCPA/108-355736"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Arrest warrant for Rajangane Saddharathana",
-   "summary": "The Colombo Fort court issued a warrant after he failed to appear in a case over social media remarks said to threaten religious harmony.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/arrest-warrant-issued-for-rajangane-saddharathana-over-social-media-remarks/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Ananda Palitha further remanded",
-   "summary": "SJB executive member Ananda Palitha was further remanded over an alleged Rs. 3.1 mn overtime fraud at the CPC.",
-   "sources": [
-    "Newsfirst",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/sjb-executive-member-ananda-palitha-further-remanded-over-rs-3-1-mn-overtime-fraud"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Mother and son slashed in Kolonnawa",
-   "summary": "A mother and son were attacked with a sharp weapon at a hardware store in Kolonnawa in broad daylight. Separately, a woman was killed by a bus near Royal College, Colombo.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/mother-and-son-slashed-in-broad-daylight-at-kolonnawa-hardware-store"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Lightning warning for 17 districts",
-   "summary": "The Met Department issued an amber lightning warning valid until 11:30 PM for 17 districts, including Colombo, Gampaha, Kandy and Jaffna, with thunderstorms likely this evening and tonight.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/25/amber-lightning-warning-issued-for-17-sri-lankan-districts-today/"
-  },
-  {
-   "section": "Sports",
-   "headline": "Sri Lankans enter IPL 2027 auction",
-   "summary": "Several Sri Lankan players have registered for the IPL 2027 auction; Newswire counts 21 while Daily Mirror reports seven.",
+   "section": "Top stories",
+   "headline": "President: use allocated funds or lose them",
+   "summary": "President Dissanayake told ministries to plan projects at the start of the year and review them monthly. Unspent funds will go back to the Treasury unless conditions such as opened letters of credit are met. The meeting also discussed a land bank to speed up land allocation for investors.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/21-sri-lankan-players-register-for-ipl-auction-2027/"
+   "url": "https://www.newswire.lk/2026/11/25/use-allocated-fund-or-lose-them-president-tells-ministers/"
   },
   {
-   "section": "International",
-   "headline": "Colombia supermarket hostages freed",
-   "summary": "Colombian security forces stormed a supermarket and freed all the hostages held by gunmen.",
+   "section": "Politics & Government",
+   "headline": "PM pledges action over Kinniya auditorium",
+   "summary": "Prime Minister Harini Amarasuriya told Parliament that legal action will follow if wrongdoing is confirmed in the 2022 demolition of a school auditorium in Kinniya. She promised to table all related documents.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/pm-vows-legal-action-if-wrongdoing-confirmed-in-kinniya-school-auditorium-demolition/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Fisheries talks set for 22 January",
+   "summary": "Newsfirst reports that the India–Sri Lanka talks on the fisheries dispute will be held in New Delhi on 22 January. Both sides are aiming for a lasting solution.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/25/all-hostages-rescued-after-colombian-security-forces-storm-supermarket"
+   "url": "https://english.newsfirst.lk/2026/11/25/january-22-talks-in-new-delhi-aim-to-end-india-sri-lanka-fisheries-row"
   },
   {
-   "section": "International",
-   "headline": "China hits back after Huawei verdict",
-   "summary": "China accused the US of suppressing Chinese companies after a US court convicted Huawei of fraud and trade-secret theft.",
+   "section": "Economy & Business",
+   "headline": "CSE rebounds; ASPI back above 21,300",
+   "summary": "The ASPI rose 0.35% to close at 21,315.84 on turnover of about Rs. 1.45 billion, with banks the most active sector. Foreign investors were net sellers.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/China-lashes-out-at-US-for-suppressing-Chinese-companies-after-Huawei-conviction/107-355722"
+   "url": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-300/108-355729"
   },
   {
-   "section": "International",
-   "headline": "Sri Lankan refugee dies in Eswatini",
-   "summary": "A Sri Lankan refugee died months after being relocated by the UK to Eswatini.",
+   "section": "Economy & Business",
+   "headline": "CMC to settle Rs. 1.04 bn VAT arrears",
+   "summary": "The Colombo Municipal Council told a magistrate it will quickly settle VAT it has owed since 2016. The court asked both sides to report the settlement details on 24 March.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/cmc-moves-to-settle-rs-1040-million-unpaid-vat-arrears/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Bomb scare at Mattala airport",
+   "summary": "An Azur Air flight from Moscow was searched at Mattala after a bomb scare. A flight from Uzbekistan was reportedly diverted to Katunayake.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/25/bomb-scare-prompts-inspection-of-moscow-mattala-azur-air-aircraft/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Suspect remanded over defamatory Facebook posts",
+   "summary": "A Nugegoda man accused of posting manipulated audio and images to defame a Jayaratne Group director was refused bail. He is remanded until 3 December.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Sri-Lankan-refugee-dies-months-after-forced-UK-resettlement-in-Eswatini/107-355695"
+   "url": "https://www.dailymirror.lk/breaking-news/Suspect-remanded-over-Facebook-posts-targeting-Jayaratne-Group-director/108-355733"
+  },
+  {
+   "section": "International",
+   "headline": "Eisenkot gains first coalition partner",
+   "summary": "Israel's Gadi Eisenkot secured his first coalition partner as he tries to form a government.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Israels-Eisenkot-secures-first-coalition-partner-in-bid-to-form-government/107-355732"
+  },
+  {
+   "section": "International",
+   "headline": "Solomon Islands signs Australia security pact",
+   "summary": "The Solomon Islands signed a security agreement with Australia.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/international/Solomon-Islands-signs-security-deal-with-Australia/107-355731"
   }
  ]
 }

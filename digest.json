@@ -1,198 +1,222 @@
 {
- "generatedAt": 1795675416258,
- "generatedAtText": "Thu 26 Nov 2026, 12:13 PM",
- "status": "Couldn't read: Daily News",
+ "generatedAt": 1795693415941,
+ "generatedAtText": "Thu 26 Nov 2026, 5:13 PM",
+ "status": "Daily News homepage blocked; used search results",
  "items": [
   {
    "section": "Top stories",
-   "headline": "New twist in Sallay Easter attacks case",
-   "summary": "At the Fort Magistrate's Court, the Additional Solicitor General said a medical report found no evidence of torture in the Suresh Sallay case; Sallay's lawyers dispute how the prosecution reads the findings.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/ASG-says-medical-report-found-no-torture-Sallays-counsel-disputes-prosecutions-interpretation-of-findings/108-355763"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Bail for monks in Ruwanwelisaya clash",
-   "summary": "Ven. Kassapa Thera, Rajangane Saddharathana Thera and nine others remanded over the Ruwanwelisaya clash were released on bail.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Over 100 mm of rain likely in six provinces",
-   "summary": "The Met Department warns of heavy rain above 100 mm in parts of the Western, Sabaragamuwa, Central, North-Central, North-Western and Uva provinces today, with lightning and gusty winds during thunderstorms.",
+   "headline": "UN report urges sanctions over war-era abuses",
+   "summary": "A new UN human rights report on attacks against aid workers, hospitals and relief operations in 2006–2009 finds no one has been prosecuted. It calls for an apology, reparations, an independent prosecutor and, where justice stalls, targeted sanctions.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/26/heavy-rainfall-above-100-mm-expected-in-six-provinces-today/"
+   "url": "https://www.newswire.lk/2026/11/26/i-died-many-times-un-calls-for-sanctions-accountability-over-sri-lankas-wartime-violations/"
   },
   {
    "section": "Top stories",
-   "headline": "Household incomes up, buying power down",
-   "summary": "Provisional census figures show median household income rose to Rs. 75,882 from Rs. 53,333 in 2019, but fell about 39% after inflation, while poverty rose to 16% in early 2025.",
+   "headline": "Sri Lanka and Russia sign anti-corruption pact",
+   "summary": "Russia's visiting Prosecutor General signed a cooperation agreement with the Bribery Commission and pledged help in returning fugitives and tracing hidden assets.",
    "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-households-earn-more-but-afford-less/108-355756"
-  },
-  {
-   "section": "Top stories",
-   "headline": "One year since Cyclone Ditwah",
-   "summary": "A national multi-religious commemoration is being held in Badulla, with PM Harini Amarasuriya attending, for the cyclone that killed more than 650 people and left about 173 missing.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/26/one-year-since-cyclone-ditwah%e2%80%99-national-commemoration-in-badulla"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "President meets unions on Budget",
-   "summary": "President Anura Kumara Dissanayake is due to meet trade union representatives today about Budget 2027. Separately, he urged officials to speed up district development projects.",
-   "sources": [
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://www.newswire.lk/2026/11/26/president-to-meet-trade-union-representatives-today-on-budget/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Russian Prosecutor General on first visit",
-   "summary": "Alexander Gutsan began Russia's first-ever working visit by a Prosecutor General. The Justice Minister denied claims that he had been barred from visiting the AG's Department and CIABOC.",
-   "sources": [
-    "Newswire",
     "Newsfirst",
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Govt-refutes-claims-of-barring-Russian-Prosecutor-General-from-visiting-AGs-Office-CIABOC/108-355762"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "More jobs in Thailand discussed",
-   "summary": "Thailand's Deputy PM ended his visit after talks on creating more job opportunities for Sri Lankans in Thailand.",
-   "sources": [
+    "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/26/thai-deputy-pm-concludes-visit-talks-held-on-more-jobs-for-sri-lankans-in-thailand/"
+   "url": "https://english.newsfirst.lk/2026/11/26/sri-lanka-and-russia-sign-anti-corruption-deal"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Envoy warns of fallout from distant wars",
-   "summary": "Sri Lanka's High Commissioner to India said conflicts far from the region can still push up fuel prices and disrupt Indian Ocean shipping.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/26/indian-ocean-no-longer-safe-from-other-nations%e2%80%99-wars-sri-lanka-warns-of-global-economic-fallout"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Planters warn over cheap tea imports",
-   "summary": "The Planters' Association says low-cost tea imports could cause the collapse of the plantation economy.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/26/cheap-tea-imports-threaten-collapse-of-sri-lankas-plantation-economy-planters-association/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "IRD warns on cash deals and tax returns",
-   "summary": "The Inland Revenue Department issued two warnings, one on large cash transactions and one on filing tax returns.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/26/cash-transactions-and-tax-returns-two-key-warnings-from-the-ird/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rupee slips against the dollar",
-   "summary": "The rupee weakened against the US dollar in today's Central Bank rates.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/26/dollar-rate-today-sri-lankan-rupee-depreciates-against-usd-3/"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Paying-ward charges raised",
-   "summary": "Room charges in paying wards at state hospitals have gone up.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Room-charges-in-state-hospital-paying-wards-increased/108-355760"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Diana Gamage pleads guilty in visa case",
-   "summary": "Former MP Diana Gamage pleaded guilty to a visa overstay charge at the Colombo Magistrate's Court. Sentencing is set for January 17.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/26/diana-gamage-pleads-guilty-in-visa-overstay-case-sentencing-on-january-17/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Constable in T-56 case brought back from Dubai",
-   "summary": "A police constable accused of handing his T-56 rifle to an organised crime gang was returned from Dubai and arrested.",
-   "sources": [
-    "Newswire",
-    "Newsfirst",
-    "Daily Mirror"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/26/constable-arrested-over-t-56-handover-to-gang"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Quazi judge held over bribe; scam director arrested",
-   "summary": "CIABOC arrested a Quazi judge and a woman over an alleged Rs. 65,000 bribe. Police arrested another director in a Rs. 4 billion investment scam.",
+   "section": "Top stories",
+   "headline": "Rohitha Rajapaksa questioned over SupremeSAT",
+   "summary": "The former President's youngest son gave a statement to the FCID in its probe into the SupremeSAT satellite deal, and later said no fraud allegation had been made against him.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Quazi-Judge-woman-arrested-over-Rs-65-000-bribe/108-355744"
+   "url": "https://www.dailymirror.lk/breaking-news/FCID-questions-Rohitha-Rajapaksa-over-SupremeSAT-deal/108-355810"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Train rescue hero honoured",
-   "summary": "The Army Commander honoured a Homagama man who crawled under a train to save a trapped female soldier.",
+   "section": "Top stories",
+   "headline": "Eight killed in road accidents",
+   "summary": "Eight people, including a 13-year-old girl who fell from a cab in Norwood, died in separate crashes across the island.",
    "sources": [
-    "Newsfirst",
-    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/13-year-old-girl-among-eight-dead-in-multiple-road-accidents-across-sri-lanka"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Sri Lanka women win Emerging Nations title",
+   "summary": "Sri Lanka beat Ireland by six wickets in the Emerging Nations T20 final in Ajman, bowling them out for 96 and chasing it down in under 13 overs.",
+   "sources": [
     "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/26/%e2%80%98he-risked-his-own-life-to-save-hers%e2%80%99-sri-lankan-army-chief-honours-homagama-rescue-hero"
+   "url": "https://www.dailymirror.lk/sports/Sri-Lanka-Emerging-Nations-champions/244-355781"
   },
   {
-   "section": "Weather & Disasters",
-   "headline": "Cargo ship rescued",
-   "summary": "Sri Lankan authorities rescued a cargo ship carrying about 23,000 tonnes of cargo.",
+   "section": "Politics & Government",
+   "headline": "Vijitha Herath heads to IORA meeting",
+   "summary": "The Foreign Minister left for New Delhi to lead Sri Lanka's delegation at the 25th Indian Ocean Rim Association ministerial meeting.",
+   "sources": [
+    "Newsfirst",
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/vijitha-herath-heads-to-india-for-iora-summit"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "New regional security roadmap",
+   "summary": "At the Colombo Security Conclave, Sri Lanka joined India and the Maldives on a 2026–2027 roadmap and pressed for joint action on drugs, maritime threats and cybercrime.",
+   "sources": [
+    "Newsfirst",
+    "Daily News",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/sri-lanka-joins-india-and-maldives-in-new-regional-security-roadmap-for-20262027"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Deputy Minister's payslip challenge",
+   "summary": "As public servants push for higher pay, a Deputy Minister challenged critics to compare payslips, defending the government's salary record.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/26/sri-lanka-rescues-cargo-ship-carrying-nearly-23000-tonnes-of-cargo/"
+   "url": "https://www.newswire.lk/2026/11/26/deputy-minister-issues-payslip-challenge-amid-public-sector-salary-demands/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Mahinda Rajapaksa meets Indian envoy",
+   "summary": "The former President met India's Deputy High Commissioner in Colombo.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/mahinda-rajapaksa-meets-indian-deputy-high-commissioner-in-colombo/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "World Bank arm launches first rupee facility",
+   "summary": "The IFC set up a six-year fixed-rate rupee borrowing line with HSBC Sri Lanka, backing a 10-year rupee loan to a renewable energy firm, its first infrastructure investment here since the crisis.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/world-bank-group-launches-first-sri-lankan-rupee-financing-facility/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Brazil deal to boost sugar output",
+   "summary": "Sri Lanka signed an agreement worth about US$536,000 with Brazil to help raise local sugar production.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/sri-lanka-signs-us-536046-agreement-with-brazil-to-boost-local-sugar-production/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Cruise ship brings 1,600 tourists",
+   "summary": "The cruise liner Cordelia Empress docked in Colombo carrying around 1,600 visitors.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Cordelia-Empress-arrives-in-Colombo-with-1-600-tourists/108-355816"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Stocks close higher",
+   "summary": "Colombo share indices ended the day in positive territory on muted trading.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business-news/Indices-close-in-green/273-355806"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Yoshitha Rajapaksa case set for Dec 3",
+   "summary": "Further evidence in the money laundering case against Yoshitha Rajapaksa will be heard on December 3.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-Yoshitha-Rajapaksas-money-laundering-case-to-be-heard-on-December-3/108-355812"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Two held over garbage dumped near reservoir",
+   "summary": "Two people were arrested after Gampola's waste was dumped illegally near the Moragahakanda Reservoir.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Gampola-garbage-dumped-illegally-near-Moragahakanda-Reservoir-two-arrested/108-355794"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Prabhakaran birthday event in Jaffna",
+   "summary": "More than 100 people attended an event in Jaffna marking the LTTE leader's birthday.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Over-100-attend-Prabhakaran-birthday-event-in-Jaffna/108-355814"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "HIV rising among young adults",
+   "summary": "Health officials report a rise in HIV infections among people aged 20 to 24.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/hiv-infections-on-the-rise-among-youth-aged-20-24-in-sri-lanka/"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Amber thunderstorm warning for 18 districts",
+   "summary": "The Met Department upgraded its alert to amber for severe thunderstorms in 18 districts, with over 100 mm of rain and strong lightning possible tonight in six provinces.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/amber-warning-issued-for-severe-thunderstorms-in-18-districts/"
   },
   {
    "section": "Sports",
-   "headline": "Mathews praises Sooryavanshi's 204",
-   "summary": "Angelo Mathews praised Vaibhav Sooryavanshi as a special talent after his 204-run innings.",
+   "headline": "Pathirana, Hasaranga in top IPL bracket",
+   "summary": "Seven Sri Lankans have registered for the IPL 2027 auction in Goa on December 16, with Pathirana and Hasaranga at the highest base price.",
    "sources": [
-    "Daily Mirror"
+    "Daily News"
    ],
-   "url": "https://www.dailymirror.lk/sports/Sooryavanshis-204-earns-Mathews-praise-as-someone-very-special/244-355776"
+   "url": "https://dailynews.lk/2026/11/26/sports/1053055/pathirana-hasaranga-in-top-bracket-of-ipl-auction/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Clive Lloyd backs Test Twenty",
+   "summary": "The West Indies great, visiting Sri Lanka, said the new Test Twenty format could help develop future international players.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/clive-lloyd-in-sri-lanka-backs-test-twenty-to-produce-future-international-stars/"
   },
   {
    "section": "International",
-   "headline": "31 killed in Cairo tanker blaze",
-   "summary": "A fuel tanker crash on a Cairo highway set off a huge fire that killed 31 people and injured 21.",
+   "headline": "Sri Lankan refugee dies after UK resettlement",
+   "summary": "A Sri Lankan refugee once held on Diego Garcia died in September after the UK quietly resettled him in Eswatini under an undisclosed deal, it has emerged.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/sri-lankan-refugee-dies-after-being-forcibly-resettled-in-african-nation-under-undisclosed-uk-deal/"
+  },
+  {
+   "section": "International",
+   "headline": "Bangkok oil depot blast injures seven",
+   "summary": "A large explosion at an oil depot in Bangkok injured seven people, four critically.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Thirty-one-killed-in-massive-fire-as-fuel-tanker-crashes-on-Cairo-highway/108-355742"
+   "url": "https://www.dailymirror.lk/breaking-news/Seven-injured-in-huge-Bangkok-oil-depot-blast-four-in-critical-condition/108-355813"
+  },
+  {
+   "section": "International",
+   "headline": "Oil prices climb on Iran mine claims",
+   "summary": "Crude rose on supply worries after Iran claimed mine strikes on ships.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Oil-rises-on-supply-concerns-as-Iran-claims-mine-strikes-on-ships/108-355790"
   }
  ]
 }

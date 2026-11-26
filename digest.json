@@ -1,128 +1,198 @@
 {
- "generatedAt": 1795625019572,
- "generatedAtText": "Wed 25 Nov 2026, 10:13 PM",
+ "generatedAt": 1795675416258,
+ "generatedAtText": "Thu 26 Nov 2026, 12:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "US tariffs spare Sri Lanka",
-   "summary": "Washington announced new tariffs on 14 trading partners, including China (up to 40%), Vietnam, India, Japan and the EU (20–25% for most). Sri Lanka was left off the list.",
-   "sources": [
-    "Newsfirst",
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/25/us-unveils-new-tariffs-on-major-trade-partners-sri-lanka-spared"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Reservoir spill gates opened as rain persists",
-   "summary": "Six Deduru Oya spill gates were opened, releasing about 4,200 cubic feet per second. Two Thabbowa Reservoir gates were due to open by 10 PM, and people living downstream along both rivers have been told to stay alert.",
+   "headline": "New twist in Sallay Easter attacks case",
+   "summary": "At the Fort Magistrate's Court, the Additional Solicitor General said a medical report found no evidence of torture in the Suresh Sallay case; Sallay's lawyers dispute how the prosecution reads the findings.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/six-spill-gates-of-deduru-oya-reservoir-opened-by-amid-rain/"
+   "url": "https://www.dailymirror.lk/breaking-news/ASG-says-medical-report-found-no-torture-Sallays-counsel-disputes-prosecutions-interpretation-of-findings/108-355763"
   },
   {
    "section": "Top stories",
-   "headline": "Teachers' sick-leave action goes ahead Nov 30",
-   "summary": "The Teachers and Principals Trade Union Alliance will hold its sick-leave campaign on 30 November as planned. It says talks with the Prime Minister brought no favourable response to its demands.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Teachers-Principals-to-continue-trade-union-action-on-November-30/108-355738"
-  },
-  {
-   "section": "Top stories",
-   "headline": "NCPA logs 9,600 child complaints in nine months",
-   "summary": "The National Child Protection Authority recorded 9,613 complaints from January to September, including 169 child rape cases and 51 teenage pregnancies. Colombo, Gampaha and Kurunegala had the most cases, and a doctors' union is calling for a national child protection policy.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankas-children-under-threat-51-teenage-pregnancies-169-rape-complaints-9-600-complaints-in-just-nine-months-NCPA/108-355736"
-  },
-  {
-   "section": "Top stories",
-   "headline": "President: use allocated funds or lose them",
-   "summary": "President Dissanayake told ministries to plan projects at the start of the year and review them monthly. Unspent funds will go back to the Treasury unless conditions such as opened letters of credit are met. The meeting also discussed a land bank to speed up land allocation for investors.",
+   "headline": "Bail for monks in Ruwanwelisaya clash",
+   "summary": "Ven. Kassapa Thera, Rajangane Saddharathana Thera and nine others remanded over the Ruwanwelisaya clash were released on bail.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/use-allocated-fund-or-lose-them-president-tells-ministers/"
+   "url": "https://www.dailymirror.lk/breaking-news/Kassapa-Thero-among-11-released-on-bail/108-355765"
   },
   {
-   "section": "Politics & Government",
-   "headline": "PM pledges action over Kinniya auditorium",
-   "summary": "Prime Minister Harini Amarasuriya told Parliament that legal action will follow if wrongdoing is confirmed in the 2022 demolition of a school auditorium in Kinniya. She promised to table all related documents.",
+   "section": "Top stories",
+   "headline": "Over 100 mm of rain likely in six provinces",
+   "summary": "The Met Department warns of heavy rain above 100 mm in parts of the Western, Sabaragamuwa, Central, North-Central, North-Western and Uva provinces today, with lightning and gusty winds during thunderstorms.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/pm-vows-legal-action-if-wrongdoing-confirmed-in-kinniya-school-auditorium-demolition/"
+   "url": "https://www.newswire.lk/2026/11/26/heavy-rainfall-above-100-mm-expected-in-six-provinces-today/"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Fisheries talks set for 22 January",
-   "summary": "Newsfirst reports that the India–Sri Lanka talks on the fisheries dispute will be held in New Delhi on 22 January. Both sides are aiming for a lasting solution.",
+   "section": "Top stories",
+   "headline": "Household incomes up, buying power down",
+   "summary": "Provisional census figures show median household income rose to Rs. 75,882 from Rs. 53,333 in 2019, but fell about 39% after inflation, while poverty rose to 16% in early 2025.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-households-earn-more-but-afford-less/108-355756"
+  },
+  {
+   "section": "Top stories",
+   "headline": "One year since Cyclone Ditwah",
+   "summary": "A national multi-religious commemoration is being held in Badulla, with PM Harini Amarasuriya attending, for the cyclone that killed more than 650 people and left about 173 missing.",
    "sources": [
     "Newsfirst"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/25/january-22-talks-in-new-delhi-aim-to-end-india-sri-lanka-fisheries-row"
+   "url": "https://english.newsfirst.lk/2026/11/26/one-year-since-cyclone-ditwah%e2%80%99-national-commemoration-in-badulla"
   },
   {
-   "section": "Economy & Business",
-   "headline": "CSE rebounds; ASPI back above 21,300",
-   "summary": "The ASPI rose 0.35% to close at 21,315.84 on turnover of about Rs. 1.45 billion, with banks the most active sector. Foreign investors were net sellers.",
+   "section": "Politics & Government",
+   "headline": "President meets unions on Budget",
+   "summary": "President Anura Kumara Dissanayake is due to meet trade union representatives today about Budget 2027. Separately, he urged officials to speed up district development projects.",
    "sources": [
+    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/president-to-meet-trade-union-representatives-today-on-budget/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Russian Prosecutor General on first visit",
+   "summary": "Alexander Gutsan began Russia's first-ever working visit by a Prosecutor General. The Justice Minister denied claims that he had been barred from visiting the AG's Department and CIABOC.",
+   "sources": [
+    "Newswire",
+    "Newsfirst",
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/CSE-rebounds-as-ASPI-regains-21-300/108-355729"
+   "url": "https://www.dailymirror.lk/breaking-news/Govt-refutes-claims-of-barring-Russian-Prosecutor-General-from-visiting-AGs-Office-CIABOC/108-355762"
   },
   {
-   "section": "Economy & Business",
-   "headline": "CMC to settle Rs. 1.04 bn VAT arrears",
-   "summary": "The Colombo Municipal Council told a magistrate it will quickly settle VAT it has owed since 2016. The court asked both sides to report the settlement details on 24 March.",
+   "section": "Politics & Government",
+   "headline": "More jobs in Thailand discussed",
+   "summary": "Thailand's Deputy PM ended his visit after talks on creating more job opportunities for Sri Lankans in Thailand.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/cmc-moves-to-settle-rs-1040-million-unpaid-vat-arrears/"
+   "url": "https://www.newswire.lk/2026/11/26/thai-deputy-pm-concludes-visit-talks-held-on-more-jobs-for-sri-lankans-in-thailand/"
   },
   {
-   "section": "Local / Crime & Courts",
-   "headline": "Bomb scare at Mattala airport",
-   "summary": "An Azur Air flight from Moscow was searched at Mattala after a bomb scare. A flight from Uzbekistan was reportedly diverted to Katunayake.",
+   "section": "Politics & Government",
+   "headline": "Envoy warns of fallout from distant wars",
+   "summary": "Sri Lanka's High Commissioner to India said conflicts far from the region can still push up fuel prices and disrupt Indian Ocean shipping.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/indian-ocean-no-longer-safe-from-other-nations%e2%80%99-wars-sri-lanka-warns-of-global-economic-fallout"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Planters warn over cheap tea imports",
+   "summary": "The Planters' Association says low-cost tea imports could cause the collapse of the plantation economy.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/25/bomb-scare-prompts-inspection-of-moscow-mattala-azur-air-aircraft/"
+   "url": "https://www.newswire.lk/2026/11/26/cheap-tea-imports-threaten-collapse-of-sri-lankas-plantation-economy-planters-association/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "IRD warns on cash deals and tax returns",
+   "summary": "The Inland Revenue Department issued two warnings, one on large cash transactions and one on filing tax returns.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/cash-transactions-and-tax-returns-two-key-warnings-from-the-ird/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rupee slips against the dollar",
+   "summary": "The rupee weakened against the US dollar in today's Central Bank rates.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/dollar-rate-today-sri-lankan-rupee-depreciates-against-usd-3/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Paying-ward charges raised",
+   "summary": "Room charges in paying wards at state hospitals have gone up.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Room-charges-in-state-hospital-paying-wards-increased/108-355760"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Suspect remanded over defamatory Facebook posts",
-   "summary": "A Nugegoda man accused of posting manipulated audio and images to defame a Jayaratne Group director was refused bail. He is remanded until 3 December.",
+   "headline": "Diana Gamage pleads guilty in visa case",
+   "summary": "Former MP Diana Gamage pleaded guilty to a visa overstay charge at the Colombo Magistrate's Court. Sentencing is set for January 17.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/diana-gamage-pleads-guilty-in-visa-overstay-case-sentencing-on-january-17/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Constable in T-56 case brought back from Dubai",
+   "summary": "A police constable accused of handing his T-56 rifle to an organised crime gang was returned from Dubai and arrested.",
+   "sources": [
+    "Newswire",
+    "Newsfirst",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/constable-arrested-over-t-56-handover-to-gang"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Quazi judge held over bribe; scam director arrested",
+   "summary": "CIABOC arrested a Quazi judge and a woman over an alleged Rs. 65,000 bribe. Police arrested another director in a Rs. 4 billion investment scam.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Quazi-Judge-woman-arrested-over-Rs-65-000-bribe/108-355744"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Train rescue hero honoured",
+   "summary": "The Army Commander honoured a Homagama man who crawled under a train to save a trapped female soldier.",
+   "sources": [
+    "Newsfirst",
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/26/%e2%80%98he-risked-his-own-life-to-save-hers%e2%80%99-sri-lankan-army-chief-honours-homagama-rescue-hero"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Cargo ship rescued",
+   "summary": "Sri Lankan authorities rescued a cargo ship carrying about 23,000 tonnes of cargo.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/26/sri-lanka-rescues-cargo-ship-carrying-nearly-23000-tonnes-of-cargo/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Mathews praises Sooryavanshi's 204",
+   "summary": "Angelo Mathews praised Vaibhav Sooryavanshi as a special talent after his 204-run innings.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Suspect-remanded-over-Facebook-posts-targeting-Jayaratne-Group-director/108-355733"
+   "url": "https://www.dailymirror.lk/sports/Sooryavanshis-204-earns-Mathews-praise-as-someone-very-special/244-355776"
   },
   {
    "section": "International",
-   "headline": "Eisenkot gains first coalition partner",
-   "summary": "Israel's Gadi Eisenkot secured his first coalition partner as he tries to form a government.",
+   "headline": "31 killed in Cairo tanker blaze",
+   "summary": "A fuel tanker crash on a Cairo highway set off a huge fire that killed 31 people and injured 21.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/international/Israels-Eisenkot-secures-first-coalition-partner-in-bid-to-form-government/107-355732"
-  },
-  {
-   "section": "International",
-   "headline": "Solomon Islands signs Australia security pact",
-   "summary": "The Solomon Islands signed a security agreement with Australia.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/international/Solomon-Islands-signs-security-deal-with-Australia/107-355731"
+   "url": "https://www.dailymirror.lk/breaking-news/Thirty-one-killed-in-massive-fire-as-fuel-tanker-crashes-on-Cairo-highway/108-355742"
   }
  ]
 }

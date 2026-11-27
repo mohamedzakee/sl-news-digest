@@ -1,166 +1,102 @@
 {
- "generatedAt": 1795779836954,
- "generatedAtText": "Fri 27 Nov 2026, 5:14 PM",
+ "generatedAt": 1795797813543,
+ "generatedAtText": "Fri 27 Nov 2026, 10:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "S&P upgrades Sri Lanka to 'B-'",
-   "summary": "S&P Global Ratings lifted Sri Lanka's long-term sovereign rating from CCC+ to B- with a stable outlook, citing strong revenue growth, rising reserves and resilient growth. It flagged energy risks linked to the Middle East war, a possible El Niño and an interest bill near 40% of revenue.",
+   "headline": "Gotabaya says he can't recall in Lalith-Kugan case",
+   "summary": "Testifying by video link to the Jaffna Magistrate's Court, former President Gotabaya Rajapaksa repeatedly said he could not remember events from his time as Defence Secretary. His further evidence was put off to February 12.",
    "sources": [
     "Newsfirst",
-    "Newswire"
+    "Newswire",
+    "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/27/sri-lanka-moves-up-a-tier-as-s-p-cites-stronger-finances-and-rising-reserves"
+   "url": "https://www.newswire.lk/2026/11/27/gotabayas-repeated-i-dont-remember-responses-in-court/"
   },
   {
    "section": "Top stories",
-   "headline": "GMOA backs November 30 islandwide strike",
-   "summary": "The Government Medical Officers' Association will support the one-day strike called by teachers' and principals' unions, who say the 2027 Budget ignores their grievances. It has not said how doctors will take part.",
+   "headline": "Finance Ministry welcomes S&P upgrade",
+   "summary": "The Finance Ministry hailed S&P's move to raise Sri Lanka from CCC+ to B- with a stable outlook, noting it follows a similar Fitch upgrade in September.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/27/gmoa-to-support-islandwide-trade-union-action-on-november-30/"
+   "url": "https://www.newswire.lk/2026/11/27/finance-ministry-welcomes-sps-upgrade-of-sri-lankas-credit-ratings/"
   },
   {
    "section": "Top stories",
-   "headline": "Amber thunderstorm warning for 14 districts",
-   "summary": "The Met Department warned of severe lightning, rain above 100 mm in places and winds of 60–70 kmph until 11:30 PM tonight, covering all of Colombo, Gampaha, Kalutara, Galle, Matara, Ratnapura and Kegalle plus parts of seven other districts. Flash floods, landslides and power cuts are possible.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/severe-thunderstorm-warning-issued-for-14-districts/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Constable who supplied T-56 rifle deported from Dubai",
-   "summary": "A former Mount Lavinia police constable accused of handing his service T-56 rifle to organised criminals, and of running drug networks in Anuradhapura, was deported from Dubai and arrested by the CID at the airport.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/27/constable-accused-of-supplying-t-56-rifle-also-linked-to-drug-trafficking"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Gotabaya testifies in Lalith-Kugan case",
-   "summary": "Former President Gotabaya Rajapaksa gave evidence online for about an hour in the 2011 disappearance case of activists Lalith Kumar Weeraraj and Kugan Muruganandhan. The Jaffna Magistrate's Court will record further evidence on February 12.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-Lalith-Kugan-disappearance-case-fixed-for-Feb-12/108-355897"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "No ban on phones in police stations",
-   "summary": "Public Security Minister Ananda Wijepala told Parliament there is no circular stopping the public from carrying phones into police stations, though limits may apply to suspects in cells.",
+   "headline": "Two-year rebuild plan for Ditwah-hit transport",
+   "summary": "The Transport Minister told Parliament a Rs. 125 billion, two-year programme to rebuild roads and bridges damaged by Cyclone Ditwah is under way. Opposition Leader Sajith Premadasa said the disaster response has fallen short and urged a new disaster-management mechanism.",
    "sources": [
     "Daily Mirror",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/No-ban-on-public-taking-mobile-phones-into-police-stations-Minister/108-355881"
+   "url": "https://www.dailymirror.lk/breaking-news/Two-years-to-complete-reconstruction-of-Ditwah-affected-transport-facilities/108-355905"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Rs. 950 million for demining in 2027",
-   "summary": "The government has set aside Rs. 950 million for next year's landmine clearance, and Foreign Minister Vijitha Herath briefed diplomats from 19 countries and UN agencies on the programme.",
+   "section": "Top stories",
+   "headline": "Three held with 47,000 cigarettes at BIA",
+   "summary": "Customs stopped three young Sri Lankan travellers at Katunayake airport carrying about 47,000 foreign cigarettes worth roughly Rs. 7 million hidden in their luggage.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/up-in-smoke-three-passengers-caught-with-47000-cigarettes-at-bia/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "FIFA and AFP hit by cyberattacks",
+   "summary": "FIFA said hackers posing as staff accessed a small amount of personal and business data, while news agency AFP took its client content platform offline after an overnight attack.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-allocates-Rs-950-million-for-landmine-clearance-in-2027/108-355896"
+   "url": "https://www.dailymirror.lk/international/FIFA-hit-by-cyberattack-as-hackers-gain-access-to-personal-and-business-data/107-355918"
   },
   {
    "section": "Politics & Government",
-   "headline": "Police explain Jaffna restaurant demolition",
-   "summary": "Police said the part of the 'Matara Ambula' restaurant pulled down in Jaffna was an illegal structure on RDA land, removed under a July court order, and that viral social media posts distorted the facts.",
+   "headline": "Namal: only 3% of rural development funds spent",
+   "summary": "SLPP MP Namal Rajapaksa told Parliament roughly Rs. 1 billion of the Rs. 35 billion rural development allocation has been used, and urged the government to stop blaming past administrations.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/27/why-was-jaffnas-matara-ambula-restaurant-partially-demolished-police-explain/"
+   "url": "https://www.dailymirror.lk/breaking-news/Namal-questions-spending-of-rural-development-funds/108-355910"
   },
   {
    "section": "Politics & Government",
-   "headline": "School year ends December 4",
-   "summary": "An Education Ministry circular says government and approved private schools close on December 4, and the new school year begins on January 4, 2027.",
+   "headline": "Namal alleges staff signed in, then attended President's rally",
+   "summary": "Showing an attendance sheet and selfies, Namal Rajapaksa claimed public servants marked duty before attending a presidential meeting, and asked why the rules used against a remanded trade unionist were not applied to them.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/27/school-term-to-end-on-december-4/"
+   "url": "https://www.newswire.lk/2026/11/27/namal-alleges-tu-officials-attended-presidents-rally-after-signing-in-for-duty/"
   },
   {
-   "section": "Economy & Business",
-   "headline": "East Terminal to hit 50% capacity this month",
-   "summary": "Deputy Minister Janitha Ruwan Kodithuwakku said Colombo Port's East Terminal should reach half capacity this month, with one automated yard lane running and 10 more being activated.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Eastern-Terminal-to-reach-50-capacity-this-month-Deputy-Minister-says/108-355902"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Tea export earnings down 6% in October",
-   "summary": "October tea exports earned about US$118.8 million, down from US$126.5 million a year earlier, as volumes fell. Ten-month earnings are down nearly 7%, though shipments to Türkiye more than doubled.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/business/Tea-export-earnings-fall-6-in-October/215-355885"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "ADB warns Sri Lanka may lose export ground",
-   "summary": "The ADB said rivals winning preferential trade deals, such as India's EU negotiations, could squeeze Sri Lankan exporters, and urged reforms to cut trade costs and attract investment.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/business/Sri-Lanka-risks-losing-export-ground-to-rivals-ADB-cautions/215-355889"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "IRD offices open this weekend",
-   "summary": "Inland Revenue regional offices will open on November 28 and 29 to issue PINs and TINs ahead of the November 30 income tax return deadline.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/IRD-opens-regional-offices-over-weekend-ahead-of-Nov-30-deadline/108-355903"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "16 hurt in Ratnapura bus-truck crash",
-   "summary": "A bus heading to Ratnapura collided with a tipper truck on the Ratnapura–Avissawella road this morning, injuring 16 people, five of them seriously.",
+   "section": "Politics & Government",
+   "headline": "First female honorary consul in Türkiye",
+   "summary": "Entrepreneur Elif Yücelik has been appointed Sri Lanka's honorary consul in Erzurum, covering Eastern Anatolia for three years, the first woman in the role in Türkiye.",
    "sources": [
     "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/27/16-injured-five-seriously-in-bus-truck-collision-in-ratnapura/"
+   "url": "https://www.newswire.lk/2026/11/27/sri-lanka-appoints-first-female-honorary-consul-in-turkiye/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "HIV cases rising among young people",
-   "summary": "Health data show a steady rise in HIV infections among 15–24-year-olds since 2010, with 874 new cases detected in 2025. Testing and treatment are free at government clinics.",
+   "headline": "Recycling facility opens in Kattankudy",
+   "summary": "A material recovery facility to sort household plastic, polythene and glass has opened at the Kattankudy Urban Council under the Clean Sri Lanka programme.",
    "sources": [
-    "Newsfirst"
+    "Newswire"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/27/growing-hiv-cases-detected-among-15-24-age-group-in-sri-lanka"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "CERT warns of website supply-chain attack",
-   "summary": "Sri Lanka CERT urged organisations to check their sites after a global attack that injected malicious JavaScript into third-party scripts and hit 178 organisations.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-global-website-security-attack/108-355900"
+   "url": "https://www.newswire.lk/2026/11/27/pure-city-material-recovery-facility-opened-in-kattankudy/"
   },
   {
    "section": "Sports",
-   "headline": "Kingswood captain takes hat-trick, 11 wickets",
-   "summary": "Kenula Pihilianga took a hat-trick and 11 wickets as Kingswood College beat Christ King College by an innings and 117 runs in Under-19 Division II cricket.",
+   "headline": "Rohit Sharma back as Mumbai Indians captain",
+   "summary": "Mumbai Indians reappointed Rohit Sharma as captain for IPL 2027, after Hardik Pandya moved to Punjab Kings in a trade.",
    "sources": [
-    "Daily Mirror"
+    "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/sports/Kingswood-captain-Kenula-grabs-hat-trick-and-11-wickets/244-355867"
+   "url": "https://www.newswire.lk/2026/11/27/mumbai-indians-announce-new-captain/"
   }
  ]
 }

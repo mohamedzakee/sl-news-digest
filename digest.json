@@ -1,161 +1,166 @@
 {
- "generatedAt": 1795761808669,
- "generatedAtText": "Fri 27 Nov 2026, 12:13 PM",
+ "generatedAt": 1795779836954,
+ "generatedAtText": "Fri 27 Nov 2026, 11:43 AM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Parliament marks a year since Cyclone Ditwah",
-   "summary": "Parliament observed a moment of silence for the victims on the cyclone's first anniversary. Opposition Leader Sajith Premadasa called for a disaster system built on preparedness and asked whether relief from the Rs. 500 billion supplementary estimate had reached affected farmers, fishers and small traders.",
+   "headline": "S&P upgrades Sri Lanka to 'B-'",
+   "summary": "S&P Global Ratings lifted Sri Lanka's long-term sovereign rating from CCC+ to B- with a stable outlook, citing strong revenue growth, rising reserves and resilient growth. It flagged energy risks linked to the Middle East war, a possible El Niño and an interest bill near 40% of revenue.",
    "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/one-year-since-ditwah-sajith-calls-for-new-disaster-management-mechanism/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Rs. 10,000 extra for police; 65,000 seek e-bikes",
-   "summary": "Public Security Minister Ananda Wijepala said police food and accommodation allowances will go up from Rs. 28,200 to Rs. 38,200 because a separate risk allowance could not fit in this year's budget. About 65,000 officers have applied for government-backed electric motorcycles, which will come with interest-free loans.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/27/rs-10-000-allowance-for-police-as-65-000-officers-sign-up-for-electric-bikes"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Airbus probe investigator to testify in Namal case",
-   "summary": "A French forensic accountant who helped uncover the Airbus bribery network is expected to testify, together with an Airbus vice-president, in the case against MP Namal Rajapaksa. Prosecutors allege a US$16 million kickback on a proposed US$2.3 billion SriLankan Airlines aircraft deal.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/27/investigator-who-helped-uncover-airbus-global-bribery-network-to-appear-in-sri-lanka-in-case-against-namal"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Navy seizes drug boat south of Dondra",
-   "summary": "The Navy detained a vessel with no flag and seven suspects in international waters. The boat is believed to have been carrying heroin and crystal meth, and the suspects are being brought ashore for the Police Narcotics Bureau.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Navy-seizes-suspected-drug-smuggling-vessel-in-international-waters-south-of-Dondra/108-355845"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Heavy rain over 100 mm in five provinces",
-   "summary": "Heavy falls above 100 mm are likely in parts of the Western, Sabaragamuwa, Central, Southern and Uva provinces. People are asked to watch for lightning and sudden strong winds, and seas off several coasts may be rough.",
-   "sources": [
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/heavy-rainfall-above-100-mm-expected-in-five-provinces-today/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Herath and Jaishankar meet in Delhi",
-   "summary": "Foreign Minister Vijitha Herath met India's S. Jaishankar ahead of the IORA Council of Ministers meeting. They discussed bilateral ties and the regional situation.",
-   "sources": [
-    "Daily Mirror",
     "Newsfirst",
     "Newswire"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Indian-Foreign-Ministers-hold-talks-in-Delhi/108-355848"
+   "url": "https://english.newsfirst.lk/2026/11/27/sri-lanka-moves-up-a-tier-as-s-p-cites-stronger-finances-and-rising-reserves"
   },
   {
-   "section": "Politics & Government",
-   "headline": "Caucus weighs action on deported sex offenders",
-   "summary": "The Women Parliamentarians' Caucus looked at ways to act against citizens deported after sexual abuse convictions abroad. Ideas included recognising foreign judgments, sharing conviction data internationally and requiring background checks for child-care staff.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/sri-lanka-mulls-legal-measures-against-deportees-convicted-of-sexual-abuse-overseas/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "27-acre arts and cultural village proposed",
-   "summary": "A Cabinet paper seeks approval to acquire land near Colombo for a village housing film, arts, meditation and Buddhist studies institutions.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/27-acre-land-near-Colombo-proposed-for-Arts-and-Cultural-Village/108-355852"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Fewer public servants, bigger salary bill",
-   "summary": "The public service shrank by about 23,300 staff to 893,797 in the year to June. Salary spending still rose 8.7% to Rs. 827 billion in the first eight months of 2026, largely because of the pay revision.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Public-service-shrinks-but-salary-bill-keeps-rising/108-355853"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Rupee slips again against the dollar",
-   "summary": "Most banks raised their dollar rates by 20–25 cents. Selling rates are around Rs. 337–337.75.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/dollar-rate-today-sri-lankan-rupee-depreciates-further-against-usd-5/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Sallay petition order put off to January 28",
-   "summary": "The Court of Appeal postponed its decision on whether to hear former SIS chief Suresh Sallay's challenge to his PTA detention order linked to the Easter attacks probe.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/court-of-appeal-postpones-order-on-suresh-sallays-petition-until-january-28/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Senior DIG Pathinayake at Bribery Commission",
-   "summary": "Senior DIG Lalith Pathinayake, who oversees the Central Province, went to the Bribery Commission to give a statement in an ongoing inquiry.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/senior-dig-lalith-pathinayake-arrives-at-bribery-commission/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Shark fins traded for kendu leaves off Chilaw",
-   "summary": "The Coast Guard and Navy arrested four Sri Lankan and three Indian fishermen during an at-sea swap. They seized about 180 kg of shark fins and 1,890 kg of kendu leaves.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Shark-fins-for-kendu-leaves-Seven-arrested-in-sea-exchange-off-Chilaw/108-355858"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Three killed on roads; arrest in bank fraud",
-   "summary": "A toddler was among three people killed in separate crashes in Embilipitiya, Dambulla and Homagama. Separately, a 25-year-old data entry officer was arrested over a Rs. 1 million fake banking website scam.",
+   "section": "Top stories",
+   "headline": "GMOA backs November 30 islandwide strike",
+   "summary": "The Government Medical Officers' Association will support the one-day strike called by teachers' and principals' unions, who say the 2027 Budget ignores their grievances. It has not said how doctors will take part.",
    "sources": [
     "Newswire",
-    "Daily Mirror",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/gmoa-to-support-islandwide-trade-union-action-on-november-30/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Amber thunderstorm warning for 14 districts",
+   "summary": "The Met Department warned of severe lightning, rain above 100 mm in places and winds of 60–70 kmph until 11:30 PM tonight, covering all of Colombo, Gampaha, Kalutara, Galle, Matara, Ratnapura and Kegalle plus parts of seven other districts. Flash floods, landslides and power cuts are possible.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/severe-thunderstorm-warning-issued-for-14-districts/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Constable who supplied T-56 rifle deported from Dubai",
+   "summary": "A former Mount Lavinia police constable accused of handing his service T-56 rifle to organised criminals, and of running drug networks in Anuradhapura, was deported from Dubai and arrested by the CID at the airport.",
+   "sources": [
     "Newsfirst"
    ],
-   "url": "https://www.newswire.lk/2026/11/27/three-including-toddler-killed-in-separate-road-accidents/"
+   "url": "https://english.newsfirst.lk/2026/11/27/constable-accused-of-supplying-t-56-rifle-also-linked-to-drug-trafficking"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Gotabaya testifies in Lalith-Kugan case",
+   "summary": "Former President Gotabaya Rajapaksa gave evidence online for about an hour in the 2011 disappearance case of activists Lalith Kumar Weeraraj and Kugan Muruganandhan. The Jaffna Magistrate's Court will record further evidence on February 12.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Further-evidence-in-Lalith-Kugan-disappearance-case-fixed-for-Feb-12/108-355897"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "No ban on phones in police stations",
+   "summary": "Public Security Minister Ananda Wijepala told Parliament there is no circular stopping the public from carrying phones into police stations, though limits may apply to suspects in cells.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/No-ban-on-public-taking-mobile-phones-into-police-stations-Minister/108-355881"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Rs. 950 million for demining in 2027",
+   "summary": "The government has set aside Rs. 950 million for next year's landmine clearance, and Foreign Minister Vijitha Herath briefed diplomats from 19 countries and UN agencies on the programme.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-allocates-Rs-950-million-for-landmine-clearance-in-2027/108-355896"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Police explain Jaffna restaurant demolition",
+   "summary": "Police said the part of the 'Matara Ambula' restaurant pulled down in Jaffna was an illegal structure on RDA land, removed under a July court order, and that viral social media posts distorted the facts.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/why-was-jaffnas-matara-ambula-restaurant-partially-demolished-police-explain/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "School year ends December 4",
+   "summary": "An Education Ministry circular says government and approved private schools close on December 4, and the new school year begins on January 4, 2027.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/school-term-to-end-on-december-4/"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "East Terminal to hit 50% capacity this month",
+   "summary": "Deputy Minister Janitha Ruwan Kodithuwakku said Colombo Port's East Terminal should reach half capacity this month, with one automated yard lane running and 10 more being activated.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Eastern-Terminal-to-reach-50-capacity-this-month-Deputy-Minister-says/108-355902"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Tea export earnings down 6% in October",
+   "summary": "October tea exports earned about US$118.8 million, down from US$126.5 million a year earlier, as volumes fell. Ten-month earnings are down nearly 7%, though shipments to Türkiye more than doubled.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business/Tea-export-earnings-fall-6-in-October/215-355885"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "ADB warns Sri Lanka may lose export ground",
+   "summary": "The ADB said rivals winning preferential trade deals, such as India's EU negotiations, could squeeze Sri Lankan exporters, and urged reforms to cut trade costs and attract investment.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business/Sri-Lanka-risks-losing-export-ground-to-rivals-ADB-cautions/215-355889"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "IRD offices open this weekend",
+   "summary": "Inland Revenue regional offices will open on November 28 and 29 to issue PINs and TINs ahead of the November 30 income tax return deadline.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/IRD-opens-regional-offices-over-weekend-ahead-of-Nov-30-deadline/108-355903"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "16 hurt in Ratnapura bus-truck crash",
+   "summary": "A bus heading to Ratnapura collided with a tipper truck on the Ratnapura–Avissawella road this morning, injuring 16 people, five of them seriously.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/16-injured-five-seriously-in-bus-truck-collision-in-ratnapura/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "HIV cases rising among young people",
+   "summary": "Health data show a steady rise in HIV infections among 15–24-year-olds since 2010, with 874 new cases detected in 2025. Testing and treatment are free at government clinics.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/27/growing-hiv-cases-detected-among-15-24-age-group-in-sri-lanka"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "CERT warns of website supply-chain attack",
+   "summary": "Sri Lanka CERT urged organisations to check their sites after a global attack that injected malicious JavaScript into third-party scripts and hit 178 organisations.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-CERT-warns-of-global-website-security-attack/108-355900"
   },
   {
    "section": "Sports",
-   "headline": "Double cricket success for Sri Lanka",
-   "summary": "Sri Lanka A beat India A by eight wickets to reach the Asia Cup Rising Stars final in Doha. The women's side finished unbeaten to win the ICC Women's Emerging Nations Trophy.",
+   "headline": "Kingswood captain takes hat-trick, 11 wickets",
+   "summary": "Kenula Pihilianga took a hat-trick and 11 wickets as Kingswood College beat Christ King College by an innings and 117 runs in Under-19 Division II cricket.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-celebrate-double-cricket-success-as-both-teams-reach-new-heights/108-355843"
-  },
-  {
-   "section": "International",
-   "headline": "Amnesty presses for accountability after UN report",
-   "summary": "Amnesty International said a new UN rights office report on crimes during the war shows little progress on justice and that impunity persists. It urged continued international scrutiny.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/international/Amnesty-calls-UN-report-a-reminder-of-decades-of-impunity/107-355851"
+   "url": "https://www.dailymirror.lk/sports/Kingswood-captain-Kenula-grabs-hat-trick-and-11-wickets/244-355867"
   }
  ]
 }

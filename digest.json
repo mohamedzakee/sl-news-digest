@@ -1,18 +1,161 @@
-{"generatedAt": 1795711431910,
- "generatedAtText": "Thu 26 Nov 2026, 10:13 PM",
+{
+ "generatedAt": 1795761808669,
+ "generatedAtText": "Fri 27 Nov 2026, 12:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
-  {"section": "Top stories", "headline": "Higher threshold for top income tax rate", "summary": "President Dissanayake said the 2028 Budget will raise the monthly income level at which the top 36% PAYE rate applies to Rs. 500,000, and pledged that capital spending will not be cut. He also pushed back against public sector pay protests.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/president-announces-further-paye-tax-relief-in-2028-budget/"},
-  {"section": "Top stories", "headline": "Netherlands to return two Kandyan guns", "summary": "Two 18th-century rampart guns taken from the Kandyan Kingdom during Dutch rule and held at Amsterdam's Rijksmuseum will be handed back to Sri Lanka. Research linked them to the 1765 war with the Dutch East India Company; return arrangements will follow.", "sources": ["Daily Mirror", "Newswire"], "url": "https://www.dailymirror.lk/breaking-news/Netherlands-to-return-two-historic-Kandyan-guns-to-Sri-Lanka/108-355831"},
-  {"section": "Top stories", "headline": "Rs. 181m hashish found in Malaysian parcels", "summary": "Customs opened three unclaimed parcels from Malaysia at a Peliyagoda warehouse and found about 18 kg of hashish. The drugs were handed to the Police Narcotics Bureau for further investigation.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/rs-181-million-mystery-drug-parcels-from-malaysia-seized-in-sri-lanka/"},
-  {"section": "Top stories", "headline": "Minister urges one-third cut in paddy cultivation", "summary": "Agriculture Minister K. D. Lal Kantha said rice farming should shrink by at least a third because of surplus stocks and weak demand. The government is looking at exports before the Maha harvest and pushing farmers toward other crops.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/lal-kantha-calls-for-cutting-paddy-cultivation-by-at-least-one-third-in-sri-lanka/"},
-  {"section": "Top stories", "headline": "Bay of Bengal low-pressure advisory", "summary": "Fishing and naval communities were told to stay alert from November 29 to December 3, as a low-pressure area may form over the southeast Bay of Bengal around November 30. Forecasters see only a low chance of it becoming a depression.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/weather-advisory-issued-as-low-pressure-system-expected-over-bay-of-bengal/"},
-  {"section": "Politics & Government", "headline": "Third salary hike phase set for January", "summary": "PM Harini Amarasuriya told teacher and principal unions the third phase of the public sector pay increase will take effect in January 2027. A Salary and Pension Commission has been appointed to address anomalies.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/Third-phase-of-public-sector-salary-hike-to-take-effect-in-January-2027-PM/108-355824"},
-  {"section": "Politics & Government", "headline": "Mitra Shakti-XII exercise ends", "summary": "The 12th India–Sri Lanka joint army exercise wrapped up at Maduru Oya after nearly two weeks, involving more than 350 troops from both sides.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/india-sri-lanka-bilateral-military-exercise-mitra-shakti-xii-concludes/"},
-  {"section": "Economy & Business", "headline": "Ceylon Cinnamon gets national GI status", "summary": "The Export Development Board received Sri Lanka's first national Geographical Indication certificate, for Ceylon Cinnamon, after nearly a decade of work. Officials aim to lift cinnamon exports to US$1 billion by 2030.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/sri-lanka-completes-national-gi-registration-for-ceylon-cinnamon/"},
-  {"section": "Economy & Business", "headline": "CSE ends lower", "summary": "The ASPI fell 0.33% to 21,244.91 as decliners outnumbered gainers, though foreign investors were small net buyers.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/CSE-slips-back-towards-21-200-as-selling-pressure-returns/108-355833"},
-  {"section": "Local / Crime & Courts", "headline": "First national ECMO centre opens in Galle", "summary": "Galle National Hospital opened a three-bed centre for patients with severe heart or lung failure, along with a simulation unit to train medical staff.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/sri-lanka-opens-first-national-ecmo-treatment-centre-in-galle/"},
-  {"section": "Local / Crime & Courts", "headline": "Kinniya bridge under construction", "summary": "A Rs. 1,050 million Saudi-funded bridge across the Kurinchakerny lagoon is due in 2027, five years after a ferry capsizing there killed eight people. A free ferry runs meanwhile.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/26/kinniya-bridge-construction-under-5-years-after-ferry-accident-that-killed-8/"},
-  {"section": "Weather & Disasters", "headline": "Cyclone Ditwah, one year on", "summary": "A year after Ditwah killed more than 650 people, nearly all relief allowances have been paid and 1,615 families resettled, but rebuilding remains far from complete.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/26/the-night-ditwah-struck-one-year-later-how-far-has-sri-lanka-recovered"},
-  {"section": "International", "headline": "Tamil Nadu opens homes for Sri Lankan Tamils", "summary": "Chief Minister Vijay inaugurated 148 houses at a Krishnagiri rehabilitation camp and raised monthly cash aid for about 56,600 Sri Lankan Tamil refugees.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/international/CM-Vijay-inaugurates-148-houses-for-Sri-Lankan-Tamils-in-Krishnagiri-rehabilitation-camp/107-355834"}
- ]}
+  {
+   "section": "Top stories",
+   "headline": "Parliament marks a year since Cyclone Ditwah",
+   "summary": "Parliament observed a moment of silence for the victims on the cyclone's first anniversary. Opposition Leader Sajith Premadasa called for a disaster system built on preparedness and asked whether relief from the Rs. 500 billion supplementary estimate had reached affected farmers, fishers and small traders.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/one-year-since-ditwah-sajith-calls-for-new-disaster-management-mechanism/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Rs. 10,000 extra for police; 65,000 seek e-bikes",
+   "summary": "Public Security Minister Ananda Wijepala said police food and accommodation allowances will go up from Rs. 28,200 to Rs. 38,200 because a separate risk allowance could not fit in this year's budget. About 65,000 officers have applied for government-backed electric motorcycles, which will come with interest-free loans.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/27/rs-10-000-allowance-for-police-as-65-000-officers-sign-up-for-electric-bikes"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Airbus probe investigator to testify in Namal case",
+   "summary": "A French forensic accountant who helped uncover the Airbus bribery network is expected to testify, together with an Airbus vice-president, in the case against MP Namal Rajapaksa. Prosecutors allege a US$16 million kickback on a proposed US$2.3 billion SriLankan Airlines aircraft deal.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/27/investigator-who-helped-uncover-airbus-global-bribery-network-to-appear-in-sri-lanka-in-case-against-namal"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Navy seizes drug boat south of Dondra",
+   "summary": "The Navy detained a vessel with no flag and seven suspects in international waters. The boat is believed to have been carrying heroin and crystal meth, and the suspects are being brought ashore for the Police Narcotics Bureau.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Navy-seizes-suspected-drug-smuggling-vessel-in-international-waters-south-of-Dondra/108-355845"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Heavy rain over 100 mm in five provinces",
+   "summary": "Heavy falls above 100 mm are likely in parts of the Western, Sabaragamuwa, Central, Southern and Uva provinces. People are asked to watch for lightning and sudden strong winds, and seas off several coasts may be rough.",
+   "sources": [
+    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/heavy-rainfall-above-100-mm-expected-in-five-provinces-today/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Herath and Jaishankar meet in Delhi",
+   "summary": "Foreign Minister Vijitha Herath met India's S. Jaishankar ahead of the IORA Council of Ministers meeting. They discussed bilateral ties and the regional situation.",
+   "sources": [
+    "Daily Mirror",
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lankan-Indian-Foreign-Ministers-hold-talks-in-Delhi/108-355848"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Caucus weighs action on deported sex offenders",
+   "summary": "The Women Parliamentarians' Caucus looked at ways to act against citizens deported after sexual abuse convictions abroad. Ideas included recognising foreign judgments, sharing conviction data internationally and requiring background checks for child-care staff.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/sri-lanka-mulls-legal-measures-against-deportees-convicted-of-sexual-abuse-overseas/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "27-acre arts and cultural village proposed",
+   "summary": "A Cabinet paper seeks approval to acquire land near Colombo for a village housing film, arts, meditation and Buddhist studies institutions.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/27-acre-land-near-Colombo-proposed-for-Arts-and-Cultural-Village/108-355852"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Fewer public servants, bigger salary bill",
+   "summary": "The public service shrank by about 23,300 staff to 893,797 in the year to June. Salary spending still rose 8.7% to Rs. 827 billion in the first eight months of 2026, largely because of the pay revision.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Public-service-shrinks-but-salary-bill-keeps-rising/108-355853"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Rupee slips again against the dollar",
+   "summary": "Most banks raised their dollar rates by 20–25 cents. Selling rates are around Rs. 337–337.75.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/dollar-rate-today-sri-lankan-rupee-depreciates-further-against-usd-5/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Sallay petition order put off to January 28",
+   "summary": "The Court of Appeal postponed its decision on whether to hear former SIS chief Suresh Sallay's challenge to his PTA detention order linked to the Easter attacks probe.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/court-of-appeal-postpones-order-on-suresh-sallays-petition-until-january-28/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Senior DIG Pathinayake at Bribery Commission",
+   "summary": "Senior DIG Lalith Pathinayake, who oversees the Central Province, went to the Bribery Commission to give a statement in an ongoing inquiry.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/senior-dig-lalith-pathinayake-arrives-at-bribery-commission/"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Shark fins traded for kendu leaves off Chilaw",
+   "summary": "The Coast Guard and Navy arrested four Sri Lankan and three Indian fishermen during an at-sea swap. They seized about 180 kg of shark fins and 1,890 kg of kendu leaves.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Shark-fins-for-kendu-leaves-Seven-arrested-in-sea-exchange-off-Chilaw/108-355858"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Three killed on roads; arrest in bank fraud",
+   "summary": "A toddler was among three people killed in separate crashes in Embilipitiya, Dambulla and Homagama. Separately, a 25-year-old data entry officer was arrested over a Rs. 1 million fake banking website scam.",
+   "sources": [
+    "Newswire",
+    "Daily Mirror",
+    "Newsfirst"
+   ],
+   "url": "https://www.newswire.lk/2026/11/27/three-including-toddler-killed-in-separate-road-accidents/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Double cricket success for Sri Lanka",
+   "summary": "Sri Lanka A beat India A by eight wickets to reach the Asia Cup Rising Stars final in Doha. The women's side finished unbeaten to win the ICC Women's Emerging Nations Trophy.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Sri-Lanka-celebrate-double-cricket-success-as-both-teams-reach-new-heights/108-355843"
+  },
+  {
+   "section": "International",
+   "headline": "Amnesty presses for accountability after UN report",
+   "summary": "Amnesty International said a new UN rights office report on crimes during the war shows little progress on justice and that impunity persists. It urged continued international scrutiny.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/international/Amnesty-calls-UN-report-a-reminder-of-decades-of-impunity/107-355851"
+  }
+ ]
+}

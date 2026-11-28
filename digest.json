@@ -1,177 +1,101 @@
 {
- "generatedAt": 1795866221921,
- "generatedAtText": "Sat 28 Nov 2026, 5:13 PM",
+ "generatedAt": 1795884200109,
+ "generatedAtText": "Sat 28 Nov 2026, 10:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
   {
    "section": "Top stories",
-   "headline": "Amber alert for lightning and heavy rain in 19 districts",
-   "summary": "The Met Department issued an Amber warning at 1:38 PM for severe lightning and heavy rain across 19 districts, valid until 11:30 PM tonight. Flash floods, landslides and power cuts are possible, and fishermen are told to return to shore early.",
+   "headline": "Public sector unions to strike Monday",
+   "summary": "Unions covering education, health, administration and development officers say they will strike on November 30 despite government appeals, seeking a Rs. 25,000 interim allowance and fixes to salary anomalies. Teachers and principals plan to report sick, which may disrupt school exams.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/28/weather-warning-19-districts-on-alert-for-thunderstorms/"
+   "url": "https://www.newswire.lk/2026/11/28/trade-unions-adamant-on-going-ahead-with-mondays-strike/"
   },
   {
    "section": "Top stories",
-   "headline": "43 Red Notice suspects traced in 17 countries",
-   "summary": "Public Security Minister Ananda Wijepala told Parliament that 43 organised-crime suspects under Interpol Red Notices, 17 of them in Dubai, will be brought back as soon as possible. He also backed amending the drugs ordinance to allow longer detention for questioning.",
+   "headline": "Arrests over Prabhakaran photo displays",
+   "summary": "Public Security Minister Ananda Wijepala told Parliament that people were arrested in Mannar and Mullaitivu for displaying images of the late LTTE leader at remembrance events. He said remembering dead relatives is allowed but promoting the banned LTTE is not, and that old overseas photos are circulating online as recent.",
    "sources": [
-    "Daily Mirror",
     "Newswire",
-    "Newsfirst"
+    "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/28/43-red-notice-suspects-in-17-countries-to-be-brought-back-to-sri-lanka-says-public-security-minister"
+   "url": "https://www.newswire.lk/2026/11/28/prabhakaran-photo-displays-arrests-in-mannar-and-mullaitivu/"
   },
   {
    "section": "Top stories",
-   "headline": "Tri-forces to be restructured by 2031",
-   "summary": "Deputy Minister Aruna Jayasekera told Parliament the Army, Navy and Air Force will be reshaped into modern professional forces by 2031. Funds have been set aside for five anti-drone systems, and a review committee of retired commanders will be formed.",
+   "headline": "Parliament passes Defence Ministry budget head",
+   "summary": "The Defence Ministry's expenditure head was approved 85 to 4 during the budget committee stage, with 139 MPs absent.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/latest-news/Tri-forces-to-be-restructured-by-2031-Minister/342-355984"
+   "url": "https://www.dailymirror.lk/breaking-news/Defence-Ministry-expenditure-head-approved-by-Parliament/108-355990"
   },
   {
    "section": "Top stories",
-   "headline": "Fuel station owners back November 30 union action",
-   "summary": "The Petroleum Distributors Association says it supports Monday's nationwide trade union action, citing discount cuts, VAT disputes and short supply to private stations. It meets in Colombo tomorrow morning to decide its next step.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/latest-news/Fuel-distributors-back-November-30-trade-union-action/342-355978"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Teen gets heart transplant at National Hospital",
-   "summary": "A 14-year-old boy received the heart of a 19-year-old brain-dead donor from Gampaha at Colombo National Hospital and is reported to be doing well. Police escorted the organ by road after bad weather grounded the planned helicopter.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/14-year-old-undergoes-successful-heart-transplant-at-Colombo-National-Hospital/108-355980"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Police to get electric vehicles, body cameras",
-   "summary": "Minister Wijepala said police will receive 400 electric cars and 65,000 electric motorcycles in 2027, along with CCTV for 389 more stations and new uniforms fitted with body cameras.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/28/police-to-get-400-electric-cars-65000-electric-motorcycles-and-new-uniforms/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Foreign Minister joins IORA call with Modi",
-   "summary": "Foreign Minister Vijitha Herath took part in a meeting with Indian PM Narendra Modi alongside other IORA ministers in New Delhi.",
-   "sources": [
-    "Newswire",
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/28/sri-lanka-s-foreign-minister-meets-indian-pm-modi"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "President opens World Fellowship of Buddhists anniversary",
-   "summary": "President Dissanayake attended the opening of the 60th anniversary events in Kelaniya and spoke about the role of ethical leadership in national stability.",
+   "headline": "Two expressway sections start construction Dec 1",
+   "summary": "The Transport Minister said work begins on December 1 on the Kurunegala–Galewela stretch of the Central Expressway and the Kahathuduwa–Ingiriya first phase of the Ruwanpura Expressway. Studies are also underway on an Anuradhapura-centred network and an extension of the Katunayake expressway to Chilaw.",
    "sources": [
     "Newsfirst",
-    "Newswire"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/28/president-says-righteous-leadership-is-key-to-national-stability-and-progress"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "Port Access Expressway limited to permit holders from Dec 1",
-   "summary": "The RDA will allow only vehicles authorised to enter Colombo Port on the Port Access Expressway from Monday. Separately, expressway revenue has passed Rs. 27.5 billion over 22 months.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Port-access-expressway-to-allow-only-permitted-vehicles-from-December-1/108-355983"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "East Container Terminal nears full operations",
-   "summary": "Ten yard lanes at Colombo Port's East Container Terminal are due to go commercial by the end of December to ease congestion, with one lane already running automated.",
-   "sources": [
-    "Newsfirst"
-   ],
-   "url": "https://english.newsfirst.lk/2026/11/28/colombo-port%e2%80%99s-east-terminal-to-begin-full-operations-by-december"
-  },
-  {
-   "section": "Economy & Business",
-   "headline": "CSE ends week lower",
-   "summary": "The ASPI lost 0.8% over the week, dragged by Commercial Bank, Singer and LOLC, on average daily turnover of about Rs. 1.65 billion.",
-   "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/business/Week-ends-in-red/215-355962"
+   "url": "https://english.newsfirst.lk/2026/11/28/sri-lanka-plans-major-expressway-network-expansion"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Faiszer warns on terrorism Bill definition",
+   "summary": "MP Faiszer Musthapha urged the government to rethink the proposed Protection of the State from Terrorism Bill, saying its definition could reach dissent, trade unions, journalists and lawyer-client privilege. He welcomed plans for wider consultation.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/faiszer-questions-definition-of-terrorism-in-proposed-bill/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Vijitha Herath meets Modi in New Delhi",
+   "summary": "The Foreign Minister met Indian Prime Minister Narendra Modi with other IORA ministers on the sidelines of the 25th IORA Council of Ministers meeting.",
+   "sources": [
+    "Newswire",
+    "Newsfirst",
+    "Daily Mirror"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/foreign-minister-vijitha-herath-meets-indian-pm-modi/"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Suspect shot in Eheliyagoda police scuffle",
-   "summary": "A 25-year-old suspect from the van police fired on was shot in the shoulder after allegedly trying to grab an officer's gun. He is in Eheliyagoda Hospital and another suspect escaped.",
+   "headline": "Suspected drug dinghy seized off Mirissa",
+   "summary": "The Navy and Coast Guard seized a dinghy believed to be carrying narcotics off Thalaramba beach. No one was detained and the boat is being brought ashore for investigation.",
    "sources": [
-    "Newsfirst",
-    "Newswire",
     "Daily Mirror"
    ],
-   "url": "https://english.newsfirst.lk/2026/11/28/suspect-shot-during-confrontation-with-police-in-eheliyagoda"
+   "url": "https://www.dailymirror.lk/breaking-news/Navy-Coast-Guard-seize-dinghy-suspected-of-carrying-narcotics-off-Mirissa/108-355994"
   },
   {
    "section": "Local / Crime & Courts",
-   "headline": "Five Chinese nationals wanted by Beijing deported",
-   "summary": "Immigration officers deported five Chinese citizens wanted in China who were staying in Sri Lanka illegally, flying them to Shanghai and Chengdu.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Five-Chinese-nationals-wanted-by-China-deported/108-355919"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Passenger killed as rock hits bus in Ginigathhena",
-   "summary": "A rock rolled onto an SLTB bus from Hatton to Colombo near Kalugala, killing a 35-year-old passenger. Police blame recent heavy rain.",
+   "headline": "827 kg of Kendu leaves seized in Kalpitiya",
+   "summary": "A Navy–Police raid in Pudukudiyirippu recovered 22 sacks of smuggled Kendu leaves and a vehicle, and arrested one suspect.",
    "sources": [
     "Newswire"
    ],
-   "url": "https://www.newswire.lk/2026/11/28/passenger-killed-after-rock-falls-onto-bus-in-ginigathhena/"
-  },
-  {
-   "section": "Weather & Disasters",
-   "headline": "Small oil spill in Trincomalee Harbour",
-   "summary": "The Coast Guard is cleaning up a slick of about 7m by 2m found in the Boom Cove area this morning.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/28/coast-guard-responds-to-oil-spill-at-trincomalee-harbour/"
-  },
-  {
-   "section": "Sports",
-   "headline": "Sri Lanka A beat India A to reach Rising Stars final",
-   "summary": "Openers Lasith Croospulle and Sineth Jayawardena both made centuries as Sri Lanka A chased 318 to win by eight wickets in Doha.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/sports/Croospulle-and-Jayawardena-heroics-send-India-Apacking/244-355960"
+   "url": "https://www.newswire.lk/2026/11/28/smuggled-kendu-leaves-seized-in-kalpitiya-joint-operation/"
   },
   {
    "section": "International",
-   "headline": "Eight killed in Peru military helicopter crash",
-   "summary": "A Peruvian military helicopter crash left eight people dead.",
+   "headline": "Blast near Afghan school kills 10 students",
+   "summary": "An explosion in Asadabad, Kunar province, killed at least 10 students and injured over 100. Officials blamed careless handling of explosives used for mining.",
    "sources": [
     "Daily Mirror"
    ],
-   "url": "https://www.dailymirror.lk/breaking-news/Eight-killed-in-Peruvian-military-helicopter-crash/108-355975"
+   "url": "https://www.dailymirror.lk/breaking-news/Afghanistan-explosion-kills-10-students-and-injures-more-than-100-official-says/108-355992"
   },
   {
    "section": "International",
-   "headline": "FIFA says cyberattack reached limited data",
-   "summary": "FIFA said a cyberattack against it accessed only a limited set of data.",
+   "headline": "14 dead on migrant boat off Canary Islands",
+   "summary": "Fourteen people were found dead on a boat carrying about 100 migrants south of El Hierro, as crossings surge ahead of Spain's election.",
    "sources": [
-    "Newswire"
+    "Daily Mirror"
    ],
-   "url": "https://www.newswire.lk/2026/11/28/fifa-says-cyberattack-against-it-accessed-a-limited-set-of-data/"
+   "url": "https://www.dailymirror.lk/breaking-news/Fourteen-found-dead-on-migrant-boat-off-Spains-Canary-Islands/108-355988"
   }
  ]
 }

@@ -1,102 +1,19 @@
-{
- "generatedAt": 1795797813543,
- "generatedAtText": "Fri 27 Nov 2026, 10:13 PM",
+{"generatedAt": 1795848116865,
+ "generatedAtText": "Sat 28 Nov 2026, 12:20 PM",
  "status": "Couldn't read: Daily News",
  "items": [
-  {
-   "section": "Top stories",
-   "headline": "Gotabaya says he can't recall in Lalith-Kugan case",
-   "summary": "Testifying by video link to the Jaffna Magistrate's Court, former President Gotabaya Rajapaksa repeatedly said he could not remember events from his time as Defence Secretary. His further evidence was put off to February 12.",
-   "sources": [
-    "Newsfirst",
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/gotabayas-repeated-i-dont-remember-responses-in-court/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Finance Ministry welcomes S&P upgrade",
-   "summary": "The Finance Ministry hailed S&P's move to raise Sri Lanka from CCC+ to B- with a stable outlook, noting it follows a similar Fitch upgrade in September.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/finance-ministry-welcomes-sps-upgrade-of-sri-lankas-credit-ratings/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Two-year rebuild plan for Ditwah-hit transport",
-   "summary": "The Transport Minister told Parliament a Rs. 125 billion, two-year programme to rebuild roads and bridges damaged by Cyclone Ditwah is under way. Opposition Leader Sajith Premadasa said the disaster response has fallen short and urged a new disaster-management mechanism.",
-   "sources": [
-    "Daily Mirror",
-    "Newswire"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Two-years-to-complete-reconstruction-of-Ditwah-affected-transport-facilities/108-355905"
-  },
-  {
-   "section": "Top stories",
-   "headline": "Three held with 47,000 cigarettes at BIA",
-   "summary": "Customs stopped three young Sri Lankan travellers at Katunayake airport carrying about 47,000 foreign cigarettes worth roughly Rs. 7 million hidden in their luggage.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/up-in-smoke-three-passengers-caught-with-47000-cigarettes-at-bia/"
-  },
-  {
-   "section": "Top stories",
-   "headline": "FIFA and AFP hit by cyberattacks",
-   "summary": "FIFA said hackers posing as staff accessed a small amount of personal and business data, while news agency AFP took its client content platform offline after an overnight attack.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/international/FIFA-hit-by-cyberattack-as-hackers-gain-access-to-personal-and-business-data/107-355918"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Namal: only 3% of rural development funds spent",
-   "summary": "SLPP MP Namal Rajapaksa told Parliament roughly Rs. 1 billion of the Rs. 35 billion rural development allocation has been used, and urged the government to stop blaming past administrations.",
-   "sources": [
-    "Daily Mirror"
-   ],
-   "url": "https://www.dailymirror.lk/breaking-news/Namal-questions-spending-of-rural-development-funds/108-355910"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "Namal alleges staff signed in, then attended President's rally",
-   "summary": "Showing an attendance sheet and selfies, Namal Rajapaksa claimed public servants marked duty before attending a presidential meeting, and asked why the rules used against a remanded trade unionist were not applied to them.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/namal-alleges-tu-officials-attended-presidents-rally-after-signing-in-for-duty/"
-  },
-  {
-   "section": "Politics & Government",
-   "headline": "First female honorary consul in Türkiye",
-   "summary": "Entrepreneur Elif Yücelik has been appointed Sri Lanka's honorary consul in Erzurum, covering Eastern Anatolia for three years, the first woman in the role in Türkiye.",
-   "sources": [
-    "Newswire",
-    "Daily Mirror"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/sri-lanka-appoints-first-female-honorary-consul-in-turkiye/"
-  },
-  {
-   "section": "Local / Crime & Courts",
-   "headline": "Recycling facility opens in Kattankudy",
-   "summary": "A material recovery facility to sort household plastic, polythene and glass has opened at the Kattankudy Urban Council under the Clean Sri Lanka programme.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/pure-city-material-recovery-facility-opened-in-kattankudy/"
-  },
-  {
-   "section": "Sports",
-   "headline": "Rohit Sharma back as Mumbai Indians captain",
-   "summary": "Mumbai Indians reappointed Rohit Sharma as captain for IPL 2027, after Hardik Pandya moved to Punjab Kings in a trade.",
-   "sources": [
-    "Newswire"
-   ],
-   "url": "https://www.newswire.lk/2026/11/27/mumbai-indians-announce-new-captain/"
-  }
- ]
-}
+  {"section": "Top stories", "headline": "Parliament sets up committee on July 1983 riots", "summary": "Speaker Jagath Wickramaratne has appointed a special select committee, chaired by Minister Saroja Paulraj, to examine the Black July riots of 1983 and ways to foster communal harmony.", "sources": ["Daily Mirror", "Newswire", "Newsfirst"], "url": "https://www.dailymirror.lk/breaking-news/Speaker-appoints-special-select-committee-to-probe-July-1983-riots/108-355925"},
+  {"section": "Top stories", "headline": "President rejects salary protests, pledges Rs. 150bn in 2028 Budget", "summary": "President Anura Kumara Dissanayake described public sector pay protests as a coordinated bid to create a crisis and promised Rs. 150 billion for salaries and allowances in the 2028 Budget. He also flagged plans to raise the income threshold for the 36% tax band to Rs. 500,000 a month.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/President-warns-against-salary-protests-assures-Rs-150Bn-from-2028-budget/108-355916"},
+  {"section": "Top stories", "headline": "Govt aims to restore credit rating to earlier levels after S&P upgrade", "summary": "Finance Ministry Secretary Harshana Suriyapperuma said the government hopes to return Sri Lanka's rating to its previous level following S&P's upgrade, but gave no timeline given geopolitical and climate risks.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/govt-confident-of-restoring-sri-lankas-credit-rating-to-previous-b-levels/"},
+  {"section": "Top stories", "headline": "Russia agrees to help return 10 Sri Lankan fugitives", "summary": "Russia's Prosecutor General Alexandr Gutsan agreed to facilitate the handover of about 10 suspects believed to be in Russia, after talks with Justice Minister Harshana Nanayakkara; the two sides also signed a crime-cooperation agreement.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/russia-agrees-to-facilitate-return-of-10-sri-lankan-fugitives"},
+  {"section": "Top stories", "headline": "Landslide warnings for 7 districts", "summary": "The NBRI issued Level 1 warnings for Badulla, Kalutara, Kandy, Kegalle, Matale, Nuwara Eliya and Ratnapura until 9 PM today, with Level 2 alerts for Udadumbara, Walapane, Nildandahinna and Hanguranketha.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/landslide-warning-issued-for-7-districts/"},
+  {"section": "Politics & Government", "headline": "Poddala Jayantha responds to Gotabaya's court testimony", "summary": "Exiled journalist Poddala Jayantha disputed former President Gotabaya Rajapaksa's testimony in the Lalith-Kugan case that he did not know him, alleging past threats and his later abduction and assault.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/my-torturers-may-have-forgotten-me-but-i-have-not-forgotten-them-poddala-jayantha-responds-to-gotabaya/"},
+  {"section": "Politics & Government", "headline": "Sri Lanka urges stronger IORA cooperation", "summary": "At the IORA ministerial meeting in New Delhi, Foreign Minister Vijitha Herath called for practical cooperation on maritime safety, fisheries, disaster preparedness and the blue economy.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/sri-lanka-calls-for-stronger-iora-cooperation-at-ministerial-meeting-in-new-delhi/"},
+  {"section": "Local / Crime & Courts", "headline": "O/L tuition classes banned from December 2", "summary": "Tuition classes, seminars and lectures for the 2026 G.C.E. O/L exam are banned from midnight on December 2 until the exam, which runs December 8–17 at 3,519 centres.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/tuition-classes-for-2026-g-c-e-ol-examination-prohibitied-from-december-2"},
+  {"section": "Local / Crime & Courts", "headline": "Police fire on robbery suspects' van in Eheliyagoda", "summary": "Police shot at a fleeing van carrying robbery suspects in Parakaduwa, Eheliyagoda; one wounded suspect was arrested while others escaped.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/Police-open-fire-on-van-carrying-robbery-suspects-in-Eheliyagoda/108-355933"},
+  {"section": "Local / Crime & Courts", "headline": "Constable deported from Dubai detained over T-56 case", "summary": "A police constable accused of handing his official T-56 rifle to a criminal gang and of drug trafficking was detained for 72 hours of questioning after being deported from Dubai.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/police-constable-detained-for-questioning-after-being-deported-from-dubai"},
+  {"section": "Local / Crime & Courts", "headline": "Navy seizes suspected drug vessel, arrests 7 foreigners", "summary": "The Navy intercepted a stateless vessel south of Dondra and brought it and seven foreign crew to Dikkowita harbour; the drug haul has not yet been disclosed.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/navy-seizes-suspected-drug-vessel-arrests-7-foreigners/"},
+  {"section": "Weather & Disasters", "headline": "Heavy rain above 100mm expected in several provinces", "summary": "The Met Department forecasts heavy showers exceeding 100mm in parts of several provinces, adding to landslide risk in hill districts.", "sources": ["Daily Mirror", "Newswire"], "url": "https://www.dailymirror.lk/breaking-news/Heavy-showers-of-over-100mm-expected-in-several-provinces/108-355924"},
+  {"section": "Sports", "headline": "Thurstan win on first innings", "summary": "Thurstan College beat Gurukula MV Kelaniya on first innings in an Under-19 schools match, with Rison Jansen scoring 81.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/sports/First-innings-win-for-Thurstan/244-355936"},
+  {"section": "International", "headline": "Two Sri Lankan workers killed in South Korea", "summary": "Two Sri Lankan men in their 30s were killed in Hwaseong when cargo protruding from a passing truck struck them as they walked home from work; police are taking legal action against the driver.", "sources": ["Newswire", "Newsfirst"], "url": "https://www.newswire.lk/2026/11/28/two-sri-lankan-workers-walking-home-killed-by-cargo-protruding-from-truck-in-south-korea/"}
+ ]}

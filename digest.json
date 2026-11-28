@@ -1,19 +1,177 @@
-{"generatedAt": 1795848116865,
- "generatedAtText": "Sat 28 Nov 2026, 12:20 PM",
+{
+ "generatedAt": 1795866221921,
+ "generatedAtText": "Sat 28 Nov 2026, 5:13 PM",
  "status": "Couldn't read: Daily News",
  "items": [
-  {"section": "Top stories", "headline": "Parliament sets up committee on July 1983 riots", "summary": "Speaker Jagath Wickramaratne has appointed a special select committee, chaired by Minister Saroja Paulraj, to examine the Black July riots of 1983 and ways to foster communal harmony.", "sources": ["Daily Mirror", "Newswire", "Newsfirst"], "url": "https://www.dailymirror.lk/breaking-news/Speaker-appoints-special-select-committee-to-probe-July-1983-riots/108-355925"},
-  {"section": "Top stories", "headline": "President rejects salary protests, pledges Rs. 150bn in 2028 Budget", "summary": "President Anura Kumara Dissanayake described public sector pay protests as a coordinated bid to create a crisis and promised Rs. 150 billion for salaries and allowances in the 2028 Budget. He also flagged plans to raise the income threshold for the 36% tax band to Rs. 500,000 a month.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/President-warns-against-salary-protests-assures-Rs-150Bn-from-2028-budget/108-355916"},
-  {"section": "Top stories", "headline": "Govt aims to restore credit rating to earlier levels after S&P upgrade", "summary": "Finance Ministry Secretary Harshana Suriyapperuma said the government hopes to return Sri Lanka's rating to its previous level following S&P's upgrade, but gave no timeline given geopolitical and climate risks.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/govt-confident-of-restoring-sri-lankas-credit-rating-to-previous-b-levels/"},
-  {"section": "Top stories", "headline": "Russia agrees to help return 10 Sri Lankan fugitives", "summary": "Russia's Prosecutor General Alexandr Gutsan agreed to facilitate the handover of about 10 suspects believed to be in Russia, after talks with Justice Minister Harshana Nanayakkara; the two sides also signed a crime-cooperation agreement.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/russia-agrees-to-facilitate-return-of-10-sri-lankan-fugitives"},
-  {"section": "Top stories", "headline": "Landslide warnings for 7 districts", "summary": "The NBRI issued Level 1 warnings for Badulla, Kalutara, Kandy, Kegalle, Matale, Nuwara Eliya and Ratnapura until 9 PM today, with Level 2 alerts for Udadumbara, Walapane, Nildandahinna and Hanguranketha.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/landslide-warning-issued-for-7-districts/"},
-  {"section": "Politics & Government", "headline": "Poddala Jayantha responds to Gotabaya's court testimony", "summary": "Exiled journalist Poddala Jayantha disputed former President Gotabaya Rajapaksa's testimony in the Lalith-Kugan case that he did not know him, alleging past threats and his later abduction and assault.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/my-torturers-may-have-forgotten-me-but-i-have-not-forgotten-them-poddala-jayantha-responds-to-gotabaya/"},
-  {"section": "Politics & Government", "headline": "Sri Lanka urges stronger IORA cooperation", "summary": "At the IORA ministerial meeting in New Delhi, Foreign Minister Vijitha Herath called for practical cooperation on maritime safety, fisheries, disaster preparedness and the blue economy.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/sri-lanka-calls-for-stronger-iora-cooperation-at-ministerial-meeting-in-new-delhi/"},
-  {"section": "Local / Crime & Courts", "headline": "O/L tuition classes banned from December 2", "summary": "Tuition classes, seminars and lectures for the 2026 G.C.E. O/L exam are banned from midnight on December 2 until the exam, which runs December 8–17 at 3,519 centres.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/tuition-classes-for-2026-g-c-e-ol-examination-prohibitied-from-december-2"},
-  {"section": "Local / Crime & Courts", "headline": "Police fire on robbery suspects' van in Eheliyagoda", "summary": "Police shot at a fleeing van carrying robbery suspects in Parakaduwa, Eheliyagoda; one wounded suspect was arrested while others escaped.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/breaking-news/Police-open-fire-on-van-carrying-robbery-suspects-in-Eheliyagoda/108-355933"},
-  {"section": "Local / Crime & Courts", "headline": "Constable deported from Dubai detained over T-56 case", "summary": "A police constable accused of handing his official T-56 rifle to a criminal gang and of drug trafficking was detained for 72 hours of questioning after being deported from Dubai.", "sources": ["Newsfirst"], "url": "https://english.newsfirst.lk/2026/11/28/police-constable-detained-for-questioning-after-being-deported-from-dubai"},
-  {"section": "Local / Crime & Courts", "headline": "Navy seizes suspected drug vessel, arrests 7 foreigners", "summary": "The Navy intercepted a stateless vessel south of Dondra and brought it and seven foreign crew to Dikkowita harbour; the drug haul has not yet been disclosed.", "sources": ["Newswire"], "url": "https://www.newswire.lk/2026/11/28/navy-seizes-suspected-drug-vessel-arrests-7-foreigners/"},
-  {"section": "Weather & Disasters", "headline": "Heavy rain above 100mm expected in several provinces", "summary": "The Met Department forecasts heavy showers exceeding 100mm in parts of several provinces, adding to landslide risk in hill districts.", "sources": ["Daily Mirror", "Newswire"], "url": "https://www.dailymirror.lk/breaking-news/Heavy-showers-of-over-100mm-expected-in-several-provinces/108-355924"},
-  {"section": "Sports", "headline": "Thurstan win on first innings", "summary": "Thurstan College beat Gurukula MV Kelaniya on first innings in an Under-19 schools match, with Rison Jansen scoring 81.", "sources": ["Daily Mirror"], "url": "https://www.dailymirror.lk/sports/First-innings-win-for-Thurstan/244-355936"},
-  {"section": "International", "headline": "Two Sri Lankan workers killed in South Korea", "summary": "Two Sri Lankan men in their 30s were killed in Hwaseong when cargo protruding from a passing truck struck them as they walked home from work; police are taking legal action against the driver.", "sources": ["Newswire", "Newsfirst"], "url": "https://www.newswire.lk/2026/11/28/two-sri-lankan-workers-walking-home-killed-by-cargo-protruding-from-truck-in-south-korea/"}
- ]}
+  {
+   "section": "Top stories",
+   "headline": "Amber alert for lightning and heavy rain in 19 districts",
+   "summary": "The Met Department issued an Amber warning at 1:38 PM for severe lightning and heavy rain across 19 districts, valid until 11:30 PM tonight. Flash floods, landslides and power cuts are possible, and fishermen are told to return to shore early.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/weather-warning-19-districts-on-alert-for-thunderstorms/"
+  },
+  {
+   "section": "Top stories",
+   "headline": "43 Red Notice suspects traced in 17 countries",
+   "summary": "Public Security Minister Ananda Wijepala told Parliament that 43 organised-crime suspects under Interpol Red Notices, 17 of them in Dubai, will be brought back as soon as possible. He also backed amending the drugs ordinance to allow longer detention for questioning.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/28/43-red-notice-suspects-in-17-countries-to-be-brought-back-to-sri-lanka-says-public-security-minister"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Tri-forces to be restructured by 2031",
+   "summary": "Deputy Minister Aruna Jayasekera told Parliament the Army, Navy and Air Force will be reshaped into modern professional forces by 2031. Funds have been set aside for five anti-drone systems, and a review committee of retired commanders will be formed.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/latest-news/Tri-forces-to-be-restructured-by-2031-Minister/342-355984"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Fuel station owners back November 30 union action",
+   "summary": "The Petroleum Distributors Association says it supports Monday's nationwide trade union action, citing discount cuts, VAT disputes and short supply to private stations. It meets in Colombo tomorrow morning to decide its next step.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/latest-news/Fuel-distributors-back-November-30-trade-union-action/342-355978"
+  },
+  {
+   "section": "Top stories",
+   "headline": "Teen gets heart transplant at National Hospital",
+   "summary": "A 14-year-old boy received the heart of a 19-year-old brain-dead donor from Gampaha at Colombo National Hospital and is reported to be doing well. Police escorted the organ by road after bad weather grounded the planned helicopter.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/14-year-old-undergoes-successful-heart-transplant-at-Colombo-National-Hospital/108-355980"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Police to get electric vehicles, body cameras",
+   "summary": "Minister Wijepala said police will receive 400 electric cars and 65,000 electric motorcycles in 2027, along with CCTV for 389 more stations and new uniforms fitted with body cameras.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/police-to-get-400-electric-cars-65000-electric-motorcycles-and-new-uniforms/"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "Foreign Minister joins IORA call with Modi",
+   "summary": "Foreign Minister Vijitha Herath took part in a meeting with Indian PM Narendra Modi alongside other IORA ministers in New Delhi.",
+   "sources": [
+    "Newswire",
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/28/sri-lanka-s-foreign-minister-meets-indian-pm-modi"
+  },
+  {
+   "section": "Politics & Government",
+   "headline": "President opens World Fellowship of Buddhists anniversary",
+   "summary": "President Dissanayake attended the opening of the 60th anniversary events in Kelaniya and spoke about the role of ethical leadership in national stability.",
+   "sources": [
+    "Newsfirst",
+    "Newswire"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/28/president-says-righteous-leadership-is-key-to-national-stability-and-progress"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "Port Access Expressway limited to permit holders from Dec 1",
+   "summary": "The RDA will allow only vehicles authorised to enter Colombo Port on the Port Access Expressway from Monday. Separately, expressway revenue has passed Rs. 27.5 billion over 22 months.",
+   "sources": [
+    "Daily Mirror",
+    "Newswire"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Port-access-expressway-to-allow-only-permitted-vehicles-from-December-1/108-355983"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "East Container Terminal nears full operations",
+   "summary": "Ten yard lanes at Colombo Port's East Container Terminal are due to go commercial by the end of December to ease congestion, with one lane already running automated.",
+   "sources": [
+    "Newsfirst"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/28/colombo-port%e2%80%99s-east-terminal-to-begin-full-operations-by-december"
+  },
+  {
+   "section": "Economy & Business",
+   "headline": "CSE ends week lower",
+   "summary": "The ASPI lost 0.8% over the week, dragged by Commercial Bank, Singer and LOLC, on average daily turnover of about Rs. 1.65 billion.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/business/Week-ends-in-red/215-355962"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Suspect shot in Eheliyagoda police scuffle",
+   "summary": "A 25-year-old suspect from the van police fired on was shot in the shoulder after allegedly trying to grab an officer's gun. He is in Eheliyagoda Hospital and another suspect escaped.",
+   "sources": [
+    "Newsfirst",
+    "Newswire",
+    "Daily Mirror"
+   ],
+   "url": "https://english.newsfirst.lk/2026/11/28/suspect-shot-during-confrontation-with-police-in-eheliyagoda"
+  },
+  {
+   "section": "Local / Crime & Courts",
+   "headline": "Five Chinese nationals wanted by Beijing deported",
+   "summary": "Immigration officers deported five Chinese citizens wanted in China who were staying in Sri Lanka illegally, flying them to Shanghai and Chengdu.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Five-Chinese-nationals-wanted-by-China-deported/108-355919"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Passenger killed as rock hits bus in Ginigathhena",
+   "summary": "A rock rolled onto an SLTB bus from Hatton to Colombo near Kalugala, killing a 35-year-old passenger. Police blame recent heavy rain.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/passenger-killed-after-rock-falls-onto-bus-in-ginigathhena/"
+  },
+  {
+   "section": "Weather & Disasters",
+   "headline": "Small oil spill in Trincomalee Harbour",
+   "summary": "The Coast Guard is cleaning up a slick of about 7m by 2m found in the Boom Cove area this morning.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/coast-guard-responds-to-oil-spill-at-trincomalee-harbour/"
+  },
+  {
+   "section": "Sports",
+   "headline": "Sri Lanka A beat India A to reach Rising Stars final",
+   "summary": "Openers Lasith Croospulle and Sineth Jayawardena both made centuries as Sri Lanka A chased 318 to win by eight wickets in Doha.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/sports/Croospulle-and-Jayawardena-heroics-send-India-Apacking/244-355960"
+  },
+  {
+   "section": "International",
+   "headline": "Eight killed in Peru military helicopter crash",
+   "summary": "A Peruvian military helicopter crash left eight people dead.",
+   "sources": [
+    "Daily Mirror"
+   ],
+   "url": "https://www.dailymirror.lk/breaking-news/Eight-killed-in-Peruvian-military-helicopter-crash/108-355975"
+  },
+  {
+   "section": "International",
+   "headline": "FIFA says cyberattack reached limited data",
+   "summary": "FIFA said a cyberattack against it accessed only a limited set of data.",
+   "sources": [
+    "Newswire"
+   ],
+   "url": "https://www.newswire.lk/2026/11/28/fifa-says-cyberattack-against-it-accessed-a-limited-set-of-data/"
+  }
+ ]
+}
